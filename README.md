@@ -13,6 +13,7 @@
 
 > `HOME` tuşu ile yukarı yönlenebilrsiniz.
 
+- [3. Sınıf 1. Dönem Notları](#3-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
 - [3. Sınıf 2. Dönem Notları](#3-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [Lisans ve Teferruatlar](#lisans-ve-teferruatlar)
 
