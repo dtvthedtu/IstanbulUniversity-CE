@@ -9,7 +9,7 @@ import re
 from urllib.parse import quote
 
 # Indexlenmeyecek dosya isimleri
-PRIVATE_FOLDERS = ['.git', 'images', 'pdfs', '.vscode', 'Windows10 Kaynakları']
+PRIVATE_FOLDERS = ['.git', 'mgs', '.vscode']
 
 
 def isPrivate(dir_name) -> bool:
