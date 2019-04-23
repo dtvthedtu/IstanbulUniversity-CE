@@ -15,6 +15,7 @@
 
 - [3. Sınıf 1. Dönem Notları](#3-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
 - [3. Sınıf 2. Dönem Notları](#3-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
+- [Okul Notları](#okul-notlar%C4%B1)
 - [Lisans ve Teferruatlar](#lisans-ve-teferruatlar)
 
 <!-- Index -->
@@ -40,6 +41,10 @@
 - [Software Testing And Quality](3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Software%20Testing%20And%20Quality.md)
 - [Web Programlama](3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Web%20Programlama.md)
 - [İş Sağlığı ve Güvenliği](3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi.md)
+
+## Okul Notları
+
+- [Ücretsiz Yazılımlar](Okul%20Notlar%C4%B1/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
 
 <!-- Index -->
 
