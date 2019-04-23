@@ -1,9 +1,9 @@
-# IU-CE Ders Notları <!-- omit in toc -->
+# Istanbul University - CE <!-- omit in toc -->
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yedhrab/IU-CE-DersNotlari.svg?label=Son%20G%C3%BCncelleme&style=popout)
-![GitHub](https://img.shields.io/github/license/yedhrab/IU-CE-DersNotlari.svg?label=Lisans&style=popout)
+![GitHub last commit](https://img.shields.io/github/last-commit/yedhrab/IstanbulUniversity-CE.svg?label=Son%20G%C3%BCncelleme&style=popout)
+![GitHub](https://img.shields.io/github/license/yedhrab/IstanbulUniversity-CE.svg?label=Lisans&style=popout)
 ![made_with_Markdown](https://img.shields.io/badge/%C4%B0%C3%A7erik-Markdown-blue.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/yedhrab/IU-CE-DersNotlari.svg?label=Boyut&style=popout)
+![GitHub repo size](https://img.shields.io/github/repo-size/yedhrab/IstanbulUniversity-CE.svg?label=Boyut&style=popout)
 
 İstanbul Üniversitesi Bilgisayar Mühendisliği ders notları.
 
@@ -58,6 +58,6 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 - [Website](https://yemreak.com)
 - [LinkedIn](https://www.linkedin.com/in/yemreak/)
 
-> Yardım veya destek için [iletişime](mailto::yedhrab@gmail.com?subject=IU-CE-DersNotlari%20%7C%20Github) geçebilrsiniz 🤗
+> Yardım veya destek için [iletişime](mailto::yedhrab@gmail.com?subject=IstanbulUniversity-CE%20%7C%20Github) geçebilrsiniz 🤗
 
 ~ Yunus Emre Ak
