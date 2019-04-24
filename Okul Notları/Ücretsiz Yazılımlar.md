@@ -1,6 +1,14 @@
-# Ücretsiz Yazılımlar
+# Ücretsiz Yazılımlar <!-- omit in toc -->
 
 Okulumuzun fayda sağladığı siteler:
+
+## İçerikler <!-- omit in toc -->
+
+- [Github](#github)
+- [Microsoft Azure](#microsoft-azure)
+- [Microsoft Office 365](#microsoft-office-365)
+- [Eduroam SecureW2](#eduroam-securew2)
+- [JetBrainsIDE](#jetbrainside)
 
 ## Github
 
