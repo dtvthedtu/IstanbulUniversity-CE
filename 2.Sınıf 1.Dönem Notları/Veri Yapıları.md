@@ -1,0 +1,3 @@
+# Veri Yapıları
+
+> TODO

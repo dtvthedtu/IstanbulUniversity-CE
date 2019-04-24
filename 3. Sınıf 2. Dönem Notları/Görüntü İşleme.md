@@ -69,7 +69,7 @@ Ders içerikleri drive üzerinden yedeklenmektedir, [buraya](https://drive.googl
 - Gri Ölçekli (*gray scale*) görüntü
 - Renkli (*colour*) görüntü
 
-![sayisal_goruntu](imgs/sayisal_goruntu.png)
+![sayisal_goruntu](../res/sayisal_goruntu.png)
 
 #### Siyah-Beyaz Görüntü
 
@@ -89,7 +89,7 @@ Ders içerikleri drive üzerinden yedeklenmektedir, [buraya](https://drive.googl
 - Belli eşiğin üstündeki ani değişimler (255'ten 0'a değişim 255'tir)
 - Türevin yüksek değer aldığı yerler kenarları oluşturur. (*gradient descent*)
 
-![edge_detection](imgs/edge_detection.png)
+![edge_detection](../res/edge_detection.png)
 
 ### Kenar Belirleme Sorunları
 
@@ -107,12 +107,12 @@ Ders içerikleri drive üzerinden yedeklenmektedir, [buraya](https://drive.googl
 
 > Gradyan'a eğim denilebilir.
 
-![edge_detection_ex](imgs/edge_detection_ex.png)
-![edge_detection_ex2](imgs/edge_detection_ex2.png)
+![edge_detection_ex](../res/edge_detection_ex.png)
+![edge_detection_ex2](../res/edge_detection_ex2.png)
 
 #### Gradyan Tabanlı Kenar Belirleme
 
-![gradiant_bases_edge_det](imgs/gradian_based_edge_detection.png)
+![gradiant_bases_edge_det](../res/gradian_based_edge_detection.png)
 
 Görüntünün birinci türevindeki maks ve min değerlere bakarak kenar belirleme yöntemidir.
 
@@ -123,8 +123,8 @@ Görüntünün birinci türevindeki maks ve min değerlere bakarak kenar belirle
 | Robert  | En basit eğim opreratörüdür, köşeden köşeye çapraz geçiş yapar |
 
 (G = kök(gx'in karesi + gx'in karesi))
-![gradiant_tec](imgs/gradiant_tec.png)
-![grad_ex2](imgs/grad_ex2.png)
+![gradiant_tec](../res/gradiant_tec.png)
+![grad_ex2](../res/grad_ex2.png)
 
 #### Laplasyan Tabanlı Kenar Belirleme
 
@@ -134,19 +134,19 @@ Görüntünün birinci türevindeki maks ve min değerlere bakarak kenar belirle
 - Marr-Hilderth
 - Canny 🌟
 
-![laplasian](imgs/laplasian.png)
+![laplasian](../res/laplasian.png)
 
 ##### Marr-Hilderth Kenar Belirleme
 
 - LoG (*Laplacian of Guassion*)'un 0 Kesişimini ele alır
 - Ön işlem olarak yumuşatma (*gauss filter*) kullanır
 
-![marth_hilderth](imgs/marth_hilderth.png)
+![marth_hilderth](../res/marth_hilderth.png)
 
 ##### Canny Kenar Belirleme
 
 - Çok fazla kullanılır
-- Gradyan büyüklüğü ve yönü belirlenir ![canny_maskes](imgs/canny_masks.png)
+- Gradyan büyüklüğü ve yönü belirlenir ![canny_maskes](../res/canny_masks.png)
 - Birden fazla *pixel* kalınlıktaki kenarlar, inceltme ile bir *pixel* kalınlığa düşürülür
   - İnceltme, *q* bir kenarsa, komşularından daha büyük değer almalıdır
 - Büyük ve küçük olmak üzere iki eşik değeri (*threshold*) tanımlanır
@@ -155,8 +155,8 @@ Görüntünün birinci türevindeki maks ve min değerlere bakarak kenar belirle
   - Küçük olan ile eğriler devam ettirilir
     - Komşularının gradyan açıları yakın değerler alıyorsa kenara dahil edilir
 
-![canny_ex](imgs/canny_ex.png)
-![canny_ex2](imgs/canny_ex2.png)
+![canny_ex](../res/canny_ex.png)
+![canny_ex2](../res/canny_ex2.png)
 
 ### Gürültü (Noise)
 
@@ -166,7 +166,7 @@ Görüntünün birinci türevindeki maks ve min değerlere bakarak kenar belirle
 | İmpuls (*impulse*)             | Rastgele beyaz piksellerin oluşması                                |
 | Gauss                          | Parlaklık seviyerilnde gauss dağılımına uyan değişimlerin oluşması |
 
-![noise_ex](imgs/noise_ex.png)
+![noise_ex](../res/noise_ex.png)
 
 #### Gürültülü Engelleme
 
@@ -199,7 +199,7 @@ Filtreler **frekans**'a göre *pixel*'leri temizlemek için kullanılır.
 
 Görüntü içerisindeki detayları, kenarları ve gürültüyü ortaya çıkarır.
 
-![noise_elemination](imgs/noise_elemination.png)
+![noise_elemination](../res/noise_elemination.png)
 
 #### Guassian Filtre
 
@@ -228,8 +228,8 @@ Gaussian Filtre'si gürültüyü giderirken görüntüyü bulanıklaştırır. M
 - Görüntüyü bulanıklaştırmadan gürültüyü engeller
 - *Pixel* değerinin komşu *pixel* değerlerine göre medyanı alınır
 
-![medyan_filtre](imgs/medyan_filtre.png)
-![medyan_örneği](imgs/medyan_örneği.png)
+![medyan_filtre](../res/medyan_filtre.png)
+![medyan_örneği](../res/medyan_örneği.png)
 
 ### Temel Görüntü İşlemleri
 
@@ -239,7 +239,7 @@ Gaussian Filtre'si gürültüyü giderirken görüntüyü bulanıklaştırır. M
 | Keskinleştirme (*sharpen*) | Orjinal görüntüye kenarları bulunmş görüntü eklenir (Maskedeki merkez değeri 1 arttırılarak)                                                                                                                               |
 | Kabartma                   | Resme 3D efekti verir, merkezin bir tarafındaki *pixel* değerlerinden diğer taraftakilerin çıkarılması ile yapılır. Negatif olanlar gölge, pozitif olanlar aydınlık yüzey olur. Görüntünün çoğu gri tonlarına dönüşecektir |
 
-![img_ex_tecnique](imgs/img_ex_tecnique.jpg)
+![img_ex_tecnique](../res/img_ex_tecnique.jpg)
 
 ## Renk ve Geometrik Dönüşümler
 

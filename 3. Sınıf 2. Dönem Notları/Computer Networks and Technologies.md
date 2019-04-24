@@ -136,7 +136,7 @@
 
 - Edge router: İnternete ilk adımın atıldığı yönlendiriciler (routers)
 
-![network sturcture](imgs/network%20structures.png)
+![network sturcture](../res/network%20structures.png)
 
 ### Network Edge
 
@@ -184,7 +184,7 @@ Fiziksel verilerin (*bit*'lerin) aktarılmasını ele alır.
 
 Birbirine bağlı çok sayıda *router*'dan oluşur. Network of network olarak da tabir edilen interneti ele alır.
 
-![network_core](imgs/network_core.png)
+![network_core](../res/network_core.png)
 
 | Aktarım Yöntemi   | Açıklama                                               |
 | ----------------- | ------------------------------------------------------ |
@@ -200,7 +200,7 @@ Birbirine bağlı çok sayıda *router*'dan oluşur. Network of network olarak d
 - Kaynaklar paylaşılmaz, kullanılmayanlar boşta bekler (verimsiz)
 - Frekans ve Zaman bölme olarak iki yöntemi vardır. (FDM, TDM)
 
-![fdm_tdm](imgs/fdm_tdm.png)
+![fdm_tdm](../res/fdm_tdm.png)
 
 #### Packet Switching (Paket Anahtarlama)
 
@@ -216,7 +216,7 @@ Birbirine bağlı çok sayıda *router*'dan oluşur. Network of network olarak d
   - *Packet*'lar aynı anda bir yönlendiriciye iletirilir
     - Buffer'ı yetmezse *packet* kaybı olur
 
-![packet_switching](imgs/packet_switching.png)
+![packet_switching](../res/packet_switching.png)
 
 #### Packet Yönteminin Circuit Switching Yöntemine Göre Farkı
 
@@ -237,19 +237,19 @@ Her bir katman üst katmanının müşterisidir.
 | *Tier-2*      | Regional *ISP* bölgesel servis sağlayıcılarıdır. Birbirlerine değil *Tier-1*'e bağlıdırlar      |
 | *Tier-3*      | Son kullanıcı ağlarıdır, *Tier-2*'e bağlanırlar                                                 |
 
-![isps](imgs/ısps.png)
+![isps](../res/ısps.png)
 
 #### Paketlerin iletimi
 
 Paketler *tier-3*'ten *tier-1*'e ardından hedef *tier-3*'e doğru yol izlerler.
 
-![packet_forwarding](imgs/packet_forwarding.png)
+![packet_forwarding](../res/packet_forwarding.png)
 
 - *Router*'lar arası verilerin yayıldığı alana **pipe** denir
 - Kalın bağlantılarda (links) veri aktarımı daha fazladır
 - Ince alanlara **bottleneck link** denir
 
-![throughput](imgs/throughput.png)
+![throughput](../res/throughput.png)
 
 #### Packet Delay & Loss (Gecikme ve Kayıp)
 
@@ -258,7 +258,7 @@ Paketler *tier-3*'ten *tier-1*'e ardından hedef *tier-3*'e doğru yol izlerler.
 - Gelen *packet* sayısı çıkandan fazla ise fazlalık *packet*'lar *buffer*'a konulur
 - *Buffer* yeterli alana sahip değilse *packet* atılır, kayıp *packet*'lar önceki *node*'dan tekrar istenir
 
-![packet_loss](imgs/packet_loss_delay.png)
+![packet_loss](../res/packet_loss_delay.png)
 
 #### Packet Switching Delay
 
@@ -269,8 +269,8 @@ Paketler *tier-3*'ten *tier-1*'e ardından hedef *tier-3*'e doğru yol izlerler.
 | Transmisson Delay | Yayılım için *packet*'ların *router*'a iletilmesi |
 | Propagation Delay | *Router*'daki paketlerin yayılması                |
 
-![caravan_analogy](imgs/caravan_analogy.png)
-![caravan_analogy2](imgs/caravan_analogy2.png)
+![caravan_analogy](../res/caravan_analogy.png)
+![caravan_analogy2](../res/caravan_analogy2.png)
 
 #### Internet Delay
 
@@ -279,7 +279,7 @@ Traceroute programı kaynaktan hedefe yol üzerinde bulunan *router*'lardaki gec
 - Windows için tracert
 - Linux için tracepath
 
-![tracepath](imgs/tracepath.png)
+![tracepath](../res/tracepath.png)
 
 #### Protocol Layers (Protokol Katmanları)
 
@@ -299,7 +299,7 @@ Ağ yapıları karmaşıktır. Bilgisayarlar, *routers*, *protocols* ... Katman 
 | link        | Komşu ağ elemanları arasında veri transferi: PPP, Ethernet                 |
 | physical    | Hattaki bitler (*bits in wire*)                                            |
 
-![ips](imgs/ips.png)
+![ips](../res/ips.png)
 
 ##### ISO / OSI Reference Model
 
@@ -310,13 +310,13 @@ Internet protocol *stack*'te bu katmanlar yoktur, gerekirse program ile uygulan�
 | presentation | Uygulamaların verilerin anlamlarını yorumlamasını sağlar: *encryption*, *compression* ... |
 | session      | Senkronizasyon, denetim veri değişimi ...                                                 |
 
-![iso_osi](imgs/iso_osi.png)
+![iso_osi](../res/iso_osi.png)
 
 #### Encapsulation (Kapsülleme)
 
 Veri transferleri *encapsulation* ile yapılmaktadır.
 
-![encopsulation](imgs/encapsulation.png)
+![encopsulation](../res/encapsulation.png)
 
 ### Network Security
 
@@ -346,19 +346,19 @@ Casus yazılımlar olarak da bilinir. Klavye tuş basımlarını ve girdiğimiz 
 
 Denial of service olarak da bilinir. Saldırganların kaynağa çok fazla *packet* göndererek erişim dışı bırakmasıdır.
 
-![dos](imgs/dos.png)
+![dos](../res/dos.png)
 
 ##### Packet Sniffing (Paket Yakalama)
 
 Yerel ağa bağlı bir ağ kartından *Wireshark* uygulaması ile başka *packet*'lar de yakalanır.
 
-![packet_sniffing](imgs/packet_sniffing.png)
+![packet_sniffing](../res/packet_sniffing.png)
 
 ##### IP Spoofing (IP Aldatmacası)
 
 Yanlış IP adresiyle *packet* gönderilir
 
-![ip_spoofing](imgs/ip_spoofing.png)
+![ip_spoofing](../res/ip_spoofing.png)
 
 ### Internetin Geçmişi
 
@@ -368,7 +368,7 @@ Yanlış IP adresiyle *packet* gönderilir
 
 ## Application Layer (Uygulama Katmanı)
 
-![network_apps](imgs/network_apps.png)
+![network_apps](../res/network_apps.png)
 
 ### *Network* Uygulaması Oluşturmak
 
@@ -403,7 +403,7 @@ Server Özellikleri:
 
 #### Client-Server ve Peer-to-Peer Karışımı
 
-![client_p2p](imgs/client-p2p.png)
+![client_p2p](../res/client-p2p.png)
 
 ### Processes Communicating (İletişim Sistemleri)
 
@@ -446,7 +446,7 @@ içerir.
 | Throughput     | Multimedya uygulamaları etkili olmak için daha az veri kullanmayı tercihi eder   |
 | Security       | Şifreleme ve verinin değiştirilmemesini ele alır                                 |
 
-![trans_services](imgs/trans_services.png)
+![trans_services](../res/trans_services.png)
 
 ### Internet Transport Protocols Services (Taşıma Protokolleri Hizmetleri)
 
@@ -459,7 +459,7 @@ içerir.
   - Şifreleme (*enctryption*) içermez
   - Socket ve internet verileri olduğu gibi (*cleartext*) gönderilir.
 
-![tcp_udp_segment_format](imgs/tcp_udp_segment_format.png)
+![tcp_udp_segment_format](../res/tcp_udp_segment_format.png)
 
 #### TCP (Transmission Control Protocol) Review
 
@@ -497,7 +497,7 @@ TCP'de güvenlik SSL ile sağlanır, uygulamalar **SSL kütüphanesi** yardımı
 - Web sayfaları objelerden oluşur, bu dosyalar; HTML, JPEG, JAVA applet vs. olabilir.
 - Her obje *URL*'ler ile adreslenir.
 
-![url_ex](imgs/url_ex.png)
+![url_ex](../res/url_ex.png)
 
 ### HTTP (Hypertext Transfer Protocol)
 
@@ -505,7 +505,7 @@ TCP'de güvenlik SSL ile sağlanır, uygulamalar **SSL kütüphanesi** yardımı
 
 *Applicataion Layer* (uygulama katmanı) *protocol*'üdür.
 
-![http_overview](imgs/http_overview.png)
+![http_overview](../res/http_overview.png)
 
 - *Client*: Tarayıcılar, *Server*: Apache Web Server
 
@@ -534,7 +534,7 @@ HTTP, TCP kullanır.
 
 Sunucuyu her defasında açmak için *RTT* kaybı yaşanacaktır, tek bir veri alınacaksa ideal seçimdir
 
-![non_persistend_http](imgs/non_persistent_http.png)
+![non_persistend_http](../res/non_persistent_http.png)
 
 ##### Persistent HTTP
 
@@ -542,13 +542,13 @@ Sunucuyu her defasında açmak için *RTT* kaybı yaşanacaktır, tek bir veri a
 
 #### HTTP Request Message (İstek Mesajı)
 
-![http_request](imgs/http_request.png)
+![http_request](../res/http_request.png)
 
 - `sp`: Boşluk
 - `cr`: \r karakteri
 - `lf`: \n, satır sonu karakteri
 
-![http_request_ex](imgs/http_request_ex.png)
+![http_request_ex](../res/http_request_ex.png)
 
 #### HTTP Status Code (Durum Kodları)
 
@@ -566,7 +566,7 @@ Bir websitesine ilk kez girdiğimizde bilgilerimiz **cookie** adıyla *server* v
 
 > Web siteleri kişisel bilgilerimizi saklarlar. 😕
 
-![cookie_ex](imgs/cookie_ex.png)
+![cookie_ex](../res/cookie_ex.png)
 
 #### Proxy Server & Cache
 
@@ -574,13 +574,13 @@ Bir websitesine ilk kez girdiğimizde bilgilerimiz **cookie** adıyla *server* v
 
 > *LAN* (yerel ağ) diğer *network*'lere kıyasla çok hızlıdır.
 
-![proxy_ex](imgs/proxy_ex.png)
+![proxy_ex](../res/proxy_ex.png)
 
 ##### Conditional GET (Koşullu GET)
 
 Bu yöntemler *Proxy server* önbelleğinde (*cache*) bulunan verilerin güncel olup olmadığı sorgulanır.
 
-![conditional_get](imgs/conditional_get.png)
+![conditional_get](../res/conditional_get.png)
 
 ### Domain Name System (DNS)
 
@@ -595,12 +595,12 @@ Internette adresler IP (192.168.1.1) ile tanımlanır. DNS'ler ile IP'lere isiml
 | TLD           | Top-level domain, *com, org, net, tr ...* gibi ülke etki alanlarından sorumludurlar |
 | Authoritative | Yetkili isim sunucuları, kurumlardaki sunucuların isimlerini eşleştirir             |
 
-![dns_hierarchy](imgs/dns_hierarchy.png)
+![dns_hierarchy](../res/dns_hierarchy.png)
 
 #### DNS Resolution Examples (DNS Çözümleme Örnekleri)
 
-![dns_resolution_ex1](imgs/dns_resolution_ex1.png)
-![dns_resolution_ex2](imgs/dns_resolution_ex2.png)
+![dns_resolution_ex1](../res/dns_resolution_ex1.png)
+![dns_resolution_ex2](../res/dns_resolution_ex2.png)
 
 #### DNS Record (DNS Kayıtları)
 
@@ -625,11 +625,11 @@ Kayıtların formatı `(name, value, type, ttl)` şeklindedir.
 
 ##### Attacking DNS
 
-![attacking_dns](imgs/attacking_dns.png)
+![attacking_dns](../res/attacking_dns.png)
 
 ### P2P (Peer to Peer)
 
-![p2p_scheme](imgs/p2p_schema.png)
+![p2p_scheme](../res/p2p_schema.png)
 
 - *Server* *torrent*'e katılanları izler ve her zaman açık olmaz 
 - *Network*'teki bilgisayarlar rastgele erişim kurarlar
@@ -644,7 +644,7 @@ Kayıtların formatı `(name, value, type, ttl)` şeklindedir.
 
 Hızlı veri aktarımı sağlayan bir yapıdır.
 
-![p2p_client_graph](imgs/p2p_client_graph.png)
+![p2p_client_graph](../res/p2p_client_graph.png)
 
 - *Chunk*'lar indirilirken aynı zamanda karşıya da yüklenir
 - Çok yükleme yapan çok hızlı indirir
@@ -665,13 +665,13 @@ Her video, resin topluluğundan ver resimler de *pixel*'lerden oluşur. Her *pix
 
 İçerikler kopyalanarak birden fazla *server*'dan akatarılır.
 
-![netflix_structure](imgs/netflix_structure.png)
+![netflix_structure](../res/netflix_structure.png)
 
 ## Transport Layer
 
 *Network layer*, *host*'lar arası mantıksal iletişimi sağlarken; *transport layer*, ***process***'ler arası mantıksal iletişimi sağlar
 
-![transport_layer](imgs/transport_layer.png)
+![transport_layer](../res/transport_layer.png)
 
 ### Internet Transport Layer Protocols
 
@@ -684,7 +684,7 @@ Yine, [UDP](#udp-user-datagram-protocol) ve [TCP](#tcp-transmission-control-prot
 | Gönderen bilgisayar | Birden çok *socket*'ten verileri toplar, başlık ekliyerek **segment** haline getirir. |
 | Alıcı bilgisayar    | Alınan *segment*'leri doğru *socket*'e teslim eder                                    |
 
-![multiplexing_transport_layer](imgs/multiplexing_transport_layer.png)
+![multiplexing_transport_layer](../res/multiplexing_transport_layer.png)
 
 ### Demultiplexing (Azaltma / Parçalama)
 
@@ -715,11 +715,11 @@ ile olmaktadır.
 
 UDP Demux:
 
-![udp_demux](imgs/udp_demux.png)
+![udp_demux](../res/udp_demux.png)
 
 TCP Demux:
 
-![tcp_demux](imgs/tcp_demux.png)
+![tcp_demux](../res/tcp_demux.png)
 
 ### UDP (User Datagram Protocol)
 
@@ -731,13 +731,13 @@ UDP yayıncılıkta tercih edilen bir *protocol*'dür. Amacı tamamıyla hızı 
 - Basitir, *sender* ve *reciver* asla birbiriyle iletişimde değildiir
 - Olumsuz geri dönüş yoktur.
 
-![udp_segment](imgs/udp_segment.png)
+![udp_segment](../res/udp_segment.png)
 
 #### UDP Checksum
 
 Aktarılan *segment*'deki hataları algılamak için kullanılan yöntemdir.
 
-![udp_checksum](imgs/udp_checksum.png)
+![udp_checksum](../res/udp_checksum.png)
 
 ### Reliable Data Transfer (RDT)
 
@@ -787,7 +787,7 @@ Rdt 2.2'ye ek olarak:
 - *Sender* belli sürede ACK mesajı almazsa (*timeout*) *packet* yeniden gönderilir.
 - Eşsiz olmayan *packet*'lar *segment* numaraları ile ayırt edilir.
 
-![rdt_3.0](imgs/rdt_3.0.png)
+![rdt_3.0](../res/rdt_3.0.png)
 
 ### Pipelined Protocols
 
@@ -801,7 +801,7 @@ Bir *packet* göndermek yerine birden fazla gönderilir.
 
 > Selective repeat ?
 
-![pipeline_gbn](imgs/pipeline_gbn.png)
+![pipeline_gbn](../res/pipeline_gbn.png)
 
 ### TCP (Transmission Control Protocol)
 

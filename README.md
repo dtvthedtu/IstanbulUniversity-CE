@@ -7,7 +7,8 @@
 
 İstanbul Üniversitesi Bilgisayar Mühendisliği ders notları.
 
-> Drive yedeklememe erişmek için [buraya][Drive] bakabilirsin.
+- Resmi ders listesine [buradan][Ders Listesi] erişebilirsin
+- Drive yedeklememe erişmek için [buraya][Drive] bakabilirsin.
 
 ## İçerikler <!-- omit in toc -->
 
@@ -20,6 +21,15 @@
 - [Lisans ve Teferruatlar](#lisans-ve-teferruatlar)
 
 <!-- Index -->
+
+## 2.Sınıf 1.Dönem Notları
+
+- [Devreler ve Sistemler](2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Devreler%20ve%20Sistemler.md)
+- [Differantial Equations](2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Differantial%20Equations.md)
+- [Lojik Devre Tasarımı](2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Lojik%20Devre%20Tasar%C4%B1m%C4%B1.md)
+- [Nesneye Yönelik Programlama](2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama.md)
+- [Olasılık Teorisi ve İstatistik](2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Olas%C4%B1l%C4%B1k%20Teorisi%20ve%20%C4%B0statistik.md)
+- [Veri Yapıları](2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Veri%20Yap%C4%B1lar%C4%B1.md)
 
 ## 2.Sınıf 2. Dönem Notları
 
@@ -61,6 +71,7 @@
 <!-- Index -->
 
 [Drive]: https://drive.google.com/open?id=1QtX2y1_3nMX1MQS7bDO6ChxXAln34ZQn
+[Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
 
 ## Lisans ve Teferruatlar
 

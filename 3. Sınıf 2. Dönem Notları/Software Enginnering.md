@@ -55,8 +55,8 @@ Ders içerikleri drive üzerinden yedeklenmektedir, [buraya](https://drive.googl
 
 ### Sık Sorulan Sorular
 
-![freq_ask_q](imgs/frequently_asked_q.png)
-![freq_ask_q2](imgs/freq_ask_q2.png)
+![freq_ask_q](../res/frequently_asked_q.png)
+![freq_ask_q2](../res/freq_ask_q2.png)
 
 ### İyi bir Yazılımın Temel Özellikleri
 
@@ -65,7 +65,7 @@ Ders içerikleri drive üzerinden yedeklenmektedir, [buraya](https://drive.googl
 - Etkinlik (Efficienty)
 - Kabul Edilebilirlik (Acceptability)
 
-![essential_attr_for_good_software](imgs/essential_attr_for_good_software.png)
+![essential_attr_for_good_software](../res/essential_attr_for_good_software.png)
 
 ## UML Diagrams
 
@@ -73,7 +73,7 @@ Ders içerikleri drive üzerinden yedeklenmektedir, [buraya](https://drive.googl
 
 Video 📹 için [buraya](https://www.youtube.com/watch?v=zid-MVo7M-E) bakabilirsin.
 
-![use_case](imgs/use_case.png)
+![use_case](../res/use_case.png)
 
 #### Extend-Include Kavramları
 
@@ -82,45 +82,45 @@ Video 📹 için [buraya](https://www.youtube.com/watch?v=zid-MVo7M-E) bakabilir
 | Include | Eyleme dahil olan ativiteler                   |
 | Extend  | Eylem sırasında oluşabilecek olası aktiviteler |
 
-![use_case_extend](imgs/use_case_extend.png)
+![use_case_extend](../res/use_case_extend.png)
 
 Her hapşırmada gözler kapatılır (include), ama isteğe bağlı olarak özür dilenir (extend).
 
 #### General / Specialized Use Cases
 
-![use_case_gen_spec](imgs/use_case_gen_spec.png)
+![use_case_gen_spec](../res/use_case_gen_spec.png)
 
 ### Sequence Diagram
 
 Video 📹 için [buraya](https://www.youtube.com/watch?v=pCK6prSq8aw) bakabilirsin.
 
-![seq_diagram](imgs/sequence_diagram.png)
+![seq_diagram](../res/sequence_diagram.png)
 
 ### Class Diagram
 
 Video 📹 için [buraya](https://www.youtube.com/watch?v=UI6lqHOVHic) bakabilirsin.
 
-![class_diagram_ex](imgs/class_daigram_ex.png)
+![class_diagram_ex](../res/class_daigram_ex.png)
 
 #### Class Diagram Structure (Yapısı)
 
-![class_diagram_structure](imgs/class_diagram.png)
+![class_diagram_structure](../res/class_diagram.png)
 
 #### Multiplicity
 
-![multiplicity](imgs/multiplicity.png)
+![multiplicity](../res/multiplicity.png)
 
 Bir lobi olur ama en az bir banyo içerir.
 
 #### Child / Parent Class
 
-![child_parent](imgs/chlld_parent.png)
+![child_parent](../res/chlld_parent.png)
 
 ### Satate Diagram
 
 Web sitesi üzerinden açıklama için [buraya](https://www.lucidchart.com/pages/uml-state-machine-diagram) bakabilirsin.
 
-![state_diagram](imgs/state_diagram.png)
+![state_diagram](../res/state_diagram.png)
 
 ## Faydalı Linkler
 
