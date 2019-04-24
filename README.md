@@ -13,12 +13,24 @@
 
 > `HOME` tuşu ile yukarı yönlenebilrsiniz.
 
+- [2.Sınıf 2. Dönem Notları](#2s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [3. Sınıf 1. Dönem Notları](#3-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
 - [3. Sınıf 2. Dönem Notları](#3-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [Okul Notları](#okul-notlar%C4%B1)
 - [Lisans ve Teferruatlar](#lisans-ve-teferruatlar)
 
 <!-- Index -->
+
+## 2.Sınıf 2. Dönem Notları
+
+- [Bilgisayar Organizasyonu ve Tasarımı](2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Organizasyonu%20ve%20Tasar%C4%B1m%C4%B1.md)
+- [File Organization](2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization.md)
+- [Formal Diller ve Otomatlar](2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Formal%20Diller%20ve%20Otomatlar.md)
+- [Lojik Devre Tasarımı Labrotuvarı](2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Lojik%20Devre%20Tasar%C4%B1m%C4%B1%20Labrotuvar%C4%B1.md)
+- [Mikroişlemciler](2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Mikroi%C5%9Flemciler.md)
+- [Programming Applicaiton](2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Programming%20Applicaiton.md)
+- [Random and Stochastic Processes](2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Random%20and%20Stochastic%20Processes.md)
+- [Sayısal Metotlar](2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Say%C4%B1sal%20Metotlar.md)
 
 ## 3. Sınıf 1. Dönem Notları
 
