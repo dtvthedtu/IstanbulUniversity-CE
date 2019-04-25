@@ -26,6 +26,7 @@ Github öğrenciler için ücretsiz **pro** faydaları sağlamaktadır.
 
 Microsoft üniversiteler için toplu yazılım desteği sunmakta.
 
+- Öğrenci onaylaması için [buraya][Öğrenci Onaylama - Azure] bakabilirsin.
 - Yazılımlara ulaşmak için [buraya][Azure DevTools] bakabilirsin.
 
 ## Microsoft Office 365
@@ -58,6 +59,7 @@ Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or .NET teknolojileri 
 [Github Education School]: https://education.github.com/partners/schools
 [Details]: https://help.github.com/en/categories/teaching-and-learning-with-github-education
 [Azure DevTools]: https://azureforeducation.microsoft.com/devtools
+[Öğrenci Onaylama - Azure]: https://signup.azure.com/studentverification
 [Office 365 Education]: https://products.office.com/tr-tr/student/office-in-education
 [Gmail]: https://www.office.com/?auth=2&home=1
 [Office 365]: https://www.office.com/?auth=2&home=1

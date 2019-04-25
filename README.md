@@ -14,10 +14,12 @@
 
 > `HOME` tuşu ile yukarı yönlenebilrsiniz.
 
+- [2.Sınıf 1.Dönem Notları](#2s%C4%B1n%C4%B1f-1d%C3%B6nem-notlar%C4%B1)
 - [2.Sınıf 2. Dönem Notları](#2s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [3. Sınıf 1. Dönem Notları](#3-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
 - [3. Sınıf 2. Dönem Notları](#3-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [Okul Notları](#okul-notlar%C4%B1)
+- [Harici Bağlantılar](#harici-ba%C4%9Flant%C4%B1lar)
 - [Lisans ve Teferruatlar](#lisans-ve-teferruatlar)
 
 <!-- Index -->
@@ -66,12 +68,21 @@
 
 ## Okul Notları
 
+- [Anketleri Otomatik Dolduran Script](Okul%20Notlar%C4%B1/Anketleri%20Otomatik%20Dolduran%20Script.md)
 - [Ücretsiz Yazılımlar](Okul%20Notlar%C4%B1/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
 
 <!-- Index -->
 
+## Harici Bağlantılar
+
+- [Aksis Cerrahpaşa](https://aksis.istanbulc.edu.tr/Account/LogOn)
+- [CE-IU][CE-IU]
+- [IU Coders][IU Coders]
+
 [Drive]: https://drive.google.com/open?id=1QtX2y1_3nMX1MQS7bDO6ChxXAln34ZQn
 [Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
+[CE-IU]: http://ce-iu.tk/
+[IU Coders]: http://www.iucoders.com/index.jsp
 
 ## Lisans ve Teferruatlar
 
