@@ -2,6 +2,10 @@
 
 Bu yazı hala aktarım aşamasındadır, kaynak için [buraya](https://www.yemreak.com/2017/10/veri-yaplar.html) bakabilirsin.
 
+<!-- TOOD Aktarılması tamamlanmadı  
+http://yemreak.blogspot.com/2017/10/veri-yaplar.html
+-->
+
 > Drive yedeklemesi için [buraya][Yedekleme - Drive] bakabilirsin, ya da aşağıdan indekslenmiş olarak erişebilirsin.
 
 [Yedekleme - Drive]: https://drive.google.com/drive/folders/1CpcnBvY3FQziQJI_UX2mTly-YBT4H09-
