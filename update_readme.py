@@ -14,7 +14,7 @@ SORTED_INDEX = True
 # Sadece bu veriyi barındıranları indeksleme (hepsi için '')
 INDEX_FILTER = ''
 # İndekslemeye dosya uzantısını da ekleme
-INDEX_WITH_EXT = True
+INDEX_WITH_EXT = False
 
 # Gizli dosyaları atlama
 SKIP_PRIVATE_FOLDER = True
@@ -79,7 +79,7 @@ def insert_indexes(dir_names):
                 if INDEX_FILTER in filename:
                     filename, ext = os.path.splitext(filename)
                     str += create_link(
-                        dir_name, filename + ext if INDEX_WITH_EXT else ''
+                        dir_name, filename + (ext if INDEX_WITH_EXT else '')
                     )
 
             # Yeni alt başlık için boş satır oluşturma
