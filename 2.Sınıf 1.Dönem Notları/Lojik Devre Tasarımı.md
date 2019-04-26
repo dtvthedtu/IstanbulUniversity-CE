@@ -1,12 +1,20 @@
 # Lojik Devre Tasarımı <!-- omit in toc -->
 
-- Alakalı konu olan **Sayısal Tasarım** notlarına [buradan][Sayısal Tasarım - Ege Uni] erişebilirsin.
-- **Digital Desing** ek kaynak için [buraya][Digital Design - ITU] bakabilirsin.
+> Drive yedeklemesi için [buraya][Yedekleme - Drive] bakabilirsin, ya da aşağıdan indekslenmiş olarak erişebilirsin.
+
+[Yedekleme - Drive]: https://drive.google.com/open?id=1DQkcS9Q88kO2Y2V0YOyyfm0c54gMukIi
 
 ## İçerikler <!-- omit in toc -->
 
+- [Ders Notları](#ders-notlar%C4%B1)
 - [Final için Referanslar](#final-i%C3%A7in-referanslar)
   - [Durum Diyagramı Açıklamam](#durum-diyagram%C4%B1-a%C3%A7%C4%B1klamam)
+
+## Ders Notları
+
+- Çalışma notuma [buradan][Çalışma Notum] ulaşabilirsin.
+- Alakalı konu olan **Sayısal Tasarım** notlarına [buradan][Sayısal Tasarım - Ege Uni] erişebilirsin.
+- **Digital Desing** ek kaynak için [buraya][Digital Design - ITU] bakabilirsin.
 
 ## Final için Referanslar
 
@@ -94,3 +102,4 @@
 [Tümleştirilmiş K.D]: http://kisi.deu.edu.tr//ozlem.karaca/s04_2.pdf
 [Ardışıl Lojik Devreler (Flip Flop / Moore / ...)]: http://www.yildiz.edu.tr/~uzun/LD_PDF/PLDT_06_ArdisilLojikDevre.pdf
 [A/Synchronized Counter With Load / Clear]: https://www.tutorialspoint.com/sequential_circuit_design/design_of_mod6_counter_using_load_and_clear.asp
+[Çalışma Notum]: https://drive.google.com/open?id=15eZM8L6rz226UU1Agg26jxlKRNIWUMq9
