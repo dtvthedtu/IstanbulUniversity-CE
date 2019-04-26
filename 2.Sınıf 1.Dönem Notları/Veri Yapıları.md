@@ -9,13 +9,13 @@ Bu yazı hala aktarım aşamasındadır, kaynak için [buraya](https://www.yemre
 ## İçerikler <!-- omit in toc -->
 
 - [Ders Notları](#ders-notlar%C4%B1)
+- [Sınav Notları](#s%C4%B1nav-notlar%C4%B1)
 - [Ders için Kodlarım](#ders-i%C3%A7in-kodlar%C4%B1m)
   - [Stack](#stack)
   - [Queue](#queue)
   - [Linked List](#linked-list)
   - [Double Linked List Açıklama](#double-linked-list-a%C3%A7%C4%B1klama)
   - [Binary Tree](#binary-tree)
-- [Sınav Notları](#s%C4%B1nav-notlar%C4%B1)
 
 ## Ders Notları
 
@@ -25,6 +25,10 @@ Bu yazı hala aktarım aşamasındadır, kaynak için [buraya](https://www.yemre
 - **Data Structures Using C++** adlı kitaba [buradan][Data Structures Using C++] erişebilirsin.
 - Algoritma mantığını görselleştiren site için [buraya][Visioalgo] bakabilrsin.
 - Prim kruksal vs. slaytı için [buraya](https://issuu.com/jemujan/docs/algoritma_analizi) bakabilirsin.
+
+## Sınav Notları
+
+- Sınav sorularına [buradan][Sınav Soruları] erişebilirsin.
 
 ## Ders için Kodlarım
 
@@ -994,10 +998,6 @@ void create(dal **agac){
  printf("\nAgac %d verisiyle olusturuldu.", bas_veri);
 }
 ```
-
-## Sınav Notları
-
-- Sınav sorularına [buradan][Sınav Soruları] erişebilirsin.
 
 <!-- Harici Bağlantılar -->
 
