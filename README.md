@@ -5,10 +5,11 @@
 ![made_with_Markdown](https://img.shields.io/badge/%C4%B0%C3%A7erik-Markdown-blue.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/yedhrab/IstanbulUniversity-CE.svg?label=Boyut&style=popout)
 
-İstanbul Üniversitesi Bilgisayar Mühendisliği ders notları.
+İstanbul Üniversitesi Bilgisayar Mühendisliği notlarını içerir.
 
-- Resmi ders listesine [buradan][Ders Listesi] erişebilirsin
 - Drive yedeklememe erişmek için [buraya][Drive] bakabilirsin.
+- Resmi ders listesine [buradan][Ders Listesi] erişebilirsin.
+- Resmi ders içeriklerine [buradan][Ders İçerikleri] erişebilirsin.
 
 ## İçerikler <!-- omit in toc -->
 
@@ -83,6 +84,7 @@
 [Drive]: https://drive.google.com/open?id=1QtX2y1_3nMX1MQS7bDO6ChxXAln34ZQn
 [Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
 [CE-IU]: http://ce-iu.tk/
+[Ders İçerikleri]: res%2FBilgisayar%20M%C3%BChendisli%C4%9Fi%20Ders%20%C4%B0%C3%A7eri%C4%9Fi.pdf
 [IU Coders]: http://www.iucoders.com/index.jsp
 [Visioalgo]: https://visualgo.net/en
 
