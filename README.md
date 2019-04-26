@@ -47,7 +47,6 @@
 
 ## 3. Sınıf 1. Dönem Notları
 
-- [3](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/3.%20S%C4%B1n%C4%B1f%202)
 - [Algorithm Analysis](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Algorithm%20Analysis)
 - [Artifical Intelligence](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Artifical%20Intelligence)
 - [Bot Lab](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bot%20Lab)
