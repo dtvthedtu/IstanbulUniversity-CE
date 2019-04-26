@@ -46,6 +46,7 @@
 
 ## 3. Sınıf 1. Dönem Notları
 
+- [3](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/3.%20S%C4%B1n%C4%B1f%202)
 - [Algorithm Analysis](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Algorithm%20Analysis)
 - [Artifical Intelligence](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Artifical%20Intelligence)
 - [Bot Lab](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bot%20Lab)
@@ -69,6 +70,7 @@
 ## Okul Notları
 
 - [Anketleri Otomatik Dolduran Script](Okul%20Notlar%C4%B1/Anketleri%20Otomatik%20Dolduran%20Script)
+- [Bilgisayar Mühendisliği Ders İçeriği](Okul%20Notlar%C4%B1/Bilgisayar%20M%C3%BChendisli%C4%9Fi%20Ders%20%C4%B0%C3%A7eri%C4%9Fi)
 - [Ücretsiz Yazılımlar](Okul%20Notlar%C4%B1/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar)
 
 <!-- Index -->
