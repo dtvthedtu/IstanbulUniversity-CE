@@ -24,6 +24,7 @@ Proje ödevinin PDF'ine [buradan][Proje Ödevi] ulaşabilirsin.
   - Password: `yemreak.com1`
 - **XILINX ISE Design Studio**'yu direkt olarak [buradan][XILINX ISE Design Studio - Direct] indirebilirsin.
 - **Drive** üzerinden indirmek için [buraya][XILINX ISE Design Studio - Drive] bakabilirsin.
+- `VirtualBox host only adaptor disappeared (Interface (‘VirtualBox Host-Only Ethernet Adapter’) is not a Host-Only Adapter interface (VERR_INTERNAL_ERROR) SOLVED` hatası için [buraya][Hata Çözümü 1] bakabilirsin.
 
 ### XILINX Kullanımı
 
@@ -62,3 +63,4 @@ Hocanın hazırlamış olduğu videolar:
 [XILINX ISE Design Studio - Drive]: https://drive.google.com/open?id=1-4j-ZBZmA5axu2G3ebxcITROWsR2IUny
 [XILINX ISE - Simulation]: https://youtu.be/H7jihUQz-Io?t=637
 [ISIM Simulator]: https://youtu.be/Sw5ktjHl1zc?t=576
+[Hata Çözümü 1]: https://darrenoneill.eu/?p=627
