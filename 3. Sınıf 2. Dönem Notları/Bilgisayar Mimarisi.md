@@ -51,11 +51,10 @@ Hocanın hazırlamış olduğu videolar:
 - Similasyon oluşturmak için [buraya][XILINX ISE - Simulation] bakabilirsin.
   - `Start with a semantic of the top-level block`
 - Simülasyona veri girişi için [buraya][ISIM Simulator] bakabailirsin.
-
-- `restart` Yeniden başlatma
-- `put <pbje_ismi> <değer>` Veri atama
-  - Örn: `put tt_g1 0`
-- `run all` Hepsini çalıştırma
+  - `restart` Yeniden başlatma
+  - `put <pbje_ismi> <değer>` Veri atama
+    - Örn: `put tt_g1 0`
+  - `run all` Hepsini çalıştırma
 
 [Proje Ödevi]: ../res/2019_bilgisayar_mimarisi_proje.pdf
 [XILINX ISE Design Studio]: https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html
