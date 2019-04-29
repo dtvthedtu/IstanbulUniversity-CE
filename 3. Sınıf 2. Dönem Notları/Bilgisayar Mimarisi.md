@@ -8,8 +8,8 @@ Ders içerikleri için [buraya](https://drive.google.com/open?id=1UaEzFYthEzpGg_
 - Resmi sitesinde indirmek için [buraya][XILINX ISE Design Studio] tıklayabilirsin
   - Username: `yemreak`
   - Password: `yemreak.com1`
-- **XILINX ISE Design Studio**'yu direkt olarak [buradan][XILINX ISE Design Studio | Direct] indirebilirsin.
-- **Drive** üzerinden indirmek için [buraya][XILINX ISE Design Studio | Drive] bakabilirsin.
+- **XILINX ISE Design Studio**'yu direkt olarak [buradan][XILINX ISE Design Studio - Direct] indirebilirsin.
+- **Drive** üzerinden indirmek için [buraya][XILINX ISE Design Studio - Drive] bakabilirsin.
 
 [Proje Ödevi]: ../res/2019_bilgisayar_mimarisi_proje.pdf
 [XILINX ISE Design Studio]: https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html
