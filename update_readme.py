@@ -8,6 +8,9 @@ import os
 import re
 from urllib.parse import quote
 
+# TODO Git modülü ile branch'lara özgü otomatik README oluştur
+# TODO Github dosyanda çalıştırdığında tüm git projelerini güncellesin
+# TODO Dosyayı CLI parametresi olarak alsın (yoksa bulunduğu dizindeki klasörleri ele alsın)
 
 # Sıralı indeksleme
 SORTED_INDEX = True
