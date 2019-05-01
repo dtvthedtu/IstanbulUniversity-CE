@@ -12,19 +12,129 @@ from urllib.parse import quote
 # TODO Github dosyanda çalıştırdığında tüm git projelerini güncellesin
 # TODO Dosyayı CLI parametresi olarak alsın (yoksa bulunduğu dizindeki klasörleri ele alsın)
 
+############    readme.cfg     ############
+# [Config]
+#
+# # Sıralı indeksleme
+# SORTED_INDEX = True
+# # Sadece bu veriyi barındıranları indeksleme (hepsi için boş bırakın)
+# INDEX_FILTER =
+# # İndekslemeye dosya uzantısını da ekleme
+# INDEX_WITH_EXT = True
+# # Gizli dosyaları atlama
+# SKIP_PRIVATE_FOLDER = True
+#
+# [Private]
+# .git
+# res
+# images
+# .vscode
+# Windows10 Kaynakları
+#############################################
+
+# Yaplandırma dosyası
+CONFIG_FILE = "readme.cfg"
+CONFIG_DEFAULT = r"""[Config]
+
 # Sıralı indeksleme
 SORTED_INDEX = True
-# Sadece bu veriyi barındıranları indeksleme (hepsi için '')
-INDEX_FILTER = ''
+# Sadece bu veriyi barındıranları indeksleme (hepsi için boş bırakın)
+INDEX_FILTER =
 # İndekslemeye dosya uzantısını da ekleme
 INDEX_WITH_EXT = True
-
 # Gizli dosyaları atlama
 SKIP_PRIVATE_FOLDER = True
-# Indexlenmeyecek dosya isimleri
-PRIVATE_FOLDERS = [
-    '.git', 'res', 'images', 'pdfs', '.vscode', 'Windows10 Kaynakları'
-]
+
+[Private]
+.git
+res
+images
+.vscode
+Windows10 Kaynakları
+"""
+
+# Gizli dizinlerin bilgileri
+PRIVATES = []
+
+
+def load_cfg():
+
+    config_section = False
+    private_section = False
+
+    def remove_comments(line):
+        index = line.find("#")
+        if index == -1:
+            return line.strip()
+        else:
+            return line[:line.find("#")]
+
+    def parse_value(line):
+        try:
+            return line.split("=")[1].strip()
+        except:
+            return ''
+
+    def find_section(line: str) -> bool:
+        """Başlık alanı bulucu
+
+        Arguments:
+            line {str} -- Dosya satırı
+
+        Returns:
+            bool -- Başlık alanı ise True
+        """
+        nonlocal config_section, private_section
+        if '[Config]' in line:
+            config_section = True
+            private_section = False
+            return True
+        elif '[Private]' in line:
+            config_section = False
+            private_section = True
+            return True
+        else:
+            return False
+
+    def reg_configs(line):
+        if config_section:
+            # Değeri oluşturma
+            value = parse_value(line)
+            global SORTED_INDEX, INDEX_FILTER, INDEX_WITH_EXT, SKIP_PRIVATE_FOLDER
+            if 'SORTED_INDEX' in line:
+                SORTED_INDEX = value == 'True'
+            elif 'INDEX_FILTER' in line:
+                INDEX_FILTER = value
+            elif 'INDEX_WITH_EXT' in line:
+                INDEX_WITH_EXT = value == 'True'
+
+            elif 'SKIP_PRIVATE_FOLDER' in line:
+                SKIP_PRIVATE_FOLDER = value == 'True'
+
+    def reg_privates(line):
+        if private_section:
+            global PRIVATES
+            PRIVATES.append(line)
+
+    def read_file():
+        with open(CONFIG_FILE, 'r') as file:
+            for line in file:
+                line = remove_comments(line)
+
+                if not find_section(line):
+                    reg_configs(line)
+                    reg_privates(line)
+
+    def create_file():
+        with open(CONFIG_FILE, "w") as file:
+            file.write(CONFIG_DEFAULT)
+
+    try:
+        read_file()
+    except FileNotFoundError:
+        create_file()
+    finally:
+        read_file()
 
 
 def check_dir_if_wanted(dir_name: str) -> bool:
@@ -38,7 +148,8 @@ def check_dir_if_wanted(dir_name: str) -> bool:
     """
 
     def isPrivate(dir_name) -> bool:
-        for folder_name in PRIVATE_FOLDERS:
+        global PRIVATES
+        for folder_name in PRIVATES:
             if dir_name == folder_name:
                 return True
 
@@ -48,8 +159,16 @@ def check_dir_if_wanted(dir_name: str) -> bool:
     ])
 
 
-def list_wanted_dir():
-    list = [i for i in os.listdir() if check_dir_if_wanted(i)]
+def listdir(path=False, filter=False):
+    list = []
+
+    if path and os.path.isdir(path):
+        list = os.listdir(path)
+    elif filter:
+        list = [i for i in os.listdir() if check_dir_if_wanted(i)]
+    else:
+        list = os.listdir()
+
     if SORTED_INDEX:
         list.sort()
 
@@ -62,8 +181,7 @@ def insert_indexes(dir_names):
         return r"## " + dir_name + "\n\n"
 
     def create_link(dir_name, filename):
-        return "- [" + filename.split(".")[0] + \
-            "](" + quote(f"{dir_name}/{filename}") + ")\n"
+        return "- [" + filename.split(".")[0] + "](" + quote(f"{dir_name}/{filename}") + ")\n"
 
     def create_indexes(dir_names):
         str = ""
@@ -73,8 +191,7 @@ def insert_indexes(dir_names):
             str += create_header(dir_name)
 
             # Dizindeki dosya isimlerini alma ve sıralama
-            filenames = os.listdir(dir_name)
-            filenames.sort()
+            filenames = listdir(path=dir_name)
 
             # Verileri sıralama ve işleme
             for filename in filenames:
@@ -90,33 +207,39 @@ def insert_indexes(dir_names):
 
         return str
 
-    # README'yi okuma
-    file_str = ""
-    save_to_file = True
-    with open("README.md", "r", encoding="utf-8") as file:
-        for line in file:
-            if "<!-- Index -->" in line:
-                if save_to_file:
-                    # Yeni index satırına kadar dosyaya kaydetmeyi devre dışı bırakma
-                    save_to_file = False
+    def create_readme_str():
+        # README'yi okuma
+        file_str = ""
+        save_to_file = True
+        with open("README.md", "r", encoding="utf-8") as file:
+            for line in file:
+                if "<!-- Index -->" in line:
+                    if save_to_file:
+                        # Yeni index satırına kadar dosyaya kaydetmeyi devre dışı bırakma
+                        save_to_file = False
 
-                    # Dosyaların indekslerini oluşturup ekleme
-                    file_str += "<!-- Index -->" + "\n\n"
-                    file_str += create_indexes(dir_names)
+                        # Dosyaların indekslerini oluşturup ekleme
+                        file_str += "<!-- Index -->" + "\n\n"
+                        file_str += create_indexes(dir_names)
+                    else:
+                        # İkinci index için okuma modunu aktif etme
+                        save_to_file = True
+
+                        # Indeks satırını ekleme
+                        file_str += "<!-- Index -->" + "\n"
                 else:
-                    # İkinci index için okuma modunu aktif etme
-                    save_to_file = True
+                    # Okuma izni varsa dosyayı değişkene aktarma
+                    if save_to_file:
+                        file_str += line
+        return file_str
 
-                    # Indeks satırını ekleme
-                    file_str += "<!-- Index -->" + "\n"
-            else:
-                # Okuma izni varsa dosyayı değişkene aktarma
-                if save_to_file:
-                    file_str += line
+    def write_readme(file_str):
+        # Yeni metni dosyaya yazma
+        with open("README.md", "w", encoding="utf-8") as file:
+            file.writelines(file_str)
 
-    # Yeni metni dosyaya yazma
-    with open("README.md", "w", encoding="utf-8") as file:
-        file.writelines(file_str)
+    file_str = create_readme_str()
+    write_readme(file_str)
 
 
 def update() -> None:
@@ -125,7 +248,7 @@ def update() -> None:
     """
 
     # Dizinleri sıralı olarak alma
-    dir_names = list_wanted_dir()
+    dir_names = listdir(filter=True)
 
     # İndeksleri dosya arasına yerleştirme
     insert_indexes(dir_names)
@@ -134,4 +257,5 @@ def update() -> None:
 
 
 if __name__ == "__main__":
+    load_cfg()
     update()
