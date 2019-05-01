@@ -2,6 +2,8 @@
 
 Ders matlab üzerinden işlenmektedir.
 
+- Hocanın mail adresi: [sevgens@istanbul.edu.tr](mailto::sevgens@istanbul.edu.tr)
+
 ## İçerikler <!-- omit in toc -->
 
 > `HOME` tuşu ile yukarı yönlenebilrsiniz
