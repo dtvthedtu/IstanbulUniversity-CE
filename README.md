@@ -71,6 +71,7 @@
 ## Okul Notları
 
 - [Anketleri Otomatik Dolduran Script](./Okul%20Notlar%C4%B1/Anketleri%20Otomatik%20Dolduran%20Script.md)
+- [Sınav Takvimi 2019](./Okul%20Notlar%C4%B1/S%C4%B1nav%20Takvimi%202019.pdf)
 - [Ücretsiz Yazılımlar](./Okul%20Notlar%C4%B1/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
 
 <!--Index-->
