@@ -11,6 +11,8 @@
 > `HOME` tuşu ile yukarı yönelebilirsin.
 
 - [Sınav Hakkında](#s%C4%B1nav-hakk%C4%B1nda)
+  - [Vize Hakkında](#vize-hakk%C4%B1nda)
+  - [Final Hakkında](#final-hakk%C4%B1nda)
 - [Giriş](#giri%C5%9F)
   - [Temel Terimler](#temel-terimler)
   - [Network Structure (Ağ Yapısı)](#network-structure-a%C4%9F-yap%C4%B1s%C4%B1)
@@ -102,9 +104,17 @@
 
 ## Sınav Hakkında
 
+### Vize Hakkında
+
 - 1, 2, 3, 4.1, 4.2 numaralı *Chapter*'lardan sorumluyuz
 - Sınav formatı karışıktır.
 - 2.3 ve 2.7 dahil değildir
+
+### Final Hakkında
+
+Final sınavı konu kapsamı, Chapter 4, HUAWEI-WEEK1, HUAWEI-WEEK2, HUAWEI-WEEK3 adlı dökümanlarda yer alan konulardır.
+
+> Hoca'nın duyurusudur.
 
 ## Giriş
 
