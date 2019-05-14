@@ -10,11 +10,14 @@ Ders içerikleri için [buraya](https://drive.google.com/open?id=1UaEzFYthEzpGg_
     - [Proje Oluşturma](#proje-olu%C5%9Fturma)
     - [Proje İşlemleri](#proje-i%CC%87%C5%9Flemleri)
     - [Simüle Etme](#sim%C3%BCle-etme)
+  - [Teslim Şekli](#teslim-%C5%9Fekli)
 
 ## Proje Ödevi
 
 Proje ödevinin PDF'ine [buradan][Proje Ödevi] ulaşabilirsin.
 
+- Grup sayısı 5 kişiliktir
+- Son teslim tarihi: 15.05.2019 Çarşamba
 - Proje'yi yapabilmek için **XILINX ISE Design Studio kurulumu** yapmanız gerekmekte.
 
 ### XILINX ISE Design Studio
@@ -56,6 +59,16 @@ Hocanın hazırlamış olduğu videolar:
   - `put <pbje_ismi> <değer>` Veri atama
     - Örn: `put tt_g1 0`
   - `run all` Hepsini çalıştırma
+
+### Teslim Şekli
+
+- Similasyon sonuçları raporlanacak ve pdf haline getirilecek
+- Verilen *instruction*'ların hepsi gerçekleştirilecek
+- Sonuçlar similatörde gösterilecek
+- PDF ile `.vhd` uzantılı kaynak kodlarını sisteme yüklenecek
+  - Aksis - Döküman paylaşımı - Bilgisayar Mimarisi - Proje
+
+Bilgisayar Mimarisi proje tesliminde simulasyon sonuçlarınız bir rapor haline çevrilerek pdf olarak sunulacaktır. Simulasyonda ilgili instructionların tümü gerçeklenecek ve çıkan sonuçlar simulatörde gösterilecektir. Rapor pdf ine ek olarak kaynak kodunuzu ( sadece .vhd dosyası) beraber zipleyip sisteme yüklemeniz gerekmektedir.
 
 [Proje Ödevi]: ../res/2019_bilgisayar_mimarisi_proje.pdf
 [XILINX ISE Design Studio]: https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html
