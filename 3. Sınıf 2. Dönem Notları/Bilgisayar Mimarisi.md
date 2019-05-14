@@ -11,6 +11,7 @@ Ders içerikleri için [buraya](https://drive.google.com/open?id=1UaEzFYthEzpGg_
     - [Proje İşlemleri](#proje-i%CC%87%C5%9Flemleri)
     - [Simüle Etme](#sim%C3%BCle-etme)
   - [Teslim Şekli](#teslim-%C5%9Fekli)
+  - [Faydalı Bağlantılar](#faydal%C4%B1-ba%C4%9Flant%C4%B1lar)
 
 ## Proje Ödevi
 
@@ -18,7 +19,7 @@ Proje ödevinin PDF'ine [buradan][Proje Ödevi] ulaşabilirsin.
 
 - Grup sayısı 5 kişiliktir
 - Son teslim tarihi: 15.05.2019 Çarşamba
-- Proje'yi yapabilmek için **XILINX ISE Design Studio kurulumu** yapmanız gerekmekte.
+- Proje'yi yapabilmek için **XILINX ISE Design Studio kurulumu** yapmanız gerekmekte
 
 ### XILINX ISE Design Studio
 
@@ -68,7 +69,11 @@ Hocanın hazırlamış olduğu videolar:
 - PDF ile `.vhd` uzantılı kaynak kodlarını sisteme yüklenecek
   - Aksis - Döküman paylaşımı - Bilgisayar Mimarisi - Proje
 
-Bilgisayar Mimarisi proje tesliminde simulasyon sonuçlarınız bir rapor haline çevrilerek pdf olarak sunulacaktır. Simulasyonda ilgili instructionların tümü gerçeklenecek ve çıkan sonuçlar simulatörde gösterilecektir. Rapor pdf ine ek olarak kaynak kodunuzu ( sadece .vhd dosyası) beraber zipleyip sisteme yüklemeniz gerekmektedir.
+### Faydalı Bağlantılar
+
+- [16bit Mips VHDL]
+- [MIPS-Processor-VHDL - Github]
+- [PiJoules/MIPS-processor]
 
 [Proje Ödevi]: ../res/2019_bilgisayar_mimarisi_proje.pdf
 [XILINX ISE Design Studio]: https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html
@@ -77,3 +82,7 @@ Bilgisayar Mimarisi proje tesliminde simulasyon sonuçlarınız bir rapor haline
 [XILINX ISE - Simulation]: https://youtu.be/H7jihUQz-Io?t=637
 [ISIM Simulator]: https://youtu.be/Sw5ktjHl1zc?t=576
 [Hata Çözümü 1]: https://darrenoneill.eu/?p=627
+
+[16bit Mips VHDL]: https://www.fpga4student.com/2017/09/vhdl-code-for-mips-processor.html
+[MIPS-Processor-VHDL - Github]: https://github.com/cm4233/MIPS-Processor-VHDL
+[PiJoules/MIPS-processor]: https://github.com/PiJoules/MIPS-processor
