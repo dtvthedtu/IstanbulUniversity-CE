@@ -641,7 +641,7 @@ Kayıtların formatı `(name, value, type, ttl)` şeklindedir.
 
 ![p2p_scheme](../res/p2p_schema.png)
 
-- *Server* *torrent*'e katılanları izler ve her zaman açık olmaz 
+- *Server* *torrent*'e katılanları izler ve her zaman açık olmaz
 - *Network*'teki bilgisayarlar rastgele erişim kurarlar
 - Eş bilgisayarlar zaman zaman bağlantı kurarlar ve IP adresleri değişebilir
 
