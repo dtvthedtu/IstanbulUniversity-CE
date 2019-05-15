@@ -25,54 +25,62 @@
 
 <!--Index-->
 
+## 1. Sınıf 2. Dönem Notları
+
+- [Atatürk İlkeleri ve İnklap](.%5C1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CAtat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nklap.md)
+- [Calculus 2](.%5C1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CCalculus%202.md)
+- [Fizik 2](.%5C1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CFizik%202.md)
+- [Introduction to Programming](.%5C1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CIntroduction%20to%20Programming.md)
+- [Linear Algebra](.%5C1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CLinear%20Algebra.md)
+
 ## 2.Sınıf 1.Dönem Notları
 
-- [Devreler ve Sistemler](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Devreler%20ve%20Sistemler.md)
-- [Differantial Equations](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Differantial%20Equations.md)
-- [Lojik Devre Tasarımı](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Lojik%20Devre%20Tasar%C4%B1m%C4%B1.md)
-- [Nesneye Yönelik Programlama](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama.md)
-- [Olasılık Teorisi ve İstatistik](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Olas%C4%B1l%C4%B1k%20Teorisi%20ve%20%C4%B0statistik.md)
-- [Veri Yapıları](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Veri%20Yap%C4%B1lar%C4%B1.md)
+- [Devreler ve Sistemler](.%5C2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1%5CDevreler%20ve%20Sistemler.md)
+- [Differantial Equations](.%5C2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1%5CDifferantial%20Equations.md)
+- [Lojik Devre Tasarımı](.%5C2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1%5CLojik%20Devre%20Tasar%C4%B1m%C4%B1.md)
+- [Nesneye Yönelik Programlama](.%5C2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1%5CNesneye%20Y%C3%B6nelik%20Programlama.md)
+- [Olasılık Teorisi ve İstatistik](.%5C2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1%5COlas%C4%B1l%C4%B1k%20Teorisi%20ve%20%C4%B0statistik.md)
+- [Veri Yapıları](.%5C2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1%5CVeri%20Yap%C4%B1lar%C4%B1.md)
 
 ## 2.Sınıf 2. Dönem Notları
 
-- [Bilgisayar Organizasyonu ve Tasarımı](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Organizasyonu%20ve%20Tasar%C4%B1m%C4%B1.md)
-- [File Organization](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization.md)
-- [Formal Diller ve Otomatlar](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Formal%20Diller%20ve%20Otomatlar.md)
-- [Lojik Devre Tasarımı Labrotuvarı](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Lojik%20Devre%20Tasar%C4%B1m%C4%B1%20Labrotuvar%C4%B1.md)
-- [Mikroişlemciler](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Mikroi%C5%9Flemciler.md)
-- [Programming Applicaiton](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Programming%20Applicaiton.md)
-- [Random and Stochastic Processes](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Random%20and%20Stochastic%20Processes.md)
-- [Sayısal Metotlar](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Say%C4%B1sal%20Metotlar.md)
+- [Bilgisayar Organizasyonu ve Tasarımı](.%5C2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CBilgisayar%20Organizasyonu%20ve%20Tasar%C4%B1m%C4%B1.md)
+- [File Organization](.%5C2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CFile%20Organization.md)
+- [Formal Diller ve Otomatlar](.%5C2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CFormal%20Diller%20ve%20Otomatlar.md)
+- [Lojik Devre Tasarımı Labrotuvarı](.%5C2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CLojik%20Devre%20Tasar%C4%B1m%C4%B1%20Labrotuvar%C4%B1.md)
+- [Mikroişlemciler](.%5C2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CMikroi%C5%9Flemciler.md)
+- [Programming Applicaiton](.%5C2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CProgramming%20Applicaiton.md)
+- [Random and Stochastic Processes](.%5C2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CRandom%20and%20Stochastic%20Processes.md)
+- [Sayısal Metotlar](.%5C2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CSay%C4%B1sal%20Metotlar.md)
 
 ## 3. Sınıf 1. Dönem Notları
 
-- [Algorithm Analysis](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Algorithm%20Analysis.md)
-- [Artifical Intelligence](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Artifical%20Intelligence.md)
-- [Bot Lab](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bot%20Lab.md)
-- [Data Comminication](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Data%20Comminication.md)
-- [Mühendislik Ekonomisi](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/M%C3%BChendislik%20Ekonomisi.md)
-- [Operation Systems](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Operation%20Systems.md)
-- [Signal Processing](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Signal%20Processing.md)
-- [Veritabanı Yönetim Sistemleri](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Veritaban%C4%B1%20Y%C3%B6netim%20Sistemleri.md)
+- [Algorithm Analysis](.%5C3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1%5CAlgorithm%20Analysis.md)
+- [Artifical Intelligence](.%5C3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1%5CArtifical%20Intelligence.md)
+- [Bot Lab](.%5C3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1%5CBot%20Lab.md)
+- [Data Comminication](.%5C3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1%5CData%20Comminication.md)
+- [Mühendislik Ekonomisi](.%5C3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1%5CM%C3%BChendislik%20Ekonomisi.md)
+- [Operation Systems](.%5C3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1%5COperation%20Systems.md)
+- [Signal Processing](.%5C3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1%5CSignal%20Processing.md)
+- [Veritabanı Yönetim Sistemleri](.%5C3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1%5CVeritaban%C4%B1%20Y%C3%B6netim%20Sistemleri.md)
 
 ## 3. Sınıf 2. Dönem Notları
 
-- [Bilgisayar Grafikleri](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Grafikleri.md)
-- [Bilgisayar Mimarisi](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Mimarisi.md)
-- [Computer Networks and Technologies](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Computer%20Networks%20and%20Technologies.md)
-- [Görüntü İşleme](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Fleme.md)
-- [Hauwei Ders1](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Hauwei%20Ders1.md)
-- [Software Enginnering](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Software%20Enginnering.md)
-- [Software Testing And Quality](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Software%20Testing%20And%20Quality.md)
-- [Web Programlama](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Web%20Programlama.md)
-- [İş Sağlığı ve Güvenliği](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi.md)
+- [Bilgisayar Grafikleri](.%5C3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CBilgisayar%20Grafikleri.md)
+- [Bilgisayar Mimarisi](.%5C3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CBilgisayar%20Mimarisi.md)
+- [Computer Networks and Technologies](.%5C3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CComputer%20Networks%20and%20Technologies.md)
+- [Görüntü İşleme](.%5C3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CG%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Fleme.md)
+- [Hauwei Ders1](.%5C3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CHauwei%20Ders1.md)
+- [Software Enginnering](.%5C3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CSoftware%20Enginnering.md)
+- [Software Testing And Quality](.%5C3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CSoftware%20Testing%20And%20Quality.md)
+- [Web Programlama](.%5C3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5CWeb%20Programlama.md)
+- [İş Sağlığı ve Güvenliği](.%5C3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1%5C%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi.md)
 
 ## Okul Notları
 
-- [Anketleri Otomatik Dolduran Script](./Okul%20Notlar%C4%B1/Anketleri%20Otomatik%20Dolduran%20Script.md)
-- [Sınav Takvimi 2019](./Okul%20Notlar%C4%B1/S%C4%B1nav%20Takvimi%202019.pdf)
-- [Ücretsiz Yazılımlar](./Okul%20Notlar%C4%B1/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
+- [Anketleri Otomatik Dolduran Script](.%5COkul%20Notlar%C4%B1%5CAnketleri%20Otomatik%20Dolduran%20Script.md)
+- [Sınav Takvimi 2019](.%5COkul%20Notlar%C4%B1%5CS%C4%B1nav%20Takvimi%202019.pdf)
+- [Ücretsiz Yazılımlar](.%5COkul%20Notlar%C4%B1%5C%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
 
 <!--Index-->
 
