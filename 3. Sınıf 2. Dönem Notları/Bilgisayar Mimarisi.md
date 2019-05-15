@@ -18,7 +18,7 @@ Ders içerikleri için [buraya](https://drive.google.com/open?id=1UaEzFYthEzpGg_
 Proje ödevinin PDF'ine [buradan][Proje Ödevi] ulaşabilirsin.
 
 - Grup sayısı 5 kişiliktir
-- Son teslim tarihi: 15.05.2019 Çarşamba
+- Son teslim tarihi: 20 Mayıs 2019 Pazartesi
 - Proje'yi yapabilmek için **XILINX ISE Design Studio kurulumu** yapmanız gerekmekte
 
 ### XILINX ISE Design Studio

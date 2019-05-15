@@ -7,6 +7,7 @@
 - [Ders Hakkında](#ders-hakk%C4%B1nda)
   - [Ders Kaynakları](#ders-kaynaklar%C4%B1)
   - [Vize Hakkında](#vize-hakk%C4%B1nda)
+  - [Final Hakkında](#final-hakk%C4%B1nda)
 - [Giriş](#giri%C5%9F)
   - [Sık Sorulan Sorular](#s%C4%B1k-sorulan-sorular)
   - [İyi bir Yazılımın Temel Özellikleri](#i%CC%87yi-bir-yaz%C4%B1l%C4%B1m%C4%B1n-temel-%C3%B6zellikleri)
@@ -50,6 +51,15 @@ Ders içerikleri drive üzerinden yedeklenmektedir, [buraya](https://drive.googl
   - Use case diagram
   - Class diagram
   - Activity diagram
+
+### Final Hakkında
+
+> `Sefa Yalçındağ`'dan alıntıdır.
+
+- Tum dönem dahil
+  - Ağırlıklı vize sonrası slaytlar (9,11,19,22 sonrası)
+- Test ağırlıklı
+- Kolay
 
 ## Giriş
 
