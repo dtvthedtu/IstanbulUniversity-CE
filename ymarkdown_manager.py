@@ -487,13 +487,15 @@ def indexstr(pathname: str = os.getcwd(), headerlvl: int = 2, privates: set = se
             def encodedpath(pathname: str) -> str:
                 """Verilen yolu url formatında kodlama
 
+                Windows için gelen `\` karakteri `/` karakterine çevrilir
+
                 Args:
                     pathname (str): Yol ismi
 
                 Returns:
                     str: Kodlanmış metin
                 """
-                return quote(pathname)
+                return quote(pathname.replace("\\", "/"))
 
             pathname = modifypath(pathname)
             pathname = relativepath(pathname)
