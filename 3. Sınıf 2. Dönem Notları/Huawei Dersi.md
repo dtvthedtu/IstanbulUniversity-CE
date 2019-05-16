@@ -1,6 +1,8 @@
-# Hauwei Ders1 <!-- omit in toc -->
+# Hauwei Dersi <!-- omit in toc -->
 
-Adı sonradan değiştirilmeli 😁
+Adı sonradan değiştirilmeli 🤔
+
+> Notlar tam değildir, katıldığım (ve dinlediğim 😄) kısımlar yazılmıştır.
 
 ## Yazılım Notları
 
@@ -29,3 +31,11 @@ Adı sonradan değiştirilmeli 😁
 - *Router*, *switch*lerin haberleşmesini sağlar
 - *switch*, aynı ağdaki bilgisayarların haberleşmesini sağlar
 - *Gateway*, asıl hedefini belirtir ve hedefe giderken başka yerlere gitmesiyle ilgilnemez bilgisi olmaz. (kargo şirkerlerine paket vermek gibi)
+
+### Sınav Soruları
+
+![huawei1](../res/Huawei1.jpeg)
+
+![huawei2](../res/Huawei2.jpeg)
+
+![huawei3](../res/Huawei3.jpeg)
