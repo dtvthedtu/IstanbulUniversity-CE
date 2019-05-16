@@ -129,6 +129,7 @@
 - [Yüksek Lisans Programı Ders Listesi]
 - [Doktora Programı Ders Listesi]
 - [Eğitim Bilgileri]
+- [Erasmus İzlenecek Yollar][Erasmus]
 
 ### Faydalı Siteler
 
@@ -146,6 +147,7 @@
 [Yüksek Lisans Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1797
 [Doktora Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=2183
 [Eğitim Bilgileri]: http://bilgisayar.muhendislik.istanbulc.edu.tr/tr/content/egitim/lisans
+[Erasmus]: res/2019-2020-erasmus-izlenecek-yollar.pdf
 
 ## Lisans ve Teferruatlar
 
