@@ -5,8 +5,8 @@ Drive yedeklememe [buradan][Drive] erişebilirsin, gerekli bilgiler alındığı
 ## Ders Notları
 
 - Asma Mirkhan isimli arkadaşın notlarına [buradan][Asma Ders Notu] erişebilirsin
-- Dersin kitabına buradan erişebilirsin
+- Dersin kitabına [buradan][Kitap] erişebilirsin
 
 [Drive]: https://drive.google.com/open?id=1KBGNRl81zQ7BP5-x1vkSiSFGMCeV-PlR
 [Asma Ders Notu]: https://drive.google.com/open?id=1of9bn0rRiGG0EyyWugJMf0VCKFq4dNFp
-[Kitap]: https://drive.google.com/open?id=17FwqeUzIRy51x2YiqCOhayfZmQtCHajO
+[Kitap]: https://drive.google.com/open?id=1H744Dis0qU0IFqan2L9ZxRVRK9cD7zGJ
