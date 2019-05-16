@@ -40,7 +40,6 @@
 
 - [Atatürk İlkeleri ve İnklap](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nklap.md)
 - [Calculus 2](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Calculus%202.md)
-- [Differential Equations](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Differential%20Equations.md)
 - [Fizik 2](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Fizik%202.md)
 - [Introduction to Programming](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Introduction%20to%20Programming.md)
 - [Linear Algebra](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Linear%20Algebra.md)
