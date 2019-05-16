@@ -15,6 +15,7 @@
 
 > `HOME` tuşu ile yukarı yönlenebilrsiniz.
 
+- [1. Sınıf 1. Dönem Notları](#1-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
 - [1. Sınıf 2. Dönem Notları](#1-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [2.Sınıf 1.Dönem Notları](#2s%C4%B1n%C4%B1f-1d%C3%B6nem-notlar%C4%B1)
 - [2.Sınıf 2. Dönem Notları](#2s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
@@ -25,6 +26,8 @@
 - [Okul Notları](#okul-notlar%C4%B1)
 - [Yapılacaklar](#yap%C4%B1lacaklar)
 - [Harici Bağlantılar](#harici-ba%C4%9Flant%C4%B1lar)
+  - [Resmi Siteler](#resmi-siteler)
+  - [Faydalı Siteler](#faydal%C4%B1-siteler)
 - [Lisans ve Teferruatlar](#lisans-ve-teferruatlar)
 
 <!--Index-->
@@ -120,7 +123,16 @@
 
 ## Harici Bağlantılar
 
+### Resmi Siteler
+
 - [Aksis Cerrahpaşa](https://aksis.istanbulc.edu.tr/Account/LogOn)
+- [Lisans Programı Ders Listesi]
+- [Yüksek Lisans Programı Ders Listesi]
+- [Doktora Programı Ders Listesi]
+- [Eğitim Bilgiler]
+
+### Faydalı Siteler
+
 - [CE-IU][CE-IU]
 - [IU Coders][IU Coders]
 - Algoritma mantığını görselleştiren site ([Visioalgo][Visioalgo])
@@ -131,6 +143,10 @@
 [Ders İçerikleri]: res%2FBilgisayar%20M%C3%BChendisli%C4%9Fi%20Ders%20%C4%B0%C3%A7eri%C4%9Fi.pdf
 [IU Coders]: http://www.iucoders.com/index.jsp
 [Visioalgo]: https://visualgo.net/en
+[Lisans Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
+[Yüksek Lisans Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1797
+[Doktora Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=2183
+[Eğitim Bilgiler]: http://bilgisayar.muhendislik.istanbulc.edu.tr/tr/content/egitim/lisans
 
 ## Lisans ve Teferruatlar
 
