@@ -1,6 +1,8 @@
 # Hauwei Dersi <!-- omit in toc -->
 
-Adı sonradan değiştirilmeli 😁
+Adı sonradan değiştirilmeli 🤔
+
+> Notlar tam değildir, katıldığım (ve dinlediğim 😄) kısımlar yazılmıştır.
 
 ## Yazılım Notları
 
