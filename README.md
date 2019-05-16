@@ -20,6 +20,8 @@
 - [2.Sınıf 2. Dönem Notları](#2s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [3. Sınıf 1. Dönem Notları](#3-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
 - [3. Sınıf 2. Dönem Notları](#3-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
+- [4. Sınıf 1. Dönem Notları](#4-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
+- [4. Sınıf 2. Dönem Notları](#4-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [Okul Notları](#okul-notlar%C4%B1)
 - [Harici Bağlantılar](#harici-ba%C4%9Flant%C4%B1lar)
 - [Lisans ve Teferruatlar](#lisans-ve-teferruatlar)
@@ -76,6 +78,26 @@
 - [Software Testing And Quality](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Software%20Testing%20And%20Quality.md)
 - [Web Programlama](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Web%20Programlama.md)
 - [İş Sağlığı ve Güvenliği](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0%C5%9F%20Sa%C4%9Fl%C4%B1%C4%9F%C4%B1%20ve%20G%C3%BCvenli%C4%9Fi.md)
+
+## 4. Sınıf 1. Dönem Notları
+
+- [Bilişim Proje Geliştirme](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme.md)
+- [Bulanık Mantık](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bulan%C4%B1k%20Mant%C4%B1k.md)
+- [Derleyici Tasarımı](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Derleyici%20Tasar%C4%B1m%C4%B1.md)
+- [Kablosuz Haberleşme Ağları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Kablosuz%20Haberle%C5%9Fme%20A%C4%9Flar%C4%B1.md)
+- [Matlab](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Matlab.md)
+- [Mobile Programming](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Mobile%20Programming.md)
+- [İnformasyon Güvenliği ve Kriptoloji](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0nformasyon%20G%C3%BCvenli%C4%9Fi%20ve%20Kriptoloji.md)
+
+## 4. Sınıf 2. Dönem Notları
+
+- [Ağ Programlama](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/A%C4%9F%20Programlama.md)
+- [Bilgisayar Ağlarında Güvenlik](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20A%C4%9Flar%C4%B1nda%20G%C3%BCvenlik.md)
+- [Finansta Bilişim Teknolojileri](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Finansta%20Bili%C5%9Fim%20Teknolojileri.md)
+- [Information Technology Management and Standards](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Information%20Technology%20Management%20and%20Standards.md)
+- [Object Oriented Analysis and Design](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Object%20Oriented%20Analysis%20and%20Design.md)
+- [Special Topics on Computer Networks](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Special%20Topics%20on%20Computer%20Networks.md)
+- [Uygulamalı Girişimcilik](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Uygulamal%C4%B1%20Giri%C5%9Fimcilik.md)
 
 ## Okul Notları
 
