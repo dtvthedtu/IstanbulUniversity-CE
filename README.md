@@ -23,6 +23,7 @@
 - [4. Sınıf 1. Dönem Notları](#4-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
 - [4. Sınıf 2. Dönem Notları](#4-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [Okul Notları](#okul-notlar%C4%B1)
+- [Yapılacaklar](#yap%C4%B1lacaklar)
 - [Harici Bağlantılar](#harici-ba%C4%9Flant%C4%B1lar)
 - [Lisans ve Teferruatlar](#lisans-ve-teferruatlar)
 
@@ -106,6 +107,10 @@
 - [Ücretsiz Yazılımlar](./Okul%20Notlar%C4%B1/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
 
 <!--Index-->
+
+## Yapılacaklar
+
+- [ ] Okuldaki, bizim bölüm ile alakalı veya alakasız olan klüpler ile ilgili bilgiler `Okul Klüpleri.md` içerisine eklenecektir.
 
 ## Harici Bağlantılar
 
