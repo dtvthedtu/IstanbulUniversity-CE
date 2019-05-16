@@ -129,7 +129,7 @@
 - [Lisans Programı Ders Listesi]
 - [Yüksek Lisans Programı Ders Listesi]
 - [Doktora Programı Ders Listesi]
-- [Eğitim Bilgiler]
+- [Eğitim Bilgileri]
 
 ### Faydalı Siteler
 
@@ -146,7 +146,7 @@
 [Lisans Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
 [Yüksek Lisans Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1797
 [Doktora Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=2183
-[Eğitim Bilgiler]: http://bilgisayar.muhendislik.istanbulc.edu.tr/tr/content/egitim/lisans
+[Eğitim Bilgileri]: http://bilgisayar.muhendislik.istanbulc.edu.tr/tr/content/egitim/lisans
 
 ## Lisans ve Teferruatlar
 
