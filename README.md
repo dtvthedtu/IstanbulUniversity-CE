@@ -74,7 +74,7 @@
 - [Bilgisayar Mimarisi](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Mimarisi.md)
 - [Computer Networks and Technologies](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Computer%20Networks%20and%20Technologies.md)
 - [Görüntü İşleme](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Fleme.md)
-- [Hauwei Ders1](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Hauwei%20Ders1.md)
+- [Huawei Dersi](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Huawei%20Dersi.md)
 - [Software Enginnering](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Software%20Enginnering.md)
 - [Software Testing And Quality](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Software%20Testing%20And%20Quality.md)
 - [Web Programlama](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Web%20Programlama.md)
@@ -103,6 +103,7 @@
 ## Okul Notları
 
 - [Anketleri Otomatik Dolduran Script](./Okul%20Notlar%C4%B1/Anketleri%20Otomatik%20Dolduran%20Script.md)
+- [Okul Klüpleri](./Okul%20Notlar%C4%B1/Okul%20Kl%C3%BCpleri.md)
 - [Sınav Takvimi 2019](./Okul%20Notlar%C4%B1/S%C4%B1nav%20Takvimi%202019.pdf)
 - [Ücretsiz Yazılımlar](./Okul%20Notlar%C4%B1/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
 
