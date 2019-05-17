@@ -112,7 +112,12 @@
 
 ### Final Hakkında
 
-Final sınavı konu kapsamı, Chapter 4, HUAWEI-WEEK1, HUAWEI-WEEK2, HUAWEI-WEEK3 adlı dökümanlarda yer alan konulardır.
+Final sınavı konu kapsamı:
+
+- Chapter 4
+- HUAWEI-WEEK1
+- HUAWEI-WEEK2
+- HUAWEI-WEEK3
 
 > Hoca'nın duyurusudur.
 
