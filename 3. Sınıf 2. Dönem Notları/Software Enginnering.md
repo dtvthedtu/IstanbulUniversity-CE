@@ -54,12 +54,11 @@ Ders içerikleri drive üzerinden yedeklenmektedir, [buraya](https://drive.googl
 
 ### Final Hakkında
 
-> `Sefa Yalçındağ`'dan alıntıdır.
-
 - Tum dönem dahil
   - Ağırlıklı vize sonrası slaytlar (9,11,19,22 sonrası)
 - Test ağırlıklı
 - Kolay
+- [Jira], Git, [Confluence]
 
 ## Giriş
 
@@ -135,3 +134,6 @@ Web sitesi üzerinden açıklama için [buraya](https://www.lucidchart.com/pages
 ## Faydalı Linkler
 
 - [Diagram Çizme Uygulamaları](https://www.lucidchart.com/)
+
+[Confluence]: https://www.atlassian.com/software/confluence
+[Jira]: https://www.atlassian.com/software/jira
