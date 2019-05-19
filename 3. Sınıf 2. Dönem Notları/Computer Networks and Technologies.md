@@ -150,15 +150,18 @@
 - Sınav formatı karışıktır.
 - 2.3 ve 2.7 dahil değildir
 
+> **Network Layer**'a kadar olan kısım vize için notlarımdır
+
 ### Final Hakkında
 
 Final sınavı konu kapsamı:
 
 - Chapter 4
-  - Kendi notlarım *Network Layer* adı altındadır
-- HUAWEI-WEEK1
-- HUAWEI-WEEK2
-- HUAWEI-WEEK3
+  - Kendi notlarım **Network Layer** adı altındadır
+- HUAWEI-WEEK1, HUAWEI-WEEK2, HUAWEI-WEEK3
+  - **Huawei dersi** adı altındadır
+
+> **Network Layer** ve sonrası final için notlarımdır
 
 ## Giriş
 
@@ -1250,8 +1253,6 @@ Switch içerisinde switch yapısı oluştururak, sanal bir ağ yapısı sunar
 
 ![huawei3](../res/Huawei3.jpeg)
 
----
-
 ## Lisans ve Teferruatlar
 
 Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
@@ -1263,8 +1264,6 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 > Yardım veya destek için [iletişime](mailto::yyunussemree@gmail.com) geçebilrsiniz 😇.
 
 ~ Yunus Emre Ak
-
----
 
 > Katkı sağlayanlar:
 >
