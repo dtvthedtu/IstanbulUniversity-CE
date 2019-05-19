@@ -44,25 +44,25 @@
 - [Introduction to Programming](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Introduction%20to%20Programming.md)
 - [Linear Algebra](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Linear%20Algebra.md)
 
-## 2.Sınıf 1.Dönem Notları
+## 2 .Sınıf 2. Dönem Notları
 
-- [Devreler ve Sistemler](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Devreler%20ve%20Sistemler.md)
-- [Differantial Equations](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Differantial%20Equations.md)
-- [Lojik Devre Tasarımı](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Lojik%20Devre%20Tasar%C4%B1m%C4%B1.md)
-- [Nesneye Yönelik Programlama](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama.md)
-- [Olasılık Teorisi ve İstatistik](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Olas%C4%B1l%C4%B1k%20Teorisi%20ve%20%C4%B0statistik.md)
-- [Veri Yapıları](./2.S%C4%B1n%C4%B1f%201.D%C3%B6nem%20Notlar%C4%B1/Veri%20Yap%C4%B1lar%C4%B1.md)
+- [Bilgisayar Organizasyonu ve Tasarımı](./2%20.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Organizasyonu%20ve%20Tasar%C4%B1m%C4%B1.md)
+- [File Organization](./2%20.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization.md)
+- [Formal Diller ve Otomatlar](./2%20.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Formal%20Diller%20ve%20Otomatlar.md)
+- [Lojik Devre Tasarımı Labrotuvarı](./2%20.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Lojik%20Devre%20Tasar%C4%B1m%C4%B1%20Labrotuvar%C4%B1.md)
+- [Mikroişlemciler](./2%20.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Mikroi%C5%9Flemciler.md)
+- [Programming Applicaiton](./2%20.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Programming%20Applicaiton.md)
+- [Random and Stochastic Processes](./2%20.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Random%20and%20Stochastic%20Processes.md)
+- [Sayısal Metotlar](./2%20.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Say%C4%B1sal%20Metotlar.md)
 
-## 2.Sınıf 2. Dönem Notları
+## 2. Sınıf 1. Dönem Notları
 
-- [Bilgisayar Organizasyonu ve Tasarımı](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Organizasyonu%20ve%20Tasar%C4%B1m%C4%B1.md)
-- [File Organization](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization.md)
-- [Formal Diller ve Otomatlar](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Formal%20Diller%20ve%20Otomatlar.md)
-- [Lojik Devre Tasarımı Labrotuvarı](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Lojik%20Devre%20Tasar%C4%B1m%C4%B1%20Labrotuvar%C4%B1.md)
-- [Mikroişlemciler](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Mikroi%C5%9Flemciler.md)
-- [Programming Applicaiton](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Programming%20Applicaiton.md)
-- [Random and Stochastic Processes](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Random%20and%20Stochastic%20Processes.md)
-- [Sayısal Metotlar](./2.S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Say%C4%B1sal%20Metotlar.md)
+- [Devreler ve Sistemler](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Devreler%20ve%20Sistemler.md)
+- [Differantial Equations](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Differantial%20Equations.md)
+- [Lojik Devre Tasarımı](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Lojik%20Devre%20Tasar%C4%B1m%C4%B1.md)
+- [Nesneye Yönelik Programlama](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama.md)
+- [Olasılık Teorisi ve İstatistik](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Olas%C4%B1l%C4%B1k%20Teorisi%20ve%20%C4%B0statistik.md)
+- [Veri Yapıları](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Veri%20Yap%C4%B1lar%C4%B1.md)
 
 ## 3. Sınıf 1. Dönem Notları
 
@@ -81,7 +81,6 @@
 - [Bilgisayar Mimarisi](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Mimarisi.md)
 - [Computer Networks and Technologies](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Computer%20Networks%20and%20Technologies.md)
 - [Görüntü İşleme](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/G%C3%B6r%C3%BCnt%C3%BC%20%C4%B0%C5%9Fleme.md)
-- [Huawei Dersi](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Huawei%20Dersi.md)
 - [Software Enginnering](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Software%20Enginnering.md)
 - [Software Testing And Quality](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Software%20Testing%20And%20Quality.md)
 - [Web Programlama](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Web%20Programlama.md)
