@@ -150,7 +150,7 @@
 - Sınav formatı karışıktır.
 - 2.3 ve 2.7 dahil değildir
 
-> **Network Layer**'a kadar olan kısım vize için notlarımdır
+> [Network Layer] kısmına kadar olan kısım vize için notlarımdır.
 
 ### Final Hakkında
 
@@ -161,7 +161,7 @@ Final sınavı konu kapsamı:
 - HUAWEI-WEEK1, HUAWEI-WEEK2, HUAWEI-WEEK3
   - **Huawei dersi** adı altındadır
 
-> **Network Layer** ve sonrası final için notlarımdır
+> [Network Layer] ve sonrası final için notlarımdır.
 
 ## Giriş
 
@@ -1269,3 +1269,11 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 >
 > - Sefa Yalçındağ (Final konularına beraber çalışıldı)
 > - Sena Modanlıoğlu (Huawei sınav soruları)
+
+[Network Layer]: #network-layer
+
+<!-- Latex desteği -->
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>
