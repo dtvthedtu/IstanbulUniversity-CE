@@ -28,7 +28,7 @@
 - Hocası: *Atakan Kurt*
 - Vakti: Salı 9:00
 - *Yoklama var*
-- 1 Arasınav 1 Final
+- 1 Arasınav 1 *Final***
 - Google grubu için [buraya](https://groups.google.com/forum/#!forum/software2019) tıklayabilirsin.
  bakabilirsin
 
@@ -139,6 +139,6 @@ Web sitesi üzerinden açıklama için [buraya](https://www.lucidchart.com/pages
 
 - [Diagram Çizme Uygulamaları](https://www.lucidchart.com/)
 
-[Drive]: https://github.com/yedhrab/IstanbulUniversity-CE.git
+[Drive]: https://drive.google.com/open?id=1beBgJAiw05F6cV_GYiRqDcn3pqHlcp1r
 [Confluence]: https://www.atlassian.com/software/confluence
 [Jira]: https://www.atlassian.com/software/jira
