@@ -30,10 +30,14 @@
 - *Yoklama var*
 - 1 Arasınav 1 Final
 - Google grubu için [buraya](https://groups.google.com/forum/#!forum/software2019) tıklayabilirsin.
+ bakabilirsin
 
 ### Ders Kaynakları
 
 Ders içerikleri drive üzerinden yedeklenmektedir, [buraya](https://drive.google.com/open?id=1RlXOQlUwKcLO5t-r1N4Y9szn2g_R9lJi) tıklayarak erişebilirsin.
+
+- Dersin baz aldığı slaytların sitesi için [buraya](https://iansommerville.com/software-engineering-book/slides/)
+- Labdaki UML çalışmalarına [buradan](https://drive.google.com/open?id=1ktuvuBlt1beX84tDpJYQSEqvhbl-i_x1) erişebilirsin
 
 ### Vize Hakkında
 
