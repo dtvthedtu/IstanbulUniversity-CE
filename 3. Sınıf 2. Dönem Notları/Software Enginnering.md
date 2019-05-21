@@ -34,7 +34,7 @@
 
 ### Ders Kaynakları
 
-Ders içerikleri drive üzerinden yedeklenmektedir, [buraya](https://drive.google.com/open?id=1RlXOQlUwKcLO5t-r1N4Y9szn2g_R9lJi) tıklayarak erişebilirsin.
+Ders içerikleri drive üzerinden yedeklenmektedir, [buraya][Drive] tıklayarak erişebilirsin.
 
 - Dersin baz aldığı slaytların sitesi için [buraya](https://iansommerville.com/software-engineering-book/slides/)
 - Labdaki UML çalışmalarına [buradan](https://drive.google.com/open?id=1ktuvuBlt1beX84tDpJYQSEqvhbl-i_x1) erişebilirsin
@@ -139,5 +139,6 @@ Web sitesi üzerinden açıklama için [buraya](https://www.lucidchart.com/pages
 
 - [Diagram Çizme Uygulamaları](https://www.lucidchart.com/)
 
+[Drive]: https://github.com/yedhrab/IstanbulUniversity-CE.git
 [Confluence]: https://www.atlassian.com/software/confluence
 [Jira]: https://www.atlassian.com/software/jira
