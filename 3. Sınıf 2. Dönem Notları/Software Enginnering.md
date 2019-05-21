@@ -59,7 +59,7 @@ Ders içerikleri drive üzerinden yedeklenmektedir, [buraya][Drive] tıklayarak 
 ### Final Hakkında
 
 - Tum dönem dahil
-  - Ağırlıklı vize sonrası slaytlar (9,11,19,22 sonrası)
+  - Ağırlıklı vize sonrası slaytlar (9,11,19,22)
 - Test ağırlıklı
 - Kolay
 - [Jira], Git, [Confluence]
