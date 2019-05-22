@@ -8,6 +8,7 @@
 > `HOME` tuşu ile yukarı yönelebilirsin
 
 - [Vize Hakkında](#vize-hakk%C4%B1nda)
+- [Final Hakkında](#final-hakk%C4%B1nda)
 - [Vize Notlarım](#vize-notlar%C4%B1m)
   - [İlk Çalışmalar](#i%CC%87lk-%C3%A7al%C4%B1%C5%9Fmalar)
   - [Endüstriyel Tıbbın Doğuşu](#end%C3%BCstriyel-t%C4%B1bb%C4%B1n-do%C4%9Fu%C5%9Fu)
@@ -47,6 +48,12 @@ Dikkat bu kısım alıntıların olduğu alandır. Notlara [buraya](https://driv
 - Çıkmış sorular 🌟 için [buraya](https://drive.google.com/open?id=1kk6WOlcCd-iEcqPRAWvxM7uhUQhyVgzD) bakabilrirsin.
 
 > Ek olarak: Üstü çizik olan slaytlar hocanın slaytında yokmuş, hoca ufak bir göz atarsınız demiş. (Sezgin Otlak)
+
+## Final Hakkında
+
+Final için sorumlu olduğumuz kısma [buradan](https://drive.google.com/open?id=1JG54gg9tZ6IMBHMT9vp_xlQfu2Mcg7IJ) erişebilirsin.
+
+> Sezgin Otlak ©
 
 ## Vize Notlarım
 
