@@ -1,6 +1,6 @@
 # Bilgisayar Mimarisi <!-- omit in toc -->
 
-Ders içerikleri için [buraya](https://drive.google.com/open?id=1UaEzFYthEzpGg_r3B0o4bznxK6XkuEVE) tıklayabilirsin.
+Ders içerikleri için [buraya][Drive] tıklayabilirsin.
 
 ## İçerikler <!-- omit in toc -->
 
@@ -79,6 +79,8 @@ Hocanın hazırlamış olduğu videolar:
 - [16bit Mips VHDL]
 - [MIPS-Processor-VHDL - Github]
 - [PiJoules/MIPS-processor]
+
+[Drive]: https://drive.google.com/open?id=1NXSZ1cKrnX7mf7tUahAgKbzd-TcWMs2X
 
 [Proje Ödevi]: ../res/2019_bilgisayar_mimarisi_proje.pdf
 [XILINX ISE Design Studio]: https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/design-tools.html
