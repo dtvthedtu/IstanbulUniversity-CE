@@ -4,6 +4,7 @@ Ders içerikleri için [buraya](https://drive.google.com/open?id=1UaEzFYthEzpGg_
 
 ## İçerikler <!-- omit in toc -->
 
+- [Çalışma Notlarım](#%C3%A7al%C4%B1%C5%9Fma-notlar%C4%B1m)
 - [Proje Ödevi](#proje-%C3%B6devi)
   - [XILINX ISE Design Studio](#xilinx-ise-design-studio)
   - [XILINX Kullanımı](#xilinx-kullan%C4%B1m%C4%B1)
@@ -12,6 +13,10 @@ Ders içerikleri için [buraya](https://drive.google.com/open?id=1UaEzFYthEzpGg_
     - [Simüle Etme](#sim%C3%BCle-etme)
   - [Teslim Şekli](#teslim-%C5%9Fekli)
   - [Faydalı Bağlantılar](#faydal%C4%B1-ba%C4%9Flant%C4%B1lar)
+
+## Çalışma Notlarım
+
+Çalışma notlarıma [buradan](https://drive.google.com/open?id=1t2bjjr6eOzyZ2TNo1LQQiJnWo45sZgDa) erişebilirsin.
 
 ## Proje Ödevi
 
