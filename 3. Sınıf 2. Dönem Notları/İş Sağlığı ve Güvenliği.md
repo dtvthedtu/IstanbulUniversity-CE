@@ -51,7 +51,8 @@ Dikkat bu kısım alıntıların olduğu alandır. Notlara [buraya](https://driv
 
 ## Final Hakkında
 
-Final için sorumlu olduğumuz kısma [buradan](https://drive.google.com/open?id=1JG54gg9tZ6IMBHMT9vp_xlQfu2Mcg7IJ) erişebilirsin.
+- Final için sorumlu olduğumuz kısma [buradan](https://drive.google.com/open?id=1JG54gg9tZ6IMBHMT9vp_xlQfu2Mcg7IJ) erişebilirsin.
+- Final sınavına [buradan][Final Sınavı] erişebilrsin
 
 > Sezgin Otlak ©
 
@@ -279,3 +280,5 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 > Yardım veya destek için [iletişime](mailto::yyunussemree@gmail.com) geçebilrsiniz 😇
 
 ~ Yunus Emre Ak
+
+[Final Sınavı]: https://drive.google.com/open?id=1I4kWBMfGzrfy6VkzP5jeL1kQ5C6CgstL

@@ -13,6 +13,7 @@ Ders içerikleri için [buraya][Drive] tıklayabilirsin.
     - [Simüle Etme](#sim%C3%BCle-etme)
   - [Teslim Şekli](#teslim-%C5%9Fekli)
   - [Faydalı Bağlantılar](#faydal%C4%B1-ba%C4%9Flant%C4%B1lar)
+- [Faydalı Siteler](#faydal%C4%B1-siteler)
 
 ## Çalışma Notlarım
 
@@ -80,6 +81,10 @@ Hocanın hazırlamış olduğu videolar:
 - [MIPS-Processor-VHDL - Github]
 - [PiJoules/MIPS-processor]
 
+## Faydalı Siteler
+
+- [MIPS Visual]
+
 [Drive]: https://drive.google.com/open?id=1NXSZ1cKrnX7mf7tUahAgKbzd-TcWMs2X
 
 [Proje Ödevi]: ../res/2019_bilgisayar_mimarisi_proje.pdf
@@ -93,3 +98,5 @@ Hocanın hazırlamış olduğu videolar:
 [16bit Mips VHDL]: https://www.fpga4student.com/2017/09/vhdl-code-for-mips-processor.html
 [MIPS-Processor-VHDL - Github]: https://github.com/cm4233/MIPS-Processor-VHDL
 [PiJoules/MIPS-processor]: https://github.com/PiJoules/MIPS-processor
+
+[MIPS Visual]: http://www3.ntu.edu.sg/home/smitha/FYP_Gerald/index.html
