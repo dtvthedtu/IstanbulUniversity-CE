@@ -12,6 +12,7 @@ TODO: ToC oluştur
 TODO: Header'lar için dinamik link oluştur [Baslik]: #baslik
 TODO: Belki vscode eklentisi yapabilirsin
 TODO: index="md" şeklinde veri alımı yap, stringlerdeki boşluk siliniyor
+TODO: Controller şeklinde ayrılabilir Option kısmı
 
 Yapısal işlem Notları:
     TODO: list, private gibi işlemler en dışta olacak
@@ -26,7 +27,7 @@ from enum import Enum, unique
 from urllib.parse import quote
 
 # Yapılandırma dosyası ayarları
-CONFIG_FILE = "ymm.cfg"
+INI_FILE = "ymm.ini"
 README_FILE = "README.md"
 COMMENT_DELIM = "#"
 VARIABLE_DELIM = "="
@@ -64,6 +65,10 @@ OPTIONS = {
     "MAKE_LINKS_DYNAMIC": Option(
         False,
         "Statik linkleri dinamik linklere çevirme"
+    ),
+    "FAST_DIR_MODE": Option(
+        False,
+        "Dosyalar yerine ana dizinde bulunan dizinlerin alt dizinlerini indeksler"
     )
 }
 
@@ -81,7 +86,7 @@ def load_cfg():
         Returns:
             bool -- Dosya varsa `True`, yoksa `False`
         """
-        return CONFIG_FILE in os.listdir()
+        return INI_FILE in os.listdir()
 
     def read_cfg() -> None:
         """Yapılandırma dosyasındaki verileri değişkenlere kaydetme
@@ -201,7 +206,7 @@ def load_cfg():
             if value not in PRIVATES:
                 PRIVATES.add(value)
 
-        with open(CONFIG_FILE, "r", encoding="utf-8") as file:
+        with open(INI_FILE, "r", encoding='utf8') as file:
             for line in file:
                 # Gereksiz karakterleri kaldırma
                 line = trim_line(line)
@@ -223,7 +228,7 @@ def load_cfg():
         """Yapılandırma dosyasını oluşturma
         """
 
-        def headerstr(string: str) -> str:
+        def create_header(string: str) -> str:
             """Başlık metnini oluşturma
 
             Args:
@@ -254,7 +259,7 @@ def load_cfg():
                 filestr += "\n"
                 return filestr
 
-            filestr = headerstr(CONFIG_HEADER)
+            filestr = create_header(CONFIG_HEADER)
             filestr += optionstr()
             return filestr
 
@@ -265,13 +270,13 @@ def load_cfg():
                 str: Oluşturulan metin
             """
 
-            filestr = headerstr(PRIVATE_HEADER)
+            filestr = create_header(PRIVATE_HEADER)
             for private in PRIVATES:
                 filestr += f"{private}\n"
             filestr += "\n"
             return filestr
 
-        with open(CONFIG_FILE, "w", encoding="utf-8") as file:
+        with open(INI_FILE, "w", encoding='utf8') as file:
             file.write(configstr())
             file.write(privatestr())
 
@@ -342,6 +347,114 @@ def listfilepaths(path: str = os.getcwd(), sort: bool = False) -> list:
     return filelist
 
 
+def create_header(folderpath: str, headerlvl: int) -> str:
+    """Dizin için markdown header'ı oluşturma
+
+    Args:
+        folderpath (str): Dizin yolu
+        headerlvl (int): # sayısı
+
+    Returns:
+        str: Oluşturulan metin
+    """
+
+    header = ""
+    for _ in range(0, headerlvl):
+        header += "#"
+
+    foldername = os.path.basename(folderpath)
+    header += f" {foldername}\n\n"
+
+    return header
+
+
+def remove_extension(filepath: str) -> str:
+    """Dosya uzantısını kaldırma
+
+    Args:
+        filepath (str): Dosya yolu
+
+    Returns:
+        str: Uzantsız dosya yolu
+    """
+
+    filepath, _ = os.path.splitext(filepath)
+    return filepath
+
+
+def get_ext(filepath: str) -> str:
+    """Dosya uzantısını alma
+
+    Args:
+        filepath (str): Dosya yolu
+
+    Returns:
+        str: Uzantı `.ext`
+    """
+
+    _, ext = os.path.splitext(filepath)
+    return ext
+
+
+def create_link(path: str) -> str:
+    """Verilen yola uygun kodlanmış markdown linki oluşturma
+
+    Args:
+        pathname (str): Yol
+
+    Returns:
+        str: Oluşturulan link metni
+    """
+
+    def barename(path: str) -> str:
+        """Dosya yolundan, yol ve uzantıyı temizleme
+
+        Args:
+            filepath (str): Dosya yolu
+
+        Returns:
+            str: Sadece dosya ismi
+        """
+
+        pathname = remove_extension(path)
+        pathname = os.path.basename(pathname)
+
+        return pathname
+
+    def relativepath(path: str) -> str:
+        """ Statik yol verisini dinamik yol verisine dönüştürme
+
+        Args:
+            pathname (str): Yol ismi
+
+        Returns:
+            str: Dönüştürülen metin
+        """
+
+        return path.replace(os.getcwd(), '.')
+
+    def encodedpath(path: str) -> str:
+        """ Verilen yolu url formatında kodlama
+
+        Windows için gelen '\\' karakteri '/' karakterine çevrilir
+
+        Args:
+            pathname (str): Yol ismi
+
+        Returns:
+            str: Kodlanmış metin
+        """
+
+        return quote(path.replace("\\", "/"))
+
+    pathname = barename(path)
+    path = relativepath(path)
+    path = encodedpath(path)
+
+    link = f"- [{pathname}]({path})\n"
+    return link
+
+
 def apply_all_files(func, path: str = os.getcwd(), sort: bool = False):
     for filepath in listfilepaths(path, sort):
         filepath = os.path.join(path, filepath)
@@ -374,26 +487,6 @@ def indexstr(pathname: str = os.getcwd(), headerlvl: int = 2, privates: set = se
         str: Oluşturulan metin
     """
 
-    def headerstr(folderpath: str, headerlvl: int) -> str:
-        """Dizin için markdown header'ı oluşturma
-
-        Args:
-            folderpath (str): Dizin yolu
-            headerlvl (int): # sayısı
-
-        Returns:
-            str: Oluşturulan metin
-        """
-
-        header = ""
-        for i in range(0, headerlvl):
-            header += "#"
-
-        foldername = os.path.basename(folderpath)
-        header += f" {foldername}\n\n"
-
-        return header
-
     def linkstr(folderpath: str) -> str:
         """Dizin için markdown linklerini oluşturma
 
@@ -405,120 +498,26 @@ def indexstr(pathname: str = os.getcwd(), headerlvl: int = 2, privates: set = se
             str: Oluşturulan metin
         """
 
-        def barename(filepath: str) -> str:
-            """Dosya yolundan, yol ve uzantıyı temizleme
+        def modifypath(pathname: str) -> str:
+            """ Yol verisini düzenleme
 
-            Args:
-                filepath (str): Dosya yolu
-
-            Returns:
-                str: Sadece dosya ismi
-            """
-
-            filename = os.path.basename(filepath)
-            filename = remove_extension(filename)
-
-            return filename
-
-        def remove_extension(filepath: str) -> str:
-            """Dosya uzantısını kaldırma
-
-            Args:
-                filepath (str): Dosya yolu
-
-            Returns:
-                str: Uzantsız dosya yolu
-            """
-
-            filepath, _ = os.path.splitext(filepath)
-            return filepath
-
-        def get_ext(filepath: str) -> str:
-            """Dosya uzantısını alma
-
-            Args:
-                filepath (str): Dosya yolu
-
-            Returns:
-                str: Uzantı `.ext`
-            """
-
-            _, ext = os.path.splitext(filepath)
-            return ext
-
-        def encoded_realtivepath(pathname: str) -> str:
-            """Verilen yola uygun kodlanmış markdown linki oluşturma
+            Uzantıyı koşula bağlı kaldırma veya kaldırmama
 
             Args:
                 pathname (str): Yol
 
             Returns:
-                str: Oluşturulan link metni
+                str: Düzenlenen yol
             """
 
-            def modifypath(pathname: str) -> str:
-                """Yol verisini düzenleme
-
-                Uzantıyı koşula bağlı kaldırma veya kaldırmama
-
-                Args:
-                    pathname (str): Yol
-
-                Returns:
-                    str: Düzenlenen yol
-                """
-
-                if remove_md and ("md" in pathname):
-                    pathname = remove_extension(pathname)
-                return pathname
-
-            def relativepath(pathname: str) -> str:
-                """Statik yol verisini dinamik yol verisine dönüştürme
-
-                Args:
-                    pathname (str): Yol ismi
-
-                Returns:
-                    str: Dönüştürülen metin
-                """
-
-                return pathname.replace(os.getcwd(), '.')
-
-            def encodedpath(pathname: str) -> str:
-                """Verilen yolu url formatında kodlama
-
-                Windows için gelen `\` karakteri `/` karakterine çevrilir
-
-                Args:
-                    pathname (str): Yol ismi
-
-                Returns:
-                    str: Kodlanmış metin
-                """
-                return quote(pathname.replace("\\", "/"))
-
-            pathname = modifypath(pathname)
-            pathname = relativepath(pathname)
-            pathname = encodedpath(pathname)
+            if remove_md and (".md" in pathname):
+                pathname = remove_extension(pathname)
             return pathname
-
-        def create_link(filepath: str) -> str:
-            """Markdown linki oluşturma
-
-            Args:
-                filepath (str): Dosya yolu
-
-            Returns:
-                str: Oluşturulan link
-            """
-
-            filename = barename(filepath)
-            link = f"- [{filename}]({encoded_realtivepath(filepath)})\n"
-            return link
 
         linkstr = ""
         filepaths = listfilepaths(folderpath, sort=sort)
         for filepath in filepaths:
+            filepath = modifypath(filepath)
             linkstr += create_link(filepath)
 
         # Link varsa satır atlatma, link yoksa gereksiz satır oluşturulmasını engelliyor
@@ -530,7 +529,7 @@ def indexstr(pathname: str = os.getcwd(), headerlvl: int = 2, privates: set = se
     filestr = ""
     folderpaths = listfolderpaths(pathname, sort=sort)
     for folderpath in folderpaths:
-        filestr += headerstr(folderpath, headerlvl)
+        filestr += create_header(folderpath, headerlvl)
         filestr += linkstr(folderpath)
         filestr += indexstr(folderpath, headerlvl + 1,
                             privates, sort, remove_md, indexfilter)
@@ -555,7 +554,7 @@ def insertfile(filename: str, string: str, indicator: str):
             filestr += "\n"
             return filestr
 
-        with open(filename, "r", encoding="utf-8") as file:
+        with open(filename, "r", encoding='utf8') as file:
             for line in file:
                 if save:
                     filestr += line
@@ -572,7 +571,7 @@ def insertfile(filename: str, string: str, indicator: str):
     filestr = create_filestr()
     # Hatalı işlemleri dosyanın silinmesini engeller
     if len(filestr) > 0:
-        with open(filename, "w", encoding="utf-8") as file:
+        with open(filename, "w", encoding='utf8') as file:
             file.write(filestr)
     else:
         print("Dosya okumada hata meydana geldi :(")
@@ -686,7 +685,7 @@ def replace_static_links_from_file(filepath) -> str:
         return filestr
 
     filestr = ""
-    with open(filepath, "r", encoding="utf-8") as file:
+    with open(filepath, "r", encoding='utf8') as file:
 
         for line in file:
             # Her ayıracın konum indeksini tanımlama
@@ -741,14 +740,32 @@ def replace_static_links_from_file(filepath) -> str:
     filestr = append_header(filestr)
     filestr = append_links(filestr)
 
-    with open(filepath, "w", encoding="utf-8") as file:
+    with open(filepath, "w", encoding='utf8') as file:
         file.write(filestr)
+
+
+def indexdir(pathname: str = os.getcwd()) -> str:
+    indexstr = ""
+
+    folders = listfolderpaths(pathname, True)
+    for folder in folders:
+        subfolders = listfolderpaths(folder, True)
+
+        # Alt dizinleri olmayan dizinler için gereksiz header oluşturmama
+        if len(subfolders) > 0:
+            indexstr += create_header(folder, 2)
+            for subfolder in subfolders:
+                indexstr += create_link(subfolder)
+            indexstr += "\n"
+
+    return indexstr
 
 
 def manager():
     """README'de indeksleme oluşturucu
-README dosyasında '<!--Index-->' adlı kısmın içerisine indekslemeyi iliştirir.
-"""
+
+    README dosyasında '<!--Index-->' adlı kısmın içerisine indekslemeyi iliştirir.
+    """
 
     load_cfg()
     # TODO: Veriler bulunamazsa default değer veren bir metod ekle
@@ -758,9 +775,14 @@ README dosyasında '<!--Index-->' adlı kısmın içerisine indekslemeyi ilişti
     indicator = OPTIONS['INSERT_INDICATOR'].value
     indexfilter = OPTIONS['INDEX_FILTER'].value
     dynamic_link = OPTIONS['MAKE_LINKS_DYNAMIC'].value
+    dir_mode = OPTIONS['FAST_DIR_MODE'].value
 
-    string = indexstr(privates=PRIVATES, sort=sort,
-                      remove_md=remove_md, indexfilter=indexfilter)
+    if dir_mode:
+        string = indexdir()
+    else:
+        string = indexstr(privates=PRIVATES, sort=sort,
+                          remove_md=remove_md, indexfilter=indexfilter)
+
     insertfile(README_FILE, string, indicator)
 
     if dynamic_link:
