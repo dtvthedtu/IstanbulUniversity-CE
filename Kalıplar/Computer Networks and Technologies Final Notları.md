@@ -19,7 +19,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 
 ---
 
-![PDF Yapısı Hakkında Bilgilendirme](../res/pdf_structure.png)
+![PDF Yapısı Hakkında Bilgilendirme](https://bit.ly/2QmZtIc)
 
 ---
 
