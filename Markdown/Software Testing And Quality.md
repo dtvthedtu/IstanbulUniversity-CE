@@ -2,9 +2,9 @@
 
 Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
 
-~ $Yunus$ $Emre$ $AK$ **©**
+- Copyright © ~ *Yunus Emre AK*
 
-> $Sena$ $Modanlioğlu$ ve $A.$ $Furkan$ $Özbek$ ile çalışılmıştır.
+> *Sena Modanlioğlu* ve *A. Furkan Özbek* ile çalışılmıştır.
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/x-mathjax-config">
