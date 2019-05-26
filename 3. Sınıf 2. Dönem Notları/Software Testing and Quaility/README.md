@@ -9,10 +9,7 @@
 
 ## Ders Bilgisi
 
-- *Hocası*: Rüya Şamlı
-- *Başlangıç Saati*: 10:00
-  - 1 saat sunum
-  - 1 saat ders
+- Ders dökümanlarının paylaşıldığı resmi siteye [buradan][Rüya Hoca Avesis] erişebilirsin.
 
 ## Ders Puanlaması
 
@@ -45,3 +42,5 @@
 - Test metodları
 - Tester ilanları üzerine sunum
 - Test sertifikaları
+
+[Rüya Hoca Avesis]: http://avesis.istanbulc.edu.tr/ruyasamli/dokumanlar

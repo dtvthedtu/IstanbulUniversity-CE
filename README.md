@@ -10,6 +10,7 @@
 - Drive yedeklememe erişmek için [buraya][Drive] bakabilirsin.
 - Resmi ders listesine [buradan][Ders Listesi] erişebilirsin.
 - Resmi ders içeriklerine [buradan][Ders İçerikleri] erişebilirsin.
+- Resmi akademisyenlerin sitesine [buradan][Akademisyenler] erişebilirsin.
 
 ## İçerikler <!-- omit in toc -->
 
@@ -39,6 +40,7 @@
 ## 1. Sınıf 2. Dönem Notları
 
 - [Atatürk İlkeleri ve İnkılap-2](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Atat%C3%BCrk%20%C4%B0lkeleri%20ve%20%C4%B0nk%C4%B1lap-2)
+- [Bilişim Etiği](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Eti%C4%9Fi)
 - [Calculus 2](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Calculus%202)
 - [Fizik 2](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Fizik%202)
 - [Introduction to Programming](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Introduction%20to%20Programming)
@@ -152,6 +154,7 @@
 [Doktora Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=2183
 [Eğitim Bilgileri]: http://bilgisayar.muhendislik.istanbulc.edu.tr/tr/content/egitim/lisans
 [Erasmus]: res/2019-2020-erasmus-izlenecek-yollar.pdf
+[Akademisyenler]: http://avesis.istanbulc.edu.tr/
 
 ## Lisans ve Teferruatlar
 
