@@ -59,7 +59,7 @@ Web testing, web projesinin canlıya ya da üretim moduna geçmeden önce projed
 
 ## Functionality Testing (İşlevsellik Testi)
 
-Ürünün istenilenleri yerine düzgün getirmeesini ve üretim dökümanında verilen işlemlerin yapılabilirliğini test etme eylemidir.
+Ürünün istenilenleri yerine düzgün getirmesini ve üretim dökümanında verilen işlemlerin yapılabilirliğini test etme eylemidir.
 
 ### Link Testing (Bağlantı Testi)
 
