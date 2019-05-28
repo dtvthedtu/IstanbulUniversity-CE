@@ -45,6 +45,7 @@
 - [Fizik 2](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Fizik%202)
 - [Introduction to Programming](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Introduction%20to%20Programming)
 - [Linear Algebra](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Linear%20Algebra)
+- [Türk Dili](./1.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/T%C3%BCrk%20Dili)
 
 ## 2. Sınıf 1. Dönem Notları
 
@@ -60,7 +61,7 @@
 - [Bilgisayar Organizasyonu ve Tasarımı](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Organizasyonu%20ve%20Tasar%C4%B1m%C4%B1)
 - [File Organization](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization)
 - [Formal Diller ve Otomatlar](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Formal%20Diller%20ve%20Otomatlar)
-- [Lojik Lab Notları](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Lojik%20Lab%20Notlar%C4%B1)
+- [Lojik Lab](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Lojik%20Lab)
 - [Mikroişlemciler](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Mikroi%C5%9Flemciler)
 - [Programming Application](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Programming%20Application)
 - [Random and Stochastic Processes](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Random%20and%20Stochastic%20Processes)
