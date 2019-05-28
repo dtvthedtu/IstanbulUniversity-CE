@@ -1,4 +1,4 @@
-# Computer Networks and Technologies <!-- omit in toc -->
+# Software Testing and Quality <!-- omit in toc -->
 
 ## İçerikler <!-- omit in toc -->
 
