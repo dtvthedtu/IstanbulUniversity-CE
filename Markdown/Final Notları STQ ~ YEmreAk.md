@@ -38,7 +38,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
   - [Interface Testing (Arayüz Testi)](#interface-testing-aray%C3%BCz-testi)
   - [Database Testing (Veritabanı testi)](#database-testing-veritaban%C4%B1-testi)
   - [Compability Testing (Uyumluluk Testi)](#compability-testing-uyumluluk-testi)
-  - [Security Testing (Koruma / Güvenlik Testi)](#security-testing-koruma--g%C3%BCvenlik-testi)
+  - [Security Testing (Korunabilirlik Testi)](#security-testing-korunabilirlik-testi)
   - [Performance Testing (Performans Testi)](#performance-testing-performans-testi)
 - [Uygulamalı Web Testleri](#uygulamal%C4%B1-web-testleri)
 - [Usability Testing (Kullanılabilirlik Testi)](#usability-testing-kullan%C4%B1labilirlik-testi)
@@ -120,7 +120,7 @@ HTML ve CSS sorunlardından kaynak yavaş yüklenmeyi düzeltmek için yapılan 
 
 Web sitesinin belli iş süreçlerini tamamlayabilmesi test edilir.
 
-- Kullanıcının yapacağı işlermlerin baştan aşağı kontrol edilmesi
+- Kullanıcının yapacağı işlemlerin baştan aşağı kontrol edilmesi
 - Kullanıcının yanlışlıkla yapacağı veya yapmaması gereken işlerin kontrol edilmesi
 - Gerekli uyarı ve hata mesajlarının verilmesi
 
@@ -136,9 +136,9 @@ Hedef kitleye yakın kişiler tarafından yapılan **hayati önem** taşıyan te
 
 ### Interface Testing (Arayüz Testi)
 
-| Application (Uygulama)                                                         | Web Server (Web sunucusu)                              | Database Server (Veritabanı sunucusu)       |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------- |
-| İsteklerin veritabanına ulaşması ve istemci (client) tarafından görüntülenmesi | Sunucuya gelen tüm isteklerin reddedilmeden işlnenmesi | Veritabanındaki sorguların düzgün çalışması |
+| Application (Uygulama)                                                         | Web Server (Web sunucusu)                             | Database Server (Veritabanı sunucusu)       |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------- |
+| İsteklerin veritabanına ulaşması ve istemci (client) tarafından görüntülenmesi | Sunucuya gelen tüm isteklerin reddedilmeden işlenmesi | Veritabanındaki sorguların düzgün çalışması |
 | Hataların sadece yetkili kişilere gözükmesi                                    |
 
 > *AlertFox*, *Ranorex* gibi araçlar kullanılabilir.
@@ -161,7 +161,7 @@ Farklı cihazlarda çalışılabilirliği test eder.
 - Tarayıcı uyumluluk testi
 - Mobil tarayıcı uyumluluk testi
 
-### Security Testing (Koruma / Güvenlik Testi)
+### Security Testing (Korunabilirlik Testi)
 
 - Yetkisiz giriş olup olmadığı
 - Hassas dosyaların yetkisiz indirilmemesi
