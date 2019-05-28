@@ -37,7 +37,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
   - [Web için Usability Testing (Kullanılabilirlik Testi)](#web-i%C3%A7in-usability-testing-kullan%C4%B1labilirlik-testi)
   - [Interface Testing (Arayüz Testi)](#interface-testing-aray%C3%BCz-testi)
   - [Database Testing (Veritabanı testi)](#database-testing-veritaban%C4%B1-testi)
-    - [Compability Testing (Uyumluluk Testi)](#compability-testing-uyumluluk-testi)
+  - [Compability Testing (Uyumluluk Testi)](#compability-testing-uyumluluk-testi)
   - [Security Testing (Koruma / Güvenlik Testi)](#security-testing-koruma--g%C3%BCvenlik-testi)
   - [Performance Testing (Performans Testi)](#performance-testing-performans-testi)
 - [Uygulamalı Web Testleri](#uygulamal%C4%B1-web-testleri)
@@ -154,7 +154,7 @@ Web uygulamarında veritabanının öneminden dolayı kritik öneme sahiptir.
 - Sorguların yanıt sürelerinin kontrolü ve gerekirse ince ayarların yapılması
 - Veritabınında gelen verilerin doğru işlenmesi
 
-#### Compability Testing (Uyumluluk Testi)
+### Compability Testing (Uyumluluk Testi)
 
 Farklı cihazlarda çalışılabilirliği test eder.
 
