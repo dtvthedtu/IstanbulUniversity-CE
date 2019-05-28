@@ -121,6 +121,7 @@
 - [Okul Klüpleri](./Okul%20Notlar%C4%B1/Okul%20Kl%C3%BCpleri.md)
 - [Sınav Takvimi 2019](./Okul%20Notlar%C4%B1/S%C4%B1nav%20Takvimi%202019.pdf)
 - [Ücretsiz Yazılımlar](./Okul%20Notlar%C4%B1/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
+- [Yatay Geçiş Notları](Okul%20Notlar%C4%B1%2FYatay%20Ge%C3%A7i%C5%9F%20Notlar%C4%B1.md)
 
 ## Yapılacaklar
 
