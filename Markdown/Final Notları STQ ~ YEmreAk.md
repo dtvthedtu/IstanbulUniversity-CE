@@ -229,10 +229,10 @@ Farklı cihazlarda çalışılabilirliği test eder.
 
 ### Kullanılabilirlik Testinin Faydaları
 
-- Nasıl tasarlanması gerektiği hakkında fikir verir (yolumuzu biliriz 🧐)
-- Harcanan vaktin ve enerjinin doğru yere odaklanmasını sağlar (istenmeyen şeyleri yapmayız 😉)
-- Kullanıcının belli işlemindeki performansını ölçer ve ona odaklı hareket edilir (uzun sürenler kolaylaştırılır 🚀)
-- Memnuniyeti ölçer (Beğenilmeyen uygulamaya neden devam edesin 🤔)
+- Nasıl tasarlanması gerektiği hakkında fikir verir (yolumuzu biliriz)
+- Harcanan vaktin ve enerjinin doğru yere odaklanmasını sağlar (istenmeyen şeyleri yapmayız)
+- Kullanıcının belli işlemindeki performansını ölçer ve ona odaklı hareket edilir (uzun sürenler kolaylaştırılır)
+- Memnuniyeti ölçer (Beğenilmeyen uygulamaya neden devam edesin)
 
 <div class="page"/>
 
@@ -245,13 +245,13 @@ Farklı cihazlarda çalışılabilirliği test eder.
 
 ### Alfa - Beta Testleri
 
-| Alfa Testi                                           | Beta Testi                                           |
-| ---------------------------------------------------- | ---------------------------------------------------- |
-| White-Box Test 👨‍💻                                 | Black-Box Test 💸                                    |
-| Organizasyon içerisinde (bağımsız ekiple) ele alınır | Organizasyon dışarısında (topluma açık) ele alınır   |
-| *Tester* geliştirme merkezine gelir                  | Kullanıcılara dağıtıldığından herkes *tester*'dır 🤯 |
-| Geliştirici ve Test Ekibi tarafından yapılır         | Gerçek müşteriler tarafından yapılır                 |
-| Gereksinimleri karşılamasına odaklanır               | Pazarlanabilirliğine odaklanılır                     |
+| Alfa Testi                                           | Beta Testi                                         |
+| ---------------------------------------------------- | -------------------------------------------------- |
+| White-Box Test                                       | Black-Box Test                                     |
+| Organizasyon içerisinde (bağımsız ekiple) ele alınır | Organizasyon dışarısında (topluma açık) ele alınır |
+| *Tester* geliştirme merkezine gelir                  | Kullanıcılara dağıtıldığından herkes *tester*'dır  |
+| Geliştirici ve Test Ekibi tarafından yapılır         | Gerçek müşteriler tarafından yapılır               |
+| Gereksinimleri karşılamasına odaklanır               | Pazarlanabilirliğine odaklanılır                   |
 
 ![alpha_beta_Testing](../res/sqt_alfabeta.png)
 
@@ -308,8 +308,8 @@ Farklı cihazlarda çalışılabilirliği test eder.
 
 ### Otomasyon Testinin Kullanılma Sebepleri
 
-- El ile yapılan işlemlerin sayısını azaltmak (vakit nakittir ⏱)
-- İnsana olan gereksinimi kaldırmak (insan = maaliyet 💸)
+- El ile yapılan işlemlerin sayısını azaltmak (vakit nakittir)
+- İnsana olan gereksinimi kaldırmak (insan = maaliyet)
 - Manuel'e göre daha hızlı işlemlerin yapılması
 - İnsandan kaynaklı hataların önüne geçme
 
