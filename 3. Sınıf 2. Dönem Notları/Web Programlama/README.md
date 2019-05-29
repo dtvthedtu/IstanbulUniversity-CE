@@ -37,5 +37,3 @@ Eğer kendi alan adınızı ve hostinginizi alıysanız bunun için FTP client k
 Bu 3 aşamayı bitirdiyseniz artık Web Programlama yapmaya hazırsınız demektir. Anlattığımız içerikleri kendi hazırladığınız proje içerisinde veya W3Cschool veya benzeri sitelerde deneyerek çıktılarının nasıl görüldüğüne bakabilirsiniz.
 
 Konu ile ilgili sıkıntıları bu girdiye cevaben yazabilirsiniz. İlgili kalemi gerçekleştiren arkadaşlar da yardımlarını esirgemesinler.
-
-yyyunusssemreee@g..
