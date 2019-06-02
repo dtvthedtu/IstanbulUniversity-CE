@@ -7,10 +7,12 @@
 
 İstanbul Üniversitesi Bilgisayar Mühendisliği notlarını içerir.
 
-- Drive yedeklememe erişmek için [buraya][Drive] bakabilirsin.
+- Eski ders notlarının olduğu drive linkine erişmek için [buraya][Drive] bakabilirsin.
 - Resmi ders listesine [buradan][Ders Listesi] erişebilirsin.
 - Resmi ders içeriklerine [buradan][Ders İçerikleri] erişebilirsin.
 - Resmi akademisyenlerin sitesine [buradan][Akademisyenler] erişebilirsin.
+
+~ Copyright © Yunus Emre Ak
 
 ## İçerikler <!-- omit in toc -->
 
@@ -117,7 +119,7 @@
 
 ## Okul Notları
 
-- [AGNO Hesaplama](./Okul%20Notları/AGNO%20Hesaplama.xlsx)
+- [AGNO Hesaplama](https://drive.google.com/open?id=1cRYKOFniB2NOFoXJ7IKIvSwZLvjQobqG)
 - [Anketleri Otomatik Dolduran Script](./Okul%20Notlar%C4%B1/Anketleri%20Otomatik%20Dolduran%20Script.md)
 - [Eğitmen Bilgileri](Okul%20Notlar%C4%B1%2FE%C4%9Fitmen%20Bilgileri.md)
 - [Okul Klüpleri](./Okul%20Notlar%C4%B1/Okul%20Kl%C3%BCpleri.md)
@@ -159,9 +161,9 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 
 > Yardım veya destek için [iletişime](mailto::yedhrab@gmail.com?subject=IstanbulUniversity-CE%20%7C%20Github) geçebilrsiniz 🤗
 
-~ Yunus Emre Ak
+~ Copyright © Yunus Emre Ak
 
-[Drive]: https://drive.google.com/open?id=1QtX2y1_3nMX1MQS7bDO6ChxXAln34ZQn
+[Drive]: https://drive.google.com/drive/folders/1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-
 [Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
 [CE-IU]: http://ce-iu.tk/
 [Ders İçerikleri]: res%2FBilgisayar%20M%C3%BChendisli%C4%9Fi%20Ders%20%C4%B0%C3%A7eri%C4%9Fi.pdf
