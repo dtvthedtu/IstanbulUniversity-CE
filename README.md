@@ -28,6 +28,7 @@
 
 ## Temel Bilgiler
 
+- Okulun resmi duyurularının olduğu sayfaya [buradan][İÜ - Cerrahpaşa duyurular] erişebilirsin
 - [Aksis Cerrahpaşa] üzerinden ders bilgilerine erişebilirsin
 - Resmi akademisyenlerin sitesine [buradan][Akademisyenler] erişebilirsin.
 - Ağırlıklı not ortalamanı (AGNO) öğremek için [Aksis][Aksis Cerrahpaşa] üzerinden [Not Kartı][Aksis not kartı] alanına bakabilirsin.
@@ -50,6 +51,7 @@
 - [Anketleri Otomatik Dolduran Script](./Okul%20i%C3%A7in%20Ek%20Bilgiler/Anketleri%20Otomatik%20Dolduran%20Script.md)
 - [Eğitmen Bilgileri](Okul%20i%C3%A7in%20Ek%20Bilgiler%2FE%C4%9Fitmen%20Bilgileri.md)
 - [Okul Klüpleri](./Okul%20i%C3%A7in%20Ek%20Bilgiler/Okul%20Kl%C3%BCpleri.md)
+- [Proje Notları](Okul%20i%C3%A7in%20Ek%20Bilgiler%2FProje%20Notlar%C4%B1.md)
 - [Sınav Takvimi 2019](.PDFs%2FS%C4%B1nav%20Takvimi%202019.pdf)
 - [Staj Notları](Okul%20i%C3%A7in%20Ek%20Bilgiler%2FStaj%20Notlar%C4%B1.md)
 - [Ücretsiz Yazılımlar](./Okul%20i%C3%A7in%20Ek%20Bilgiler/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
@@ -161,6 +163,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 
 ~ Copyright © Yunus Emre Ak
 
+[İÜ - Cerrahpaşa duyurular]: http://www.istanbulc.edu.tr/tr/duyurular/1/1
 [Aksis Cerrahpaşa]: https://aksis.istanbulc.edu.tr/Account/LogOn
 [Akademisyenler]: http://avesis.istanbulc.edu.tr/
 [Aksis not kartı]: http://obs.istanbulc.edu.tr/OgrenimBilgileri/NotKarti/Index
