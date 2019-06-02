@@ -117,11 +117,15 @@
 
 ## Okul Notları
 
+- [AGNO Hesaplama](./Okul%20Notları/AGNO%20Hesaplama.xlsx)
 - [Anketleri Otomatik Dolduran Script](./Okul%20Notlar%C4%B1/Anketleri%20Otomatik%20Dolduran%20Script.md)
+- [Eğitmen Bilgileri](Okul%20Notlar%C4%B1%2FE%C4%9Fitmen%20Bilgileri.md)
 - [Okul Klüpleri](./Okul%20Notlar%C4%B1/Okul%20Kl%C3%BCpleri.md)
 - [Sınav Takvimi 2019](./Okul%20Notlar%C4%B1/S%C4%B1nav%20Takvimi%202019.pdf)
+- [Staj Notları](Okul%20Notlar%C4%B1%2FStaj%20Notlar%C4%B1.md)
 - [Ücretsiz Yazılımlar](./Okul%20Notlar%C4%B1/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
 - [Yatay Geçiş Notları](Okul%20Notlar%C4%B1%2FYatay%20Ge%C3%A7i%C5%9F%20Notlar%C4%B1.md)
+- [Yaz Okulu](Okul%20Notları/Yaz%20Okulu.md)
 
 ## Yapılacaklar
 
@@ -145,6 +149,18 @@
 - [IU Coders][IU Coders]
 - Algoritma mantığını görselleştiren site ([Visioalgo][Visioalgo])
 
+## Lisans ve Teferruatlar
+
+Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
+
+- [Github](https://github.com/yedhrab)
+- [Website](https://yemreak.com)
+- [LinkedIn](https://www.linkedin.com/in/yemreak/)
+
+> Yardım veya destek için [iletişime](mailto::yedhrab@gmail.com?subject=IstanbulUniversity-CE%20%7C%20Github) geçebilrsiniz 🤗
+
+~ Yunus Emre Ak
+
 [Drive]: https://drive.google.com/open?id=1QtX2y1_3nMX1MQS7bDO6ChxXAln34ZQn
 [Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
 [CE-IU]: http://ce-iu.tk/
@@ -157,15 +173,3 @@
 [Eğitim Bilgileri]: http://bilgisayar.muhendislik.istanbulc.edu.tr/tr/content/egitim/lisans
 [Erasmus]: res/2019-2020-erasmus-izlenecek-yollar.pdf
 [Akademisyenler]: http://avesis.istanbulc.edu.tr/
-
-## Lisans ve Teferruatlar
-
-Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
-
-- [Github](https://github.com/yedhrab)
-- [Website](https://yemreak.com)
-- [LinkedIn](https://www.linkedin.com/in/yemreak/)
-
-> Yardım veya destek için [iletişime](mailto::yedhrab@gmail.com?subject=IstanbulUniversity-CE%20%7C%20Github) geçebilrsiniz 🤗
-
-~ Yunus Emre Ak

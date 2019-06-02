@@ -69,11 +69,21 @@ OPTIONS = {
     "FAST_DIR_MODE": Option(
         False,
         "Dosyalar yerine ana dizinde bulunan dizinlerin alt dizinlerini indeksler"
+    ),
+    "SHOW_HIDDENS": Option(
+        False,
+        "Gizli dosya ve klasörleri ('.' ile başlayan) indeksler"
     )
 }
 
-# Görmezden gelinen dosya veya dizinler ('set' olma sebebi tekrarlı verileri engellemektir)
-PRIVATES = {".git"}
+# TODO: Pattern * ekle
+
+# Görmezden gelinen dosya veya dizinler
+# Not: 'set' olma sebebi tekrarlı verileri engellemektir
+PRIVATES = set([])
+
+# Dosya oluşturma sırasında varsayılan private metinleri
+DEFAULT_PRIVATES = {"phpoffice", "node_modules"}
 
 
 def load_cfg():
@@ -203,8 +213,9 @@ def load_cfg():
             Args:
                 value : Dosya veya dizin ismi
             """
-            if value not in PRIVATES:
-                PRIVATES.add(value)
+
+            global PRIVATES
+            PRIVATES.add(value)
 
         with open(INI_FILE, "r", encoding='utf8') as file:
             for line in file:
@@ -271,7 +282,7 @@ def load_cfg():
             """
 
             filestr = create_header(PRIVATE_HEADER)
-            for private in PRIVATES:
+            for private in DEFAULT_PRIVATES:
                 filestr += f"{private}\n"
             filestr += "\n"
             return filestr
@@ -303,7 +314,7 @@ def is_private(name: str) -> bool:
     return False
 
 
-def listfolderpaths(path: str = os.getcwd(), sort: bool = False) -> list:
+def listfolderpaths(path: str = os.getcwd(), sort: bool = False, hidden: bool = False) -> list:
     """Dizinleri listeleme
 
     Args:
@@ -315,6 +326,10 @@ def listfolderpaths(path: str = os.getcwd(), sort: bool = False) -> list:
 
     folderlist = []
     for name in os.listdir(path):
+        # Gizli dizinleri atlama
+        if not hidden and name[0] == '.': 
+            continue
+
         pathname = os.path.join(path, name)
         if os.path.isdir(pathname) and not is_private(name):
             folderlist.append(pathname)
@@ -325,7 +340,7 @@ def listfolderpaths(path: str = os.getcwd(), sort: bool = False) -> list:
     return folderlist
 
 
-def listfilepaths(path: str = os.getcwd(), sort: bool = False) -> list:
+def listfilepaths(path: str = os.getcwd(), sort: bool = False, hidden: bool = False) -> list:
     """Dosyaları listeleme
 
     Args:
@@ -337,6 +352,10 @@ def listfilepaths(path: str = os.getcwd(), sort: bool = False) -> list:
 
     filelist = []
     for name in os.listdir(path):
+        # Gizli dosyaları atlama
+        if not hidden and name[0] == '.': 
+            continue
+
         pathname = os.path.join(path, name)
         if os.path.isfile(pathname) and not is_private(name):
             filelist.append(pathname)
@@ -455,24 +474,24 @@ def create_link(path: str) -> str:
     return link
 
 
-def apply_all_files(func, path: str = os.getcwd(), sort: bool = False):
-    for filepath in listfilepaths(path, sort):
+def apply_all_files(func, path: str = os.getcwd(), sort: bool = False, hidden: bool = False):
+    for filepath in listfilepaths(path, sort, hidden):
         filepath = os.path.join(path, filepath)
         func(filepath)
 
-    for folderpath in listfolderpaths(path, sort):
+    for folderpath in listfolderpaths(path, sort, hidden):
         folderpath = os.path.join(path, folderpath)
-        apply_all_files(func, path=folderpath, sort=sort)
+        apply_all_files(func, folderpath, sort, hidden)
 
 
-def apply_all_folders(func, path: str = os.getcwd(), sort: bool = False):
-    for folderpath in listfolderpaths(path, sort):
+def apply_all_folders(func, path: str = os.getcwd(), sort: bool = False, hidden: bool = False):
+    for folderpath in listfolderpaths(path, sort, hidden):
         folderpath = os.path.join(path, folderpath)
         func(folderpath)
-        apply_all_folders(func, path=folderpath, sort=sort)
+        apply_all_folders(func, folderpath, sort, hidden)
 
 
-def indexstr(pathname: str = os.getcwd(), headerlvl: int = 2, privates: set = set(), sort=True, remove_md=True, indexfilter="") -> str:
+def indexstr(pathname: str = os.getcwd(), headerlvl: int = 2, privates: set = set(), sort=True, remove_md=True, indexfilter="", hidden: bool = False) -> str:
     """Indekslenmiş metin oluşturma
 
     Args:
@@ -515,7 +534,7 @@ def indexstr(pathname: str = os.getcwd(), headerlvl: int = 2, privates: set = se
             return pathname
 
         linkstr = ""
-        filepaths = listfilepaths(folderpath, sort=sort)
+        filepaths = listfilepaths(folderpath, sort, hidden)
         for filepath in filepaths:
             filepath = modifypath(filepath)
             linkstr += create_link(filepath)
@@ -527,12 +546,12 @@ def indexstr(pathname: str = os.getcwd(), headerlvl: int = 2, privates: set = se
         return linkstr
 
     filestr = ""
-    folderpaths = listfolderpaths(pathname, sort=sort)
+    folderpaths = listfolderpaths(pathname, sort, hidden)
     for folderpath in folderpaths:
         filestr += create_header(folderpath, headerlvl)
         filestr += linkstr(folderpath)
         filestr += indexstr(folderpath, headerlvl + 1,
-                            privates, sort, remove_md, indexfilter)
+                            privates, sort, remove_md, indexfilter, hidden)
 
     return filestr
 
@@ -744,12 +763,12 @@ def replace_static_links_from_file(filepath) -> str:
         file.write(filestr)
 
 
-def indexdir(pathname: str = os.getcwd()) -> str:
+def indexdir(pathname: str = os.getcwd(), hidden: bool = False) -> str:
     indexstr = ""
 
-    folders = listfolderpaths(pathname, True)
+    folders = listfolderpaths(pathname, True, hidden)
     for folder in folders:
-        subfolders = listfolderpaths(folder, True)
+        subfolders = listfolderpaths(folder, True, hidden)
 
         # Alt dizinleri olmayan dizinler için gereksiz header oluşturmama
         if len(subfolders) > 0:
@@ -776,17 +795,18 @@ def manager():
     indexfilter = OPTIONS['INDEX_FILTER'].value
     dynamic_link = OPTIONS['MAKE_LINKS_DYNAMIC'].value
     dir_mode = OPTIONS['FAST_DIR_MODE'].value
+    show_hidden = OPTIONS['SHOW_HIDDENS'].value
 
     if dir_mode:
-        string = indexdir()
+        string = indexdir(hidden=show_hidden)
     else:
         string = indexstr(privates=PRIVATES, sort=sort,
-                          remove_md=remove_md, indexfilter=indexfilter)
+                          remove_md=remove_md, indexfilter=indexfilter, hidden=show_hidden)
 
     insertfile(README_FILE, string, indicator)
 
     if dynamic_link:
-        apply_all_files(replace_static_links_from_file, sort=True)
+        apply_all_files(replace_static_links_from_file, sort=True, hidden=show_hidden)
 
     print("Updated! ~YEmreAk")
 
