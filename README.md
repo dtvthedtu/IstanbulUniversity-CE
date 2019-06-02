@@ -7,17 +7,13 @@
 
 İstanbul Üniversitesi Bilgisayar Mühendisliği notlarını içerir.
 
-- Eski ders notlarının olduğu drive linkine erişmek için [buraya][Drive] bakabilirsin.
-- Resmi ders listesine [buradan][Ders Listesi] erişebilirsin.
-- Resmi ders içeriklerine [buradan][Ders İçerikleri] erişebilirsin.
-- Resmi akademisyenlerin sitesine [buradan][Akademisyenler] erişebilirsin.
-
 ~ Copyright © Yunus Emre Ak
 
 ## İçerikler <!-- omit in toc -->
 
-> `HOME` tuşu ile yukarı yönlenebilrsiniz.
-
+- [Temel Bilgiler](#temel-bilgiler)
+  - [Ders Bilgileri](#ders-bilgileri)
+- [Okul için Ek Bilgiler](#okul-i%C3%A7in-ek-bilgiler)
 - [1. Sınıf 1. Dönem Notları](#1-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
 - [1. Sınıf 2. Dönem Notları](#1-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [2. Sınıf 1. Dönem Notları](#2-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
@@ -26,12 +22,39 @@
 - [3. Sınıf 2. Dönem Notları](#3-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [4. Sınıf 1. Dönem Notları](#4-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
 - [4. Sınıf 2. Dönem Notları](#4-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
-- [Okul Notları](#okul-notlar%C4%B1)
 - [Yapılacaklar](#yap%C4%B1lacaklar)
 - [Harici Bağlantılar](#harici-ba%C4%9Flant%C4%B1lar)
-  - [Resmi Siteler](#resmi-siteler)
-  - [Faydalı Siteler](#faydal%C4%B1-siteler)
 - [Lisans ve Teferruatlar](#lisans-ve-teferruatlar)
+
+## Temel Bilgiler
+
+- [Aksis Cerrahpaşa] üzerinden ders bilgilerine erişebilirsin
+- Resmi akademisyenlerin sitesine [buradan][Akademisyenler] erişebilirsin.
+- Ağırlıklı not ortalamanı (AGNO) öğremek için [Aksis][Aksis Cerrahpaşa] üzerinden [Not Kartı][Aksis not kartı] alanına bakabilirsin.
+- Eski ders notlarının olduğu drive linkine erişmek için [buraya][Drive] bakabilirsin.
+- Erasmus için izlenecek yollar için [buraya][Erasmus] bakabilirsin
+
+### Ders Bilgileri
+
+- [Ders İçerikleri]
+- [Lisans Programı Ders Listesi]
+- [Yüksek Lisans Programı Ders Listesi]
+- [Doktora Programı Ders Listesi]
+- [Eğitim Bilgileri]
+
+<!-- TODO: Okul notları hardcodded'tır, düzeltilecek -->
+
+## Okul için Ek Bilgiler
+
+- [AGNO Hesaplama](https://drive.google.com/open?id=1cRYKOFniB2NOFoXJ7IKIvSwZLvjQobqG)
+- [Anketleri Otomatik Dolduran Script](./Okul%20i%C3%A7in%20Ek%20Bilgiler/Anketleri%20Otomatik%20Dolduran%20Script.md)
+- [Eğitmen Bilgileri](Okul%20i%C3%A7in%20Ek%20Bilgiler%2FE%C4%9Fitmen%20Bilgileri.md)
+- [Okul Klüpleri](./Okul%20i%C3%A7in%20Ek%20Bilgiler/Okul%20Kl%C3%BCpleri.md)
+- [Sınav Takvimi 2019](.PDFs%2FS%C4%B1nav%20Takvimi%202019.pdf)
+- [Staj Notları](Okul%20i%C3%A7in%20Ek%20Bilgiler%2FStaj%20Notlar%C4%B1.md)
+- [Ücretsiz Yazılımlar](./Okul%20i%C3%A7in%20Ek%20Bilgiler/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
+- [Yatay Geçiş Notları](Okul%20i%C3%A7in%20Ek%20Bilgiler%2FYatay%20Ge%C3%A7i%C5%9F%20Notlar%C4%B1.md)
+- [Yaz Okulu](Okul%20Notları/Yaz%20Okulu.md)
 
 <!--Index-->
 
@@ -115,37 +138,12 @@
 
 <!--Index-->
 
-<!-- TODO: Okul notları hardcodded'tır, düzeltilecek -->
-
-## Okul Notları
-
-- [AGNO Hesaplama](https://drive.google.com/open?id=1cRYKOFniB2NOFoXJ7IKIvSwZLvjQobqG)
-- [Anketleri Otomatik Dolduran Script](./Okul%20Notlar%C4%B1/Anketleri%20Otomatik%20Dolduran%20Script.md)
-- [Eğitmen Bilgileri](Okul%20Notlar%C4%B1%2FE%C4%9Fitmen%20Bilgileri.md)
-- [Okul Klüpleri](./Okul%20Notlar%C4%B1/Okul%20Kl%C3%BCpleri.md)
-- [Sınav Takvimi 2019](./Okul%20Notlar%C4%B1/S%C4%B1nav%20Takvimi%202019.pdf)
-- [Staj Notları](Okul%20Notlar%C4%B1%2FStaj%20Notlar%C4%B1.md)
-- [Ücretsiz Yazılımlar](./Okul%20Notlar%C4%B1/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
-- [Yatay Geçiş Notları](Okul%20Notlar%C4%B1%2FYatay%20Ge%C3%A7i%C5%9F%20Notlar%C4%B1.md)
-- [Yaz Okulu](Okul%20Notları/Yaz%20Okulu.md)
-
 ## Yapılacaklar
 
 - [ ] Okuldaki, bizim bölüm ile alakalı veya alakasız olan klüpler ile ilgili bilgiler `Okul Klüpleri.md` içerisine eklenecektir.
 - [ ] Drive linkleri kaldırılacak, githuba eklenecek
 
 ## Harici Bağlantılar
-
-### Resmi Siteler
-
-- [Aksis Cerrahpaşa](https://aksis.istanbulc.edu.tr/Account/LogOn)
-- [Lisans Programı Ders Listesi]
-- [Yüksek Lisans Programı Ders Listesi]
-- [Doktora Programı Ders Listesi]
-- [Eğitim Bilgileri]
-- [Erasmus İzlenecek Yollar][Erasmus]
-
-### Faydalı Siteler
 
 - [CE-IU][CE-IU]
 - [IU Coders][IU Coders]
@@ -163,15 +161,18 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 
 ~ Copyright © Yunus Emre Ak
 
+[Aksis Cerrahpaşa]: https://aksis.istanbulc.edu.tr/Account/LogOn
+[Akademisyenler]: http://avesis.istanbulc.edu.tr/
+[Aksis not kartı]: http://obs.istanbulc.edu.tr/OgrenimBilgileri/NotKarti/Index
 [Drive]: https://drive.google.com/drive/folders/1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-
-[Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
-[CE-IU]: http://ce-iu.tk/
+[Erasmus]: res/2019-2020-erasmus-izlenecek-yollar.pdf
+
 [Ders İçerikleri]: res%2FBilgisayar%20M%C3%BChendisli%C4%9Fi%20Ders%20%C4%B0%C3%A7eri%C4%9Fi.pdf
-[IU Coders]: http://www.iucoders.com/index.jsp
-[Visioalgo]: https://visualgo.net/en
 [Lisans Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
 [Yüksek Lisans Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1797
 [Doktora Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=2183
 [Eğitim Bilgileri]: http://bilgisayar.muhendislik.istanbulc.edu.tr/tr/content/egitim/lisans
-[Erasmus]: res/2019-2020-erasmus-izlenecek-yollar.pdf
-[Akademisyenler]: http://avesis.istanbulc.edu.tr/
+
+[CE-IU]: http://ce-iu.tk/
+[IU Coders]: http://www.iucoders.com/index.jsp
+[Visioalgo]: https://visualgo.net/en
