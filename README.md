@@ -7,7 +7,7 @@
 
 İstanbul Üniversitesi Bilgisayar Mühendisliği notlarını içerir.
 
-~ Copyright © Yunus Emre Ak
+> Katkıda bulunmak istersen [Lisans ve Teferruatlar](#lisans-ve-teferruatlar) bölümüne bakabilirsin 🤗
 
 ## İçerikler <!-- omit in toc -->
 
@@ -155,13 +155,14 @@
 
 Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
 
-- [Github](https://github.com/yedhrab)
-- [Website](https://yemreak.com)
-- [LinkedIn](https://www.linkedin.com/in/yemreak/)
+- Fikir ve bilgi paylaşımları için [iletişime][İletişim] geçebilirsin
+- Maddi olarak yardım etmek istersen [direkt][Bağış Anlık] yada [aylık][Bağış Aylık] olarak destek verebilirsin
 
-> Yardım veya destek için [iletişime](mailto::yedhrab@gmail.com?subject=IstanbulUniversity-CE%20%7C%20Github) geçebilrsiniz 🤗
-
-~ Copyright © Yunus Emre Ak
+> ~ Copyright © Yunus Emre Ak
+>
+> - [Github](https://github.com/yedhrab)
+> - [Website](https://yemreak.com)
+> - [LinkedIn](https://www.linkedin.com/in/yemreak/)
 
 [İÜ - Cerrahpaşa duyurular]: http://www.istanbulc.edu.tr/tr/duyurular/1/1
 [Aksis Cerrahpaşa]: https://aksis.istanbulc.edu.tr/Account/LogOn
@@ -179,3 +180,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 [CE-IU]: http://ce-iu.tk/
 [IU Coders]: http://www.iucoders.com/index.jsp
 [Visioalgo]: https://visualgo.net/en
+
+[İletişim]: mailto::yedhrab@gmail.com?subject=IstanbulUniversity-CE%20%7C%20Github
+[Bağış Anlık]: https://gogetfunding.com/yemreak/
+[Bağış Aylık]: https://www.patreon.com/yemreak/
