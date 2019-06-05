@@ -13,7 +13,7 @@
 
 - [Temel Bilgiler](#temel-bilgiler)
   - [Ders Bilgileri](#ders-bilgileri)
-- [Okul için Ek Bilgiler](#okul-i%C3%A7in-ek-bilgiler)
+- [Genel Bilgiler](#genel-bilgiler)
 - [1. Sınıf 1. Dönem Notları](#1-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
 - [1. Sınıf 2. Dönem Notları](#1-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [2. Sınıf 1. Dönem Notları](#2-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
@@ -22,7 +22,6 @@
 - [3. Sınıf 2. Dönem Notları](#3-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
 - [4. Sınıf 1. Dönem Notları](#4-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
 - [4. Sınıf 2. Dönem Notları](#4-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
-- [Yapılacaklar](#yap%C4%B1lacaklar)
 - [Harici Bağlantılar](#harici-ba%C4%9Flant%C4%B1lar)
 - [Lisans ve Teferruatlar](#lisans-ve-teferruatlar)
 
@@ -45,18 +44,14 @@
 
 <!-- TODO: Okul notları hardcodded'tır, düzeltilecek -->
 
-## Okul için Ek Bilgiler
+## Genel Bilgiler
 
+- [Ücretsiz Yazılımlar](Genel%20Bilgiler%2F%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
+- [Fayfalı Bilgiler](Genel%20Bilgiler%2FFaydal%C4%B1%20Bilgiler.md)
 - [AGNO Hesaplama](https://drive.google.com/open?id=1cRYKOFniB2NOFoXJ7IKIvSwZLvjQobqG)
-- [Anketleri Otomatik Dolduran Script](./Okul%20i%C3%A7in%20Ek%20Bilgiler/Anketleri%20Otomatik%20Dolduran%20Script.md)
-- [Eğitmen Bilgileri](Okul%20i%C3%A7in%20Ek%20Bilgiler%2FE%C4%9Fitmen%20Bilgileri.md)
-- [Okul Klüpleri](./Okul%20i%C3%A7in%20Ek%20Bilgiler/Okul%20Kl%C3%BCpleri.md)
-- [Proje Notları](Okul%20i%C3%A7in%20Ek%20Bilgiler%2FProje%20Notlar%C4%B1.md)
-- [Sınav Takvimi 2019](.PDFs%2FS%C4%B1nav%20Takvimi%202019.pdf)
-- [Staj Notları](Okul%20i%C3%A7in%20Ek%20Bilgiler%2FStaj%20Notlar%C4%B1.md)
-- [Ücretsiz Yazılımlar](./Okul%20i%C3%A7in%20Ek%20Bilgiler/%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
-- [Yatay Geçiş Notları](Okul%20i%C3%A7in%20Ek%20Bilgiler%2FYatay%20Ge%C3%A7i%C5%9F%20Notlar%C4%B1.md)
-- [Yaz Okulu](Okul%20Notları/Yaz%20Okulu.md)
+- [Okul Klüpleri](Genel%20Bilgiler%2FOkul%20Kl%C3%BCpleri.md)
+- [Proje Notları](Genel%20Bilgiler%2FProje%20Notlar%C4%B1.md)
+- [Staj Notları](Genel%20Bilgiler%2FStaj%20Notlar%C4%B1.md)
 
 <!--Index-->
 
@@ -139,21 +134,6 @@
 - [Uygulamalı Girişimcilik](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Uygulamal%C4%B1%20Giri%C5%9Fimcilik)
 
 <!--Index-->
-
-## Yapılacaklar
-
-- [ ] Okuldaki, bizim bölüm ile alakalı veya alakasız olan klüpler ile ilgili bilgiler `Okul Klüpleri.md` içerisine eklenecektir.
-- [ ] Drive linkleri kaldırılacak, githuba eklenecek
-- [ ] "1.sınıfların mutlaka bilmesi gerektiğini düşündüğüm şeyler" adlı dosya
-  - [ ] Anket hazırlanabilir
-  - Öğrenilmesi gereken konu1:
-    - Resim
-    - Neden1.1
-    - Neden1.2
-  - Öğrenilmesi gereken konu2:
-    - Resim
-    - Neden2.1
-    - Neden2.2
 
 ## Harici Bağlantılar
 

@@ -1,6 +1,6 @@
 # Ücretsiz Yazılımlar <!-- omit in toc -->
 
-Okulumuzun fayda sağladığı siteler:
+Okulumuzun fayda sağladığı siteler.
 
 ## İçerikler <!-- omit in toc -->
 
