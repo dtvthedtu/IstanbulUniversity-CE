@@ -144,7 +144,16 @@
 
 - [ ] Okuldaki, bizim bölüm ile alakalı veya alakasız olan klüpler ile ilgili bilgiler `Okul Klüpleri.md` içerisine eklenecektir.
 - [ ] Drive linkleri kaldırılacak, githuba eklenecek
-- [ ] "1.sınıfların mutlaka bilmesi gerektiğini düşündüğüm şeyler" adlı dosya ~ Eda Nur Var
+- [ ] "1.sınıfların mutlaka bilmesi gerektiğini düşündüğüm şeyler" adlı dosya
+  - [ ] Anket hazırlanabilir
+  - Öğrenilmesi gereken konu1:
+    - Resim
+    - Neden1.1
+    - Neden1.2
+  - Öğrenilmesi gereken konu2:
+    - Resim
+    - Neden2.1
+    - Neden2.2
 
 ## Harici Bağlantılar
 
