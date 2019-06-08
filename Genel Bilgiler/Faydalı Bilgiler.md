@@ -51,6 +51,7 @@ for(let i=0; i<$(".btn-danger").length; i++){
 ### İTÜ'ye Yatay Geçiş
 
 - [Yatay geçiş süreci][Yatay geçiş Süreci - İTÜ]
+- [Çalışma yeri](http://www.testatolyesi.com/download_1_18.htm)
 
 > Türkçe veya %30 İngilizce programlarından 5.yarıyıl için %100 İngilizce programlarına  yatay geçiş yapılamaz.
 
