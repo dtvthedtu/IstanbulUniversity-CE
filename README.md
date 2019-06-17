@@ -11,19 +11,19 @@
 
 ## İçerikler <!-- omit in toc -->
 
-- [Temel Bilgiler](#temel-bilgiler)
-  - [Ders Bilgileri](#ders-bilgileri)
-- [Genel Bilgiler](#genel-bilgiler)
-- [1. Sınıf 1. Dönem Notları](#1-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
-- [1. Sınıf 2. Dönem Notları](#1-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
-- [2. Sınıf 1. Dönem Notları](#2-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
-- [2. Sınıf 2. Dönem Notları](#2-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
-- [3. Sınıf 1. Dönem Notları](#3-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
-- [3. Sınıf 2. Dönem Notları](#3-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
-- [4. Sınıf 1. Dönem Notları](#4-s%C4%B1n%C4%B1f-1-d%C3%B6nem-notlar%C4%B1)
-- [4. Sınıf 2. Dönem Notları](#4-s%C4%B1n%C4%B1f-2-d%C3%B6nem-notlar%C4%B1)
-- [Harici Bağlantılar](#harici-ba%C4%9Flant%C4%B1lar)
-- [Lisans ve Teferruatlar](#lisans-ve-teferruatlar)
+- [Temel Bilgiler](#Temel-Bilgiler)
+  - [Ders Bilgileri](#Ders-Bilgileri)
+- [Genel Bilgiler](#Genel-Bilgiler)
+- [1. Sınıf 1. Dönem Notları](#1-S%C4%B1n%C4%B1f-1-D%C3%B6nem-Notlar%C4%B1)
+- [1. Sınıf 2. Dönem Notları](#1-S%C4%B1n%C4%B1f-2-D%C3%B6nem-Notlar%C4%B1)
+- [2. Sınıf 1. Dönem Notları](#2-S%C4%B1n%C4%B1f-1-D%C3%B6nem-Notlar%C4%B1)
+- [2. Sınıf 2. Dönem Notları](#2-S%C4%B1n%C4%B1f-2-D%C3%B6nem-Notlar%C4%B1)
+- [3. Sınıf 1. Dönem Notları](#3-S%C4%B1n%C4%B1f-1-D%C3%B6nem-Notlar%C4%B1)
+- [3. Sınıf 2. Dönem Notları](#3-S%C4%B1n%C4%B1f-2-D%C3%B6nem-Notlar%C4%B1)
+- [4. Sınıf 1. Dönem Notları](#4-S%C4%B1n%C4%B1f-1-D%C3%B6nem-Notlar%C4%B1)
+- [4. Sınıf 2. Dönem Notları](#4-S%C4%B1n%C4%B1f-2-D%C3%B6nem-Notlar%C4%B1)
+- [Harici Bağlantılar](#Harici-Ba%C4%9Flant%C4%B1lar)
+- [Lisans ve Teferruatlar](#Lisans-ve-Teferruatlar)
 
 ## Temel Bilgiler
 
