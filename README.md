@@ -23,16 +23,16 @@
 - [4. Sınıf 1. Dönem Notları](#4-S%C4%B1n%C4%B1f-1-D%C3%B6nem-Notlar%C4%B1)
 - [4. Sınıf 2. Dönem Notları](#4-S%C4%B1n%C4%B1f-2-D%C3%B6nem-Notlar%C4%B1)
 - [Harici Bağlantılar](#Harici-Ba%C4%9Flant%C4%B1lar)
-- [Lisans ve Teferruatlar](#Lisans-ve-Teferruatlar)
+- [Destek ve İletişim](#Destek-ve-%C4%B0leti%C5%9Fim)
 
 ## Temel Bilgiler
 
-- Okulun resmi duyurularının olduğu sayfaya [buradan][İÜ - Cerrahpaşa duyurular] erişebilirsin
+- Okulun resmi duyurularının olduğu sayfaya [buradan][i̇ü - cerrahpaşa duyurular] erişebilirsin
 - [Aksis Cerrahpaşa] üzerinden ders bilgilerine erişebilirsin
-- Resmi akademisyenlerin sitesine [buradan][Akademisyenler] erişebilirsin.
-- Ağırlıklı not ortalamanı (AGNO) öğremek için [Aksis][Aksis Cerrahpaşa] üzerinden [Not Kartı][Aksis not kartı] alanına bakabilirsin.
-- Eski ders notlarının olduğu drive linkine erişmek için [buraya][Drive] bakabilirsin.
-- Erasmus için izlenecek yollar için [buraya][Erasmus] bakabilirsin
+- Resmi akademisyenlerin sitesine [buradan][akademisyenler] erişebilirsin.
+- Ağırlıklı not ortalamanı (AGNO) öğremek için [Aksis][aksis cerrahpaşa] üzerinden [Not Kartı][aksis not kartı] alanına bakabilirsin.
+- Eski ders notlarının olduğu drive linkine erişmek için [buraya][drive] bakabilirsin.
+- Erasmus için izlenecek yollar için [buraya][erasmus] bakabilirsin
 
 ### Ders Bilgileri
 
@@ -137,40 +137,47 @@
 
 ## Harici Bağlantılar
 
-- [CE-IU][CE-IU]
-- [IU Coders][IU Coders]
-- Algoritma mantığını görselleştiren site ([Visioalgo][Visioalgo])
+- [CE-IU][ce-iu]
+- [IU Coders][iu coders]
+- Algoritma mantığını görselleştiren site ([Visioalgo][visioalgo])
 
-## Lisans ve Teferruatlar
+## Destek ve İletişim
 
-Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
+**The [MIT License](https://choosealicense.com/licenses/mit/) &copy; Yunus Emre Ak**
 
-- Fikir ve bilgi paylaşımları için [iletişime][İletişim] geçebilirsin
-- Maddi olarak yardım etmek istersen [direkt][Bağış Anlık] yada [aylık][Bağış Aylık] olarak destek verebilirsin
+[![Github](https://drive.google.com/uc?id=1PzkuWOoBNMg0uOMmqwHtVoYt0WCqi-O5)][github]
+[![LinkedIn](https://drive.google.com/uc?id=1hvdil0ZHVEzekQ4AYELdnPOqzunKpnzJ)][linkedin]
+[![Website](https://drive.google.com/uc?id=1wR8Ph0FBs36ZJl0Ud-HkS0LZ9b66JBqJ)][website]
+[![Mail](https://drive.google.com/uc?id=142rP0hbrnY8T9kj_84_r7WxPG1hzWEcN)][mail]
+[![Destek](https://drive.google.com/uc?id=1zyU7JWlw4sJTOx46gJlHOfYBwGIkvMQs)][bağış anlık]
 
-> ~ Copyright © Yunus Emre Ak
->
-> - [Github](https://github.com/yedhrab)
-> - [Website](https://yemreak.com)
-> - [LinkedIn](https://www.linkedin.com/in/yemreak/)
+[![Patreon](https://drive.google.com/uc?id=11YmCRmySX7v7QDFS62ST2JZuE70RFjDG)][bağış aylık]
 
-[İÜ - Cerrahpaşa duyurular]: http://www.istanbulc.edu.tr/tr/duyurular/1/1
-[Aksis Cerrahpaşa]: https://aksis.istanbulc.edu.tr/Account/LogOn
-[Akademisyenler]: http://avesis.istanbulc.edu.tr/
-[Aksis not kartı]: http://obs.istanbulc.edu.tr/OgrenimBilgileri/NotKarti/Index
-[Drive]: https://drive.google.com/drive/folders/1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-
-[Erasmus]: res/2019-2020-erasmus-izlenecek-yollar.pdf
+<!-- İletişim -->
 
-[Ders İçerikleri]: res%2FBilgisayar%20M%C3%BChendisli%C4%9Fi%20Ders%20%C4%B0%C3%A7eri%C4%9Fi.pdf
-[Lisans Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
-[Yüksek Lisans Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1797
-[Doktora Programı Ders Listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=2183
-[Eğitim Bilgileri]: http://bilgisayar.muhendislik.istanbulc.edu.tr/tr/content/egitim/lisans
+[mail]: mailto::yedhrab@gmail.com?subject=YBilgiler%20%7C%20Github
+[github]: https://github.com/yedhrab
+[website]: https://yemreak.com
+[linkedin]: https://www.linkedin.com/in/yemreak/
+[bağış anlık]: https://gogetfunding.com/yemreak/
+[bağış aylık]: https://www.patreon.com/yemreak/
 
-[CE-IU]: http://ce-iu.tk/
-[IU Coders]: http://www.iucoders.com/index.jsp
-[Visioalgo]: https://visualgo.net/en
+<!-- İletişim Sonu -->
 
-[İletişim]: mailto::yedhrab@gmail.com?subject=IstanbulUniversity-CE%20%7C%20Github
-[Bağış Anlık]: https://gogetfunding.com/yemreak/
-[Bağış Aylık]: https://www.patreon.com/yemreak/
+[i̇ü - cerrahpaşa duyurular]: http://www.istanbulc.edu.tr/tr/duyurular/1/1
+[aksis cerrahpaşa]: https://aksis.istanbulc.edu.tr/Account/LogOn
+[akademisyenler]: http://avesis.istanbulc.edu.tr/
+[aksis not kartı]: http://obs.istanbulc.edu.tr/OgrenimBilgileri/NotKarti/Index
+[drive]: https://drive.google.com/drive/folders/1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-
+[erasmus]: res/2019-2020-erasmus-izlenecek-yollar.pdf
+[ders i̇çerikleri]: res%2FBilgisayar%20M%C3%BChendisli%C4%9Fi%20Ders%20%C4%B0%C3%A7eri%C4%9Fi.pdf
+[lisans programı ders listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1092
+[yüksek lisans programı ders listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=1797
+[doktora programı ders listesi]: http://ebs.istanbulc.edu.tr/home/dersprogram/?id=2183
+[eğitim bilgileri]: http://bilgisayar.muhendislik.istanbulc.edu.tr/tr/content/egitim/lisans
+[ce-iu]: http://ce-iu.tk/
+[iu coders]: http://www.iucoders.com/index.jsp
+[visioalgo]: https://visualgo.net/en
+[i̇letişim]: mailto::yedhrab@gmail.com?subject=IstanbulUniversity-CE%20%7C%20Github
+[bağış anlık]: https://gogetfunding.com/yemreak/
+[bağış aylık]: https://www.patreon.com/yemreak/
