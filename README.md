@@ -7,7 +7,7 @@
 
 İstanbul Üniversitesi Bilgisayar Mühendisliği notlarını içerir.
 
-> Katkıda bulunmak istersen [Destek ve İletişim](#Destek-ve-%C4%B0leti%C5%9Fim) bölümüne bakabilirsin 🤗
+> Katkıda bulunmak istersen [Destek ve İletişim](#destek-ve-iletişim) bölümüne bakabilirsin 🤗
 
 ## İçerikler <!-- omit in toc -->
 
