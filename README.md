@@ -36,11 +36,12 @@
 
 ### Ders Bilgileri
 
-- [Ders İçerikleri]
-- [Lisans Programı Ders Listesi]
-- [Yüksek Lisans Programı Ders Listesi]
-- [Doktora Programı Ders Listesi]
-- [Eğitim Bilgileri]
+- [🗓 Ders İçerikleri][ders i̇çerikleri]
+- [🗓 Lisans Programı Ders Listesi][lisans programı ders listesi]
+- [👨‍🏫 Yüksek Lisans Programı Ders Listesi][yüksek lisans programı ders listesi]
+- [👨‍⚕️ Doktora Programı Ders Listesi][doktora programı ders listesi]
+- [🎓 Eğitim Bilgileri][eğitim bilgileri]
+- [💸 Üniversite harcı nasıl yatırılır](https://www.youtube.com/watch?v=AiN-x_Lioto&feature=youtu.be)
 
 <!-- TODO: Okul notları hardcodded'tır, düzeltilecek -->
 
