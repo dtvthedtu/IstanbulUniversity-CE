@@ -11,6 +11,7 @@
 
 ## İçerikler <!-- omit in toc -->
 
+- [📢 Duyurular](#%F0%9F%93%A2-Duyurular)
 - [Temel Bilgiler](#Temel-Bilgiler)
   - [Ders Bilgileri](#Ders-Bilgileri)
 - [Genel Bilgiler](#Genel-Bilgiler)
@@ -24,6 +25,10 @@
 - [4. Sınıf 2. Dönem Notları](#4-S%C4%B1n%C4%B1f-2-D%C3%B6nem-Notlar%C4%B1)
 - [Harici Bağlantılar](#Harici-Ba%C4%9Flant%C4%B1lar)
 - [Destek ve İletişim](#Destek-ve-%C4%B0leti%C5%9Fim)
+
+## 📢 Duyurular
+
+- Ders seçimi tarihi **9 Eylül**'dür
 
 ## Temel Bilgiler
 
