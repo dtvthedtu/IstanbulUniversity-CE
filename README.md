@@ -36,19 +36,19 @@
 ## ✨ Genel Bilgiler
 
 - [🤑 Ücretsiz Yazılımlar](Genel%20Bilgiler%2F%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
-- [🗒 Faydalı Bilgiler](Genel%20Bilgiler%2FFaydal%C4%B1%20Bilgiler.md)
+- [🗒 Faydalı Bilgiler](Genel%s20Bilgiler%2FFaydal%C4%B1%20Bilgiler.md)
 - [🧮 AGNO Hesaplama](https://drive.google.com/open?id=1cRYKOFniB2NOFoXJ7IKIvSwZLvjQobqG)
 - [👯‍ Okul Klüpleri](Genel%20Bilgiler%2FOkul%20Kl%C3%BCpleri.md)
 - [🗣 Proje Notları](Genel%20Bilgiler%2FProje%20Notlar%C4%B1.md)
 - [👨‍🏫 Staj Notları](Genel%20Bilgiler%2FStaj%20Notlar%C4%B1.md)
 
-## Harici Bağlantılar
+## 🔗 Harici Bağlantılar
 
 - [CE-IU][ce-iu]
 - [IU Coders][iu coders]
 - Algoritma mantığını görselleştiren site ([Visioalgo][visioalgo])
 
-## Destek ve İletişim
+## 🕊 Destek ve İletişim
 
 **The [MIT License](https://choosealicense.com/licenses/mit/) &copy; Yunus Emre Ak**
 
