@@ -1,10 +1,5 @@
 # Bilgisayar Grafikileri <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Vize Bilgileri](#vize-bilgileri)
-- [Final Bilgileri](#final-bilgileri)
-
 ## Vize Bilgileri
 
 - 3 nokta verilmisti bu noktalar ile olusan cismi (4,2) noktasina gore 45 derece dondurup y eksenine gore yansitmamizi istedi

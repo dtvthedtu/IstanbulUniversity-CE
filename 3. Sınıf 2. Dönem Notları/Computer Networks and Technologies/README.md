@@ -1,10 +1,5 @@
 # Computer Networks and Technologies <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Vize Bilgileri](#vize-bilgileri)
-- [Final Bilgileri](#final-bilgileri)
-
 ### Vize Bilgileri
 
 - 1, 2, 3, 4.1, 4.2 numaralı *Chapter*'lardan sorumluyuz

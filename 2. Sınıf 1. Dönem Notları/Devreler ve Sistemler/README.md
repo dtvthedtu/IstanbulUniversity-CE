@@ -1,16 +1,5 @@
 # Devreler ve Sistemler <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Bilgileri](#ders-bilgileri)
-- [Lab Bilgileri](#lab-bilgileri)
-  - [Lab-1 Notları](#lab-1-notlar%C4%B1)
-    - [Yapılacaklar](#yap%C4%B1lacaklar)
-    - [Teslim Şekli](#teslim-%C5%9Fekli)
-    - [DC Analizi](#dc-analizi)
-    - [Transient Analiz](#transient-analiz)
-  - [Lab-2 Notları](#lab-2-notlar%C4%B1)
-
 ## Ders Bilgileri
 
 - Ders için alternatif bir video kaynağı için [buraya][Devreler ve Sistemler - Youtube] bakabilirsin.

@@ -1,11 +1,5 @@
 # Lojik Devre Tasarımı <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Bilgileri](#ders-bilgileri)
-- [Final için Referanslar](#final-i%C3%A7in-referanslar)
-  - [Durum Diyagramı Açıklamam](#durum-diyagram%C4%B1-a%C3%A7%C4%B1klamam)
-
 ## Ders Bilgileri
 
 - Alakalı konu olan **Sayısal Tasarım** notlarına [buradan][Sayısal Tasarım - Ege Uni] erişebilirsin.

@@ -1,10 +1,5 @@
 # File Organization <!-- omit in toc -->
 
-## İçerikleri <!-- omit in toc -->
-
-- [Ders Bilgileri](#ders-bilgileri)
-- [Sınav Bilgileri](#s%C4%B1nav-bilgileri)
-
 ## Ders Bilgileri
 
 - Ders slaytlarının **türkçeleri** için [bu sayfaya][File Org] bakabilirsin

@@ -2,11 +2,6 @@
 
 Staj 🎓 ile ilgili bilgileri barındırır.
 
-## İçerikler <!-- omit in toc -->
-
-- [Önemli Hususlar](#%C3%96nemli-Hususlar)
-- [Şirket ile Alakalı Kısım](#%C5%9Eirket-ile-Alakal%C4%B1-K%C4%B1s%C4%B1m)
-
 ## Önemli Hususlar
 
 -  Resmi staj uygulama esasları için [buraya][Staj] bakabilrisin.

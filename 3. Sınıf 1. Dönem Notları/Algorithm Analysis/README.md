@@ -1,11 +1,5 @@
 # Algorithm Analysis <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Vize Bilgileri](#vize-bilgileri)
-- [Final Bilgileri](#final-bilgileri)
-- [Harici Bağlantılar](#harici-ba%C4%9Flant%C4%B1lar)
-
 ## Vize Bilgileri
 
 - Big O konusuna kadar sorumluyuz.

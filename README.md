@@ -9,23 +9,6 @@
 
 > Katkıda bulunmak istersen [Destek ve İletişim](#destek-ve-iletişim) bölümüne bakabilirsin 🤗
 
-## İçerikler <!-- omit in toc -->
-
-- [📢 Duyurular](#%F0%9F%93%A2-Duyurular)
-- [Temel Bilgiler](#Temel-Bilgiler)
-  - [Ders Bilgileri](#Ders-Bilgileri)
-- [Genel Bilgiler](#Genel-Bilgiler)
-- [1. Sınıf 1. Dönem Notları](#1-S%C4%B1n%C4%B1f-1-D%C3%B6nem-Notlar%C4%B1)
-- [1. Sınıf 2. Dönem Notları](#1-S%C4%B1n%C4%B1f-2-D%C3%B6nem-Notlar%C4%B1)
-- [2. Sınıf 1. Dönem Notları](#2-S%C4%B1n%C4%B1f-1-D%C3%B6nem-Notlar%C4%B1)
-- [2. Sınıf 2. Dönem Notları](#2-S%C4%B1n%C4%B1f-2-D%C3%B6nem-Notlar%C4%B1)
-- [3. Sınıf 1. Dönem Notları](#3-S%C4%B1n%C4%B1f-1-D%C3%B6nem-Notlar%C4%B1)
-- [3. Sınıf 2. Dönem Notları](#3-S%C4%B1n%C4%B1f-2-D%C3%B6nem-Notlar%C4%B1)
-- [4. Sınıf 1. Dönem Notları](#4-S%C4%B1n%C4%B1f-1-D%C3%B6nem-Notlar%C4%B1)
-- [4. Sınıf 2. Dönem Notları](#4-S%C4%B1n%C4%B1f-2-D%C3%B6nem-Notlar%C4%B1)
-- [Harici Bağlantılar](#Harici-Ba%C4%9Flant%C4%B1lar)
-- [Destek ve İletişim](#Destek-ve-%C4%B0leti%C5%9Fim)
-
 ## 📢 Duyurular
 
 - Ders seçimi tarihi **9 Eylül**'dür

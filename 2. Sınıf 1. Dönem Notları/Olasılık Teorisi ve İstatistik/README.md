@@ -1,9 +1,5 @@
 # Olasılık Teorisi ve İstatistik <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Sınav Bilgileri](#s%C4%B1nav-bilgileri)
-
 ## Sınav Bilgileri
 
 - Sınava 1** adet A4 arkalı/önlü formül kağıdı** getirebilirsiniz. Ayrıca **Standart Normal Birikimli Dağılım** tabolusunu da getirin.

@@ -1,10 +1,5 @@
 # İş Sağlığı ve Güvenliği <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Bilgileri](#ders-bilgileri)
-- [Sınav Bilgleri](#s%C4%B1nav-bilgleri)
-
 ## Ders Bilgileri
 
 - Yoklama yok

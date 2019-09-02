@@ -1,11 +1,5 @@
 # Signal Processing <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Notları ~ YEmreAk Bilgileri](#ders-notlar%C4%B1--yemreak-bilgileri)
-- [Sınava Giriş Yapısı](#s%C4%B1nava-giri%C5%9F-yap%C4%B1s%C4%B1)
-- [Sınavın Yapısı](#s%C4%B1nav%C4%B1n-yap%C4%B1s%C4%B1)
-
 ## Ders Notları ~ YEmreAk Bilgileri
 
 - Final kısmı 7. sayfadan başlar

@@ -1,13 +1,5 @@
 # Operation Systems <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Vize Bilgileri](#vize-bilgileri)
-- [Mazeret Bilgileri](#mazeret-bilgileri)
-- [Final Bilgileri](#final-bilgileri)
-- [Çıkmış Sorular](#%C3%A7%C4%B1km%C4%B1%C5%9F-sorular)
-- [Örgün Büt 2018](#%C3%B6rg%C3%BCn-b%C3%BCt-2018)
-
 ## Vize Bilgileri
 
 - 3 tane önemli register vardı onlar ve kısaca ne yaptıkları

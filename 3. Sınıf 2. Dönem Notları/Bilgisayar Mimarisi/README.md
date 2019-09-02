@@ -1,18 +1,5 @@
 # Bilgisayar Mimarisi <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Bilgisi](#ders-bilgisi)
-- [Proje Ödevi](#proje-%C3%B6devi)
-  - [XILINX ISE Design Studio](#xilinx-ise-design-studio)
-  - [XILINX Kullanımı](#xilinx-kullan%C4%B1m%C4%B1)
-    - [Proje Oluşturma](#proje-olu%C5%9Fturma)
-    - [Proje İşlemleri](#proje-i%CC%87%C5%9Flemleri)
-    - [Simüle Etme](#sim%C3%BCle-etme)
-  - [Teslim Şekli](#teslim-%C5%9Fekli)
-  - [Faydalı Bağlantılar](#faydal%C4%B1-ba%C4%9Flant%C4%B1lar)
-- [Faydalı Siteler](#faydal%C4%B1-siteler)
-
 ## Ders Bilgisi
 
 > Zordur 😅

@@ -1,7 +1,5 @@
 # Fizik 2 <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
 - [Ders Bilgileri](#ders-bilgileri)
 - [Final Bilgileri](#final-bilgileri)
 

@@ -1,9 +1,5 @@
 # Data Comminication <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Final Bilgileri](#final-bilgileri)
-
 ## Final Bilgileri
 
 - Aksiste dökümanlarda hoca yansıları paylaştı. Kitabı da - libgen.io’dan bulabilirsin 60mb civarında

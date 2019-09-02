@@ -6,11 +6,6 @@ Bu yazı hala aktarım aşamasındadır, kaynak için [buraya](https://www.yemre
 http://yemreak.blogspot.com/2017/10/veri-yaplar.html
 -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Bilgileri](#ders-bilgileri)
-- [Ders için Kodlarım](#ders-i%C3%A7in-kodlar%C4%B1m)
-
 ## Ders Bilgileri
 
 - Derste işlenen slaytları [hocanın kendi sitesinde][Hocanın Sitesi] de bulabilirsin.

@@ -1,10 +1,5 @@
 # Artifical Intelligence <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Sınav Bilgileri](#s%C4%B1nav-bilgileri)
-- [Harici Bağlantılar](#harici-ba%C4%9Flant%C4%B1lar)
-
 ## Sınav Bilgileri
 
 - Vize için *Search Algorithm*'lerden muhakkak soru gelir.

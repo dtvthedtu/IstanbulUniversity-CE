@@ -1,13 +1,5 @@
 # Software Enginnering <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Bilgileri](#ders-bilgileri)
-- [Sınav Bilgileri](#s%C4%B1nav-bilgileri)
-  - [Vize Bilgileri](#vize-bilgileri)
-  - [Final Bilgileri](#final-bilgileri)
-- [Faydalı Linkler](#faydal%C4%B1-linkler)
-
 ## Ders Bilgileri
 
 - Hocası: *Atakan Kurt*

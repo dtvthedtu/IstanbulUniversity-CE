@@ -1,14 +1,5 @@
 # Faydalı Bilgiler <!-- omit in toc -->
 
-## içerikler <!-- omit in toc -->
-
-- [Eğitmen Bilgileri](#e%C4%9Fitmen-bilgileri)
-- [CV Hazırlama](#cv-haz%C4%B1rlama)
-- [Aksisc Anketlerini Otomatik Dolduran Script](#aksisc-anketlerini-otomatik-dolduran-script)
-- [Yaz Okulu](#yaz-okulu)
-- [Yatay Geçiş Notları](#yatay-ge%C3%A7i%C5%9F-notlar%C4%B1)
-  - [İTÜ'ye Yatay Geçiş](#i%CC%87t%C3%BCye-yatay-ge%C3%A7i%C5%9F)
-
 ## Eğitmen Bilgileri
 
 | Eğitmen         | İletişim                 |

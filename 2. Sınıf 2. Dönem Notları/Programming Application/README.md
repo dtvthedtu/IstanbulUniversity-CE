@@ -1,10 +1,5 @@
 # Programming Applicaiton  <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Bilgileri](#ders-bilgileri)
-- [Harici Bağlantılar](#harici-ba%C4%9Flant%C4%B1lar)
-
 ## Ders Bilgileri
 
 - Yapılmış 2018 Proje ödevine [buradan][Diyetisyenim] erişebilrsin.

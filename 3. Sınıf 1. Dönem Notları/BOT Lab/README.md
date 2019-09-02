@@ -1,10 +1,5 @@
 # Bilgisayar Organizasyonu ve Tasarımı Lab <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Bilgileri](#ders-bilgileri)
-- [Final Hakkında](#final-hakk%C4%B1nda)
-
 ## Ders Bilgileri
 
 Hocanın hazırlamış olduğu videolar:

@@ -1,10 +1,5 @@
 # Nesneye Yönelik Programlama <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Bilgileri](#ders-bilgileri)
-  - [Faydalı Kitaplar](#faydal%C4%B1-kitaplar)
-
 ## Ders Bilgileri
 
 - Ders **java** tabanlı ilerleyeceği için, [buraya][Java - yemreak.com] tıklayarak java hakkında bilgi edinebilir, java'yı hangi **IDE** aracılığıyla derleyebileceğini, bu IDE'leri bilgisayarına nasıl **kurabileceğini** ve **anlatımlı youtube kaynaklarını** öğrenebilirsin.

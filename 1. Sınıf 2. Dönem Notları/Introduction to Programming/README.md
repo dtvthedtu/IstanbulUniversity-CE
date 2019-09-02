@@ -1,7 +1,5 @@
 # Introduction to Programming <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
 - [Workshop Notları](#workshop-notlar%C4%B1)
 - [Faydalı Kaynaklar](#faydal%C4%B1-kaynaklar)
 

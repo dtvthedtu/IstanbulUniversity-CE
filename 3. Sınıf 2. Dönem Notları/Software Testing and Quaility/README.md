@@ -1,12 +1,5 @@
 # Software Testing and Quality <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Bilgisi](#ders-bilgisi)
-- [Ders Puanlaması](#ders-puanlamas%C4%B1)
-- [Sunum Notları](#sunum-notlar%C4%B1)
-  - [Sunum Konumları](#sunum-konumlar%C4%B1)
-
 ## Ders Bilgisi
 
 - Ders dökümanlarının paylaşıldığı resmi siteye [buradan][Rüya Hoca Avesis] erişebilirsin.

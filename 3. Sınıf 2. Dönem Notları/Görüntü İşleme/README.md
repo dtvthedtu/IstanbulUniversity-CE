@@ -1,9 +1,5 @@
 # Görüntü İşleme <!-- omit in toc -->
 
-## İçerikler <!-- omit in toc -->
-
-- [Ders Bilgisi](#ders-bilgisi)
-
 ## Ders Bilgisi
 
 - Yoklama: Yok
