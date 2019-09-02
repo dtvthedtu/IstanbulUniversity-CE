@@ -1,8 +1,5 @@
 # Fizik 2 <!-- omit in toc -->
 
-- [Ders Bilgileri](#ders-bilgileri)
-- [Final Bilgileri](#final-bilgileri)
-
 ## Ders Bilgileri
 
 - Derse alternatif bir kaynak için [buraya][Fizik 2 Genel] bakabilirsin.

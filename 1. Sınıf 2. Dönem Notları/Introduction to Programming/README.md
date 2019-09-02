@@ -1,8 +1,5 @@
 # Introduction to Programming <!-- omit in toc -->
 
-- [Workshop Notları](#workshop-notlar%C4%B1)
-- [Faydalı Kaynaklar](#faydal%C4%B1-kaynaklar)
-
 ## Workshop Notları
 
 Öğrenciler tarafından gönüllü olarak verilen ders hakkında bilgilere alttaki linklerden erişebilirsin.

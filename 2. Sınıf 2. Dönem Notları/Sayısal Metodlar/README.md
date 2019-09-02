@@ -1,8 +1,5 @@
 # Sayısal Metodlar  <!-- omit in toc -->
 
-- [Ders Bilgisi](#ders-bilgisi)
-- [Geçmiş Ödevler](#ge%C3%A7mi%C5%9F-%C3%B6devler)
-
 ## Ders Bilgisi
 
 - Hocanın resmi sitesi için [buraya][OguzhanOztas] bakabilirsin.
