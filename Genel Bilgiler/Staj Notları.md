@@ -1,9 +1,16 @@
-# Staj Notları
+# Staj Notları <!-- omit in toc -->
 
-Resmi staj uygulama esasları için [buraya][Staj] bakabilrisin.  
+Staj 🎓 ile ilgili bilgileri barındırır.
 
-- [Staj Notları](#Staj-Notlar%C4%B1)
-  - [Şirket ile Alakalı Kısım](#%C5%9Eirket-ile-Alakal%C4%B1-K%C4%B1s%C4%B1m)
+## İçerikler <!-- omit in toc -->
+
+- [Önemli Hususlar](#%C3%96nemli-Hususlar)
+- [Şirket ile Alakalı Kısım](#%C5%9Eirket-ile-Alakal%C4%B1-K%C4%B1s%C4%B1m)
+
+## Önemli Hususlar
+
+-  Resmi staj uygulama esasları için [buraya][Staj] bakabilrisin.
+-  Müracat: **Pazartesi** veya **Çarşamba** günleri  **saat:14:00**
 
 ## Şirket ile Alakalı Kısım
 
