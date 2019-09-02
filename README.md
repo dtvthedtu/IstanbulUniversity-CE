@@ -22,7 +22,7 @@
 - Eski ders notlarının olduğu drive linkine erişmek için [buraya][drive] bakabilirsin.
 - Erasmus için izlenecek yollar için [buraya][erasmus] bakabilirsin
 
-### 🗒 Ders Bilgileri
+## 🗒 Ders Bilgileri
 
 - [🗓 Ders İçerikleri][ders i̇çerikleri]
 - [🗓 Lisans Programı Ders Listesi][lisans programı ders listesi]
