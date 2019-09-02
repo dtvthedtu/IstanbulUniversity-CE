@@ -28,7 +28,7 @@ from urllib.parse import quote
 
 # Yapılandırma dosyası ayarları
 INI_FILE = "ymm.ini"
-README_FILE = "README.md"
+README_FILE = "SUMMARY.md"
 COMMENT_DELIM = "#"
 VARIABLE_DELIM = "="
 CONFIG_HEADER = "[Config]"
