@@ -1,4 +1,4 @@
-# Faydalı Bilgiler <!-- omit in toc -->
+# 🗒 Faydalı Bilgiler
 
 ## Eğitmen Bilgileri
 

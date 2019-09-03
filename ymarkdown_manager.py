@@ -327,7 +327,7 @@ def listfolderpaths(path: str = os.getcwd(), sort: bool = False, hidden: bool = 
     folderlist = []
     for name in os.listdir(path):
         # Gizli dizinleri atlama
-        if not hidden and name[0] == '.': 
+        if not hidden and name[0] == '.':
             continue
 
         pathname = os.path.join(path, name)
@@ -353,7 +353,7 @@ def listfilepaths(path: str = os.getcwd(), sort: bool = False, hidden: bool = Fa
     filelist = []
     for name in os.listdir(path):
         # Gizli dosyaları atlama
-        if not hidden and name[0] == '.': 
+        if not hidden and name[0] == '.':
             continue
 
         pathname = os.path.join(path, name)
@@ -806,10 +806,23 @@ def manager():
     insertfile(README_FILE, string, indicator)
 
     if dynamic_link:
-        apply_all_files(replace_static_links_from_file, sort=True, hidden=show_hidden)
+        apply_all_files(replace_static_links_from_file,
+                        sort=True, hidden=show_hidden)
 
     print("Updated! ~YEmreAk")
 
 
+def create_all_link():
+    """Beta sürümü"""
+    for path, subdirs, files in os.walk("."):
+        if not any(x in path for x in [".git", "res"]):
+            for name in files:
+                print(name)
+                if name == "README.md":
+                    # print(os.path.join(path, name))
+                    pass
+
+
 if __name__ == "__main__":
+    # create_all_link()
     manager()

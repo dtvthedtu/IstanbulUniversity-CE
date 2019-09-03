@@ -1,4 +1,4 @@
-# Staj Notları <!-- omit in toc -->
+# 👨‍🏫 Staj Notları
 
 Staj 🎓 ile ilgili bilgileri barındırır.
 

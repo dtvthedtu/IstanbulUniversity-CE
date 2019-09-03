@@ -1,4 +1,4 @@
-# Ücretsiz Yazılımlar <!-- omit in toc -->
+# 🤑 Ücretsiz Yazılımlar
 
 ## Giriş
 

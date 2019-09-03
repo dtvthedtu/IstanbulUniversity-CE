@@ -1,4 +1,4 @@
-# Proje Bilgileri
+# 🗣 Proje Notları
 
 Ana kaynak [İÜ-Cerrahpaşa Duyurular]'dır.
 
