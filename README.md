@@ -1,6 +1,6 @@
 # Istanbul University - CE <!-- omit in toc -->
 
- İstanbul Üniversitesi Bilgisayar Mühendisliği notlarını içerir.
+ İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını içerir 📚
 
 ## 📢 Duyurular
 
