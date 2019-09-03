@@ -4,6 +4,7 @@
 
 ## 📢 Duyurular
 
+- [YEmreAk](iuce.yemreak.com) domainine bağlandı 🚀
 - Ders seçimi tarihi **9 Eylül**'dür
 
 ## 🌳 Temel Bilgiler
