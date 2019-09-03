@@ -1,4 +1,0 @@
-# Bilişim Proje Geliştirme
-
-> Yok 😅
-

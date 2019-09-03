@@ -1,4 +1,0 @@
-# Ağ Programlama
-
-> Yok 😅
-

@@ -1,4 +1,0 @@
-# Bilgisayar Ağlarında Güvenlik
-
-> Yok 😅
-

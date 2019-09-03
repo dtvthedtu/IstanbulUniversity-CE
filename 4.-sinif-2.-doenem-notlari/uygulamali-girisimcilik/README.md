@@ -1,4 +1,0 @@
-# Uygulamalı Girişimcilik
-
-> Yok 😅
-

@@ -1,4 +1,0 @@
-# Sistem Programlama
-
-> Yok 😅
-

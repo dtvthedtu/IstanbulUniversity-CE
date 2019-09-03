@@ -1,2 +1,0 @@
-# Slaytların Türkçesi
-

@@ -1,4 +1,0 @@
-# Bulanık Mantık
-
-> Yok 😅
-

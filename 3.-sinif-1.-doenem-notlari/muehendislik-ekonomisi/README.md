@@ -1,4 +1,0 @@
-# Mühendislik Ekonomisi
-
-> Yok 😅
-

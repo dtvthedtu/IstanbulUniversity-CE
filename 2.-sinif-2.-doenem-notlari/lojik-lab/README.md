@@ -1,4 +1,0 @@
-# Lojik Lab
-
-> Yok 😅
-

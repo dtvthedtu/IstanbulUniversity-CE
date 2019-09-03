@@ -1,4 +1,0 @@
-# Bilişim Hukuku
-
-> Yok 😅
-

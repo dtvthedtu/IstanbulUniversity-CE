@@ -1,4 +1,0 @@
-# Mikroişlemciler
-
-> Yok 😅
-

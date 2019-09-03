@@ -1,2 +1,0 @@
-# Türkçe Kaynakar
-

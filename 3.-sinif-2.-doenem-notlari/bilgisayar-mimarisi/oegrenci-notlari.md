@@ -1,2 +1,0 @@
-# Öğrenci Notları
-

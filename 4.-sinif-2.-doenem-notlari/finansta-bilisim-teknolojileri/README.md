@@ -1,4 +1,0 @@
-# Finansta Bilişim Teknolojileri
-
-> Yok 😅
-

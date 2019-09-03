@@ -1,4 +1,0 @@
-# Kablosuz Haberleşme Ağları
-
-> Yok 😅
-
