@@ -13,7 +13,7 @@
 
 - Ders seçimi tarihi **9 Eylül**'dür
 
-## 🏗 Temel Bilgiler
+## 🌳 Temel Bilgiler
 
 - Okulun resmi duyurularının olduğu sayfaya [buradan][i̇ü - cerrahpaşa duyurular] erişebilirsin
 - [Aksis Cerrahpaşa] üzerinden ders bilgilerine erişebilirsin
@@ -22,7 +22,7 @@
 - Eski ders notlarının olduğu drive linkine erişmek için [buraya][drive] bakabilirsin.
 - Erasmus için izlenecek yollar için [buraya][erasmus] bakabilirsin
 
-## 🗒 Ders Bilgileri
+## 📕 Ders Bilgileri
 
 - [🗓 Ders İçerikleri][ders i̇çerikleri]
 - [🗓 Lisans Programı Ders Listesi][lisans programı ders listesi]
@@ -37,12 +37,12 @@
 - [IU Coders][iu coders]
 - Algoritma mantığını görselleştiren site ([Visioalgo][visioalgo])
 
-## ✔ Yapılacaklar
+## ✅ Yapılacaklar
 
 - [ ] PDF'lerin gözükmeme sorunu giderilmeli
 - [ ] Entegrasyon sırasında klasörlerin sıraları bozulmakta çözülmeli
 
-## 🕊 Destek ve İletişim
+## 💖 Destek ve İletişim
 
 **The [MIT License](https://choosealicense.com/licenses/mit/) &copy; Yunus Emre Ak**
 
