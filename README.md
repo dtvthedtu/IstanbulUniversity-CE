@@ -1,13 +1,6 @@
 # Istanbul University - CE <!-- omit in toc -->
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yedhrab/IstanbulUniversity-CE.svg?label=Son%20G%C3%BCncelleme&style=popout)
-![GitHub](https://img.shields.io/github/license/yedhrab/IstanbulUniversity-CE.svg?label=Lisans&style=popout)
-![made_with_Markdown](https://img.shields.io/badge/%C4%B0%C3%A7erik-Markdown-blue.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/yedhrab/IstanbulUniversity-CE.svg?label=Boyut&style=popout)
-
-İstanbul Üniversitesi Bilgisayar Mühendisliği notlarını içerir.
-
-> Katkıda bulunmak istersen [Destek ve İletişim](#destek-ve-iletişim) bölümüne bakabilirsin 🤗
+ İstanbul Üniversitesi Bilgisayar Mühendisliği notlarını içerir.
 
 ## 📢 Duyurular
 
