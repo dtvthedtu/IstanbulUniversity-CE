@@ -18,6 +18,11 @@ Staj 🎓 ile ilgili bilgileri barındırır.
 - İşyeri tarafından **3 kopyası** kaşe ile birlikte imzalanır (dijital olmayacak)
 - [Online staj formu doldurulur](http://docs.google.com/forms/d/e/1FAIpQLSfj90LKdgjNt2j1A1o-6wp5EXfElfX6_AvoiTEpDLAO0hK9pQ/viewform)
 
+## Staj Bitiminde Gerekli Olan Belgeler
+
+- [Staj Sicil Fişi](https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=2019-staj-sicil-fisi.docx)
+- [Staj Defteri / Raporu](https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=201905-staj-defteri.docx)
+- ​[Staj Puantaj Cetveli](https://cdn.istanbul.edu.tr/FileHandler2.ashx?f=2019-staj-puantaj-cetveli.xlsx)
 
 <!-- ## Asgari Stajyer Maaşı
 
