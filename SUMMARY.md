@@ -2,7 +2,7 @@
   - [1 - Genel Bilgiler](./1%20-%20Genel%20Bilgiler)
     - [👨‍🏫 Staj Notları](./1%20-%20Genel%20Bilgiler/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20Staj%20Notlar%C4%B1.md)
     - [👯‍ Okul Klüpleri](./1%20-%20Genel%20Bilgiler/%F0%9F%91%AF%E2%80%8D%20Okul%20Kl%C3%BCpleri.md)
-    - [🗒 Faydalı Bilgiler](./1%20-%20Genel%20Bilgiler/%F0%9F%97%92%20Faydal%C4%B1%20Bilgiler.md)
+    - [📗 Faydalı Bilgiler](./1%20-%20Genel%20Bilgiler/%F0%9F%93%97%20Faydal%C4%B1%20Bilgiler.md)
     - [🗣 Proje Notları](./1%20-%20Genel%20Bilgiler/%F0%9F%97%A3%20Proje%20Notlar%C4%B1.md)
     - [🤑 Ücretsiz Yazılımlar](./1%20-%20Genel%20Bilgiler/%F0%9F%A4%91%20%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
     - [🧮 AGNO Hesaplama](./1%20-%20Genel%20Bilgiler/%F0%9F%A7%AE%20AGNO%20Hesaplama.md)
