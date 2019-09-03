@@ -37,7 +37,7 @@
 - [IU Coders][iu coders]
 - Algoritma mantığını görselleştiren site ([Visioalgo][visioalgo])
 
-## Yapılacaklar
+## ✔ Yapılacaklar
 
 - [ ] PDF'lerin gözükmeme sorunu giderilmeli
 - [ ] Entegrasyon sırasında klasörlerin sıraları bozulmakta çözülmeli
