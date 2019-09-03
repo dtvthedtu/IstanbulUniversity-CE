@@ -31,17 +31,6 @@
 - [🎓 Eğitim Bilgileri][eğitim bilgileri]
 - [💸 Üniversite harcı nasıl yatırılır](https://www.youtube.com/watch?v=AiN-x_Lioto&feature=youtu.be)
 
-<!-- TODO: Okul notları hardcodded'tır, düzeltilecek -->
-
-## ✨ Genel Bilgiler
-
-- [🤑 Ücretsiz Yazılımlar](Genel%20Bilgiler%2F%C3%9Ccretsiz%20Yaz%C4%B1l%C4%B1mlar.md)
-- [🗒 Faydalı Bilgiler](Genel%s20Bilgiler%2FFaydal%C4%B1%20Bilgiler.md)
-- [🧮 AGNO Hesaplama](https://drive.google.com/open?id=1cRYKOFniB2NOFoXJ7IKIvSwZLvjQobqG)
-- [👯‍ Okul Klüpleri](Genel%20Bilgiler%2FOkul%20Kl%C3%BCpleri.md)
-- [🗣 Proje Notları](Genel%20Bilgiler%2FProje%20Notlar%C4%B1.md)
-- [👨‍🏫 Staj Notları](Genel%20Bilgiler%2FStaj%20Notlar%C4%B1.md)
-
 ## 🔗 Harici Bağlantılar
 
 - [CE-IU][ce-iu]
