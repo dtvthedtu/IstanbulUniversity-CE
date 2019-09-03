@@ -30,11 +30,6 @@
 - [IU Coders][iu coders]
 - Algoritma mantığını görselleştiren site ([Visioalgo][visioalgo])
 
-## ✅ Yapılacaklar
-
-- [ ] PDF'lerin gözükmeme sorunu giderilmeli
-- [ ] Entegrasyon sırasında klasörlerin sıraları bozulmakta çözülmeli
-
 ## 💖 Destek ve İletişim
 
 **The [MIT License](https://choosealicense.com/licenses/mit/) &copy; Yunus Emre Ak**
