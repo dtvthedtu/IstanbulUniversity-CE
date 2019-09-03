@@ -9,11 +9,12 @@
 
 ## 🌳 Temel Bilgiler
 
-- Okulun resmi duyurularının olduğu sayfaya [buradan][i̇ü - cerrahpaşa duyurular] erişebilirsin
+- [Bölümün resmi sitesi](https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/_)
+- [Okulun resmi duyurularının olduğu sayfa][i̇ü - cerrahpaşa duyurular]
 - [Aksis Cerrahpaşa] üzerinden ders bilgilerine erişebilirsin
-- Resmi akademisyenlerin sitesine [buradan][akademisyenler] erişebilirsin.
+- [Akedemisyen bilgilerinin olduğu resmi site][akademisyenler]
 - Ağırlıklı not ortalamanı (AGNO) öğremek için [Aksis][aksis cerrahpaşa] üzerinden [Not Kartı][aksis not kartı] alanına bakabilirsin.
-- Eski ders notlarının olduğu drive linkine erişmek için [buraya][drive] bakabilirsin.
+- [Eski ders notlarının olduğu drive linki][drive]
 - Erasmus için izlenecek yollar için [buraya][erasmus] bakabilirsin
 
 ## 📕 Ders Bilgileri
