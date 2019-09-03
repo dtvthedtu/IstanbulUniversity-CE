@@ -1,0 +1,2 @@
+# 0 - Ortak Notlar
+
