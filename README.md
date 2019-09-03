@@ -24,8 +24,8 @@
 
 ## 📕 Ders Bilgileri
 
-- [🗓 Ders İçerikleri][ders i̇çerikleri]
-- [🗓 Lisans Programı Ders Listesi][lisans programı ders listesi]
+- [📓 Ders İçerikleri][ders i̇çerikleri]
+- [📔 Lisans Programı Ders Listesi][lisans programı ders listesi]
 - [👨‍🏫 Yüksek Lisans Programı Ders Listesi][yüksek lisans programı ders listesi]
 - [👨‍⚕️ Doktora Programı Ders Listesi][doktora programı ders listesi]
 - [🎓 Eğitim Bilgileri][eğitim bilgileri]
