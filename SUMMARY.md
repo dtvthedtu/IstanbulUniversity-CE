@@ -1,4 +1,4 @@
-  - [0 - Ortak Notlar](./0%20-%20Ortak%20Notlar)
+  - [0 - Ortak Notlar](./0%20-%20Ortak%20Notlar/README.md)
   - [1 - Genel Bilgiler](./1%20-%20Genel%20Bilgiler)
     - [👨‍🏫 Staj Notları](./1%20-%20Genel%20Bilgiler/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20Staj%20Notlar%C4%B1.md)
     - [👯‍ Okul Klüpleri](./1%20-%20Genel%20Bilgiler/%F0%9F%91%AF%E2%80%8D%20Okul%20Kl%C3%BCpleri.md)
