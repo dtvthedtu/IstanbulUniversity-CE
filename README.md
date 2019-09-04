@@ -6,7 +6,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 ## 📢 Duyurular
 
-- [YEmreAk](iuce.yemreak.com) domainine bağlandı 🚀
+- [YEmreAk](https://yemreak.com/) domainine bağlandı 🚀
 - Ders seçimi tarihi **9 Eylül**'dür
 
 ## 🌳 Temel Bilgiler
