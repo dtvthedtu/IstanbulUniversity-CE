@@ -34,6 +34,13 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 - [IU Coders][iu coders]
 - Algoritma mantığını görselleştiren site ([Visioalgo][visioalgo])
 
+## 🤔 İçerik Desteğinde Bulunma veya Fikir Belirtme
+
+Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
+
+- Düşüncelerinizi GitHub üzerinden [Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açarak paylaşabailirsiniz
+- İsterseniz sağ üst alandaki **Edit on GitHub** alanından kendiniz de düzenleyebilirsiniz
+
 ## 💖 Destek ve İletişim
 
 **The [MIT License](https://choosealicense.com/licenses/mit/) &copy; Yunus Emre Ak**
