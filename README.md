@@ -39,7 +39,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
 
 - Düşüncelerinizi GitHub üzerinden [Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açarak paylaşabailirsiniz
-- İsterseniz sağ üst alandaki **Edit on GitHub** alanından kendiniz de düzenleyebilirsiniz
+- İsterseniz dilediğiniz sayfayı, sağ üst köşede bulunan **Edit on GitHub** üzerinden kendiniz de düzenleyebilirsiniz
 
 ## 💖 Destek ve İletişim
 
