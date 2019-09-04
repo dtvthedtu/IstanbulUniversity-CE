@@ -1,5 +1,8 @@
-  - [Ortak Notlar](./0%20-%20Ortak%20Notlar/README.md)
-  - [Genel Bilgiler](./1%20-%20Genel%20Bilgiler)
+# Summary
+
+- [Istanbul University - CE](./README.md)
+  - [0 - Ortak Notlar](./0%20-%20Ortak%20Notlar/README.md)
+  - [1 - Genel Bilgiler](./1%20-%20Genel%20Bilgiler)
     - [👨‍🏫 Staj Notları](./1%20-%20Genel%20Bilgiler/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20Staj%20Notlar%C4%B1.md)
     - [👯‍ Okul Klüpleri](./1%20-%20Genel%20Bilgiler/%F0%9F%91%AF%E2%80%8D%20Okul%20Kl%C3%BCpleri.md)
     - [📗 Faydalı Bilgiler](./1%20-%20Genel%20Bilgiler/%F0%9F%93%97%20Faydal%C4%B1%20Bilgiler.md)
@@ -229,5 +232,17 @@
       - [Karma İçerikler](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Special%20Topics%20on%20Computer%20Networks/Karma%20%C4%B0%C3%A7erikler/README.md)
     - [Uygulamalı Girişimcilik](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Uygulamal%C4%B1%20Giri%C5%9Fimcilik/README.md)
       - [Karma İçerikler](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Uygulamal%C4%B1%20Giri%C5%9Fimcilik/Karma%20%C4%B0%C3%A7erikler/README.md)
-  - [Karışık Notlar](./5.1%20Kar%C4%B1%C5%9F%C4%B1k%20Notlar)
+  - [5.1 Karışık Notlar](./5.1%20Kar%C4%B1%C5%9F%C4%B1k%20Notlar/README.md)
   - [PDFs](./PDFs/README.md)
+
+## ✨ Özenle Hazırladığım Diğer Dökümanlarım
+
+- [📖 Kişisel Ansiklopedim](https://wiki.yemreak.com)
+- [📈 Üretkenlik notlarım](https://pro.yemreak.com)
+- [🐍 Python notlarım](https://python.yemreak.com)
+- [📊 Data Science notlarım](https://ds.yemreak.com)
+- [🏫 İstanbul Üniversitesi - Bilgisayar Mühendisliği Notları](https://iuce.yemreak.com)
+- [📜 Kişisel scriptlerim](https://github.com/yedhrab/YScripts)
+- [👨‍🏫💻🕸🧠 Makine öğrenimi, Sinir Ağları ve Deep Learning üzerine çalışmalarım](https://ai.yemreak.com)
+- [⚛️🔥 React ve Firebase projem](https://github.com/yedhrab/YReact-Firebase)
+- [📱 Android notlarım](https://android.yemreak.com)
