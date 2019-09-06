@@ -55,7 +55,7 @@ Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
 
 <!-- İletişim -->
 
-[mail]: mailto::yedhrab@gmail.com?subject=YBilgiler%20%7C%20Github
+[mail]: mailto::yedhrab@gmail.com?subject=Istanbul%20University%20-%20CE%20%7C%20Github
 [github]: https://github.com/yedhrab
 [website]: https://yemreak.com
 [linkedin]: https://www.linkedin.com/in/yemreak/
