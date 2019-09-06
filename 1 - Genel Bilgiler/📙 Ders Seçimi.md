@@ -30,13 +30,13 @@ Başlık altında da belli ettiğim gibi **kişisel** tavsiyelerim olduğundan, 
 
 ## 💭 Neden Diğer Dersleri Önermedim
 
-### Neden Artifical Intelligent tavsiye etmedim:
+### 🤔 Artifical Intelligent neden önerilmedi
 
 - Fazla teorik
 - Yüzeysel konular olduğun biraz sıkıcı
 - Günümüzdeki Machine Learning , Deep Neural Network gibi alanlardan bahsetmiyor
 
-### Neden Data Communication değil
+### 🤔 Data Communication neden önerilmedi
 
 - Sadece 2 kelime “Ahmet Hoca” 😅
   - Monoton anlatım (sürekli aynı tonda olan ses, uyku getiriyor)
