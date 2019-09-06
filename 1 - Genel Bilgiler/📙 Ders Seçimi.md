@@ -22,7 +22,7 @@ Başlık altında da belli ettiğim gibi **kişisel** tavsiyelerim olduğundan, 
   - Linux bilgisi
 - Sınavlarının önemi neredeyse çok azdır, ödevle düzgün yaparak dersi geçebiliriz.
 
-### ⚖ Bilişim Hukuku
+### 👨‍⚖️ Bilişim Hukuku
 
 - Bilişim hukuku dersini **kolay geçmek adına** seçebilirsin.
 
