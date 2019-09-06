@@ -10,7 +10,7 @@ Başlık altında da belli ettiğim gibi **kişisel** tavsiyelerim olduğundan, 
 
  
 
-## 3. Sınıf 1. Dönem Ders Tavsiyeleri
+## 👨‍🏫 3. Sınıf 1. Dönem Ders Tavsiyeleri
 
 ### 👨‍💻 Sistem Programlama
 
