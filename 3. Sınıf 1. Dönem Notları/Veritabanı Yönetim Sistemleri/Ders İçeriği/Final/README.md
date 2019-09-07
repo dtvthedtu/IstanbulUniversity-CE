@@ -1,9 +1,9 @@
 # Final
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [ch23-XML.pdf](./ch23-XML.pdf)
 - [ch7-EntityRelationshipModel.pdf](./ch7-EntityRelationshipModel.pdf)
@@ -11,5 +11,5 @@
 - [triggers.pdf](./triggers.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

@@ -1,12 +1,12 @@
 # Karma İçerikler
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Ağ Programlama.rar](./A%C4%9F%20Programlama.rar)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

@@ -1,9 +1,9 @@
 # Öğrenci Notları
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Binary Tree.c](./Binary%20Tree.c)
 - [Graph MinSpanningTree Kruksal Algo.c](./Graph%20MinSpanningTree%20Kruksal%20Algo.c)
@@ -17,5 +17,5 @@
 - [İkili Ağaç Oluşturma ve Gezme.c](./%C4%B0kili%20A%C4%9Fa%C3%A7%20Olu%C5%9Fturma%20ve%20Gezme.c)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

@@ -1,9 +1,9 @@
 # Eski Tip
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [signal-io-2015-final-solutions.pdf](./signal-io-2015-final-solutions.pdf)
 - [signal-io-2015-final.pdf](./signal-io-2015-final.pdf)
@@ -41,5 +41,5 @@
 - [signal-orgun-2017-midterm.pdf](./signal-orgun-2017-midterm.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

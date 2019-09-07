@@ -1,9 +1,9 @@
 # Sınav Soruları
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [12321440_10208061083697786_747689446661251739_n.jpg](./12321440_10208061083697786_747689446661251739_n.jpg)
 - [12512429_10208061083497781_557166734878632662_n.jpg](./12512429_10208061083497781_557166734878632662_n.jpg)
@@ -42,5 +42,5 @@
 - [programming apps final.jpg](./programming%20apps%20final.jpg)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

@@ -1,9 +1,9 @@
 # Sınav Soruları
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [midterm_solutions.pdf](./midterm_solutions.pdf)
 - [rsp-2013-final.pdf](./rsp-2013-final.pdf)
@@ -32,5 +32,5 @@
 - [rsp-orgun-2015-final.pdf](./rsp-orgun-2015-final.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

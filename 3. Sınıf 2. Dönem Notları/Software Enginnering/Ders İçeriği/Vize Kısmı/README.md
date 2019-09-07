@@ -1,9 +1,9 @@
 # Vize Kısmı
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Ch1.pdf](./Ch1.pdf)
 - [Ch2.pdf](./Ch2.pdf)
@@ -15,5 +15,5 @@
 - [Ch8.pdf](./Ch8.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

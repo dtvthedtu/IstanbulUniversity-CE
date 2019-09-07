@@ -1,9 +1,9 @@
 # Öğrenci notları
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [and.pdf](./and.pdf)
 - [CADET.pdf](./CADET.pdf)
@@ -16,5 +16,5 @@
 - [Xzy.pdf](./Xzy.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

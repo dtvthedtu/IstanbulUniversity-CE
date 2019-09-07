@@ -1,9 +1,9 @@
 # Vize
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [GI01.pdf](./GI01.pdf)
 - [GI02_1.pdf](./GI02_1.pdf)
@@ -17,5 +17,5 @@
 - [python101.pdf](./python101.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

@@ -1,9 +1,9 @@
 # Vize
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [ch1.pdf](./ch1.pdf)
 - [ch2.pdf](./ch2.pdf)
@@ -12,5 +12,5 @@
 - [ch6.pdf](./ch6.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

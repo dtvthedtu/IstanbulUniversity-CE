@@ -1,9 +1,9 @@
 # Vize
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Lec1.Introduction.pdf](./Lec1.Introduction.pdf)
 - [Lec2.Agents.pdf](./Lec2.Agents.pdf)
@@ -11,5 +11,5 @@
 - [Lec4.Search2.pdf](./Lec4.Search2.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

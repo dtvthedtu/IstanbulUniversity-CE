@@ -1,9 +1,9 @@
 # Odev4
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [database.sql](./database.sql)
 - [odev4-cozum.odt](./odev4-cozum.odt)
@@ -13,5 +13,5 @@
 - [sql-answers.sql](./sql-answers.sql)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

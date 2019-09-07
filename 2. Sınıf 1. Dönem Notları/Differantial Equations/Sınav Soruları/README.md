@@ -1,12 +1,12 @@
 # Sınav Soruları
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Karma DE.pdf](./Karma%20DE.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

@@ -1,9 +1,9 @@
 # Vize
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [1- Overview.pdf](./1-%20Overview.pdf)
 - [2- Myth.pdf](./2-%20Myth.pdf)
@@ -12,5 +12,5 @@
 - [TEST TYPES.pdf](./TEST%20TYPES.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

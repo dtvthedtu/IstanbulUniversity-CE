@@ -1,9 +1,9 @@
 # Vize
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [BufferedReader.pdf](./BufferedReader.pdf)
 - [Ders 1.pdf](./Ders%201.pdf)
@@ -13,5 +13,5 @@
 - [Ders 5.pdf](./Ders%205.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

@@ -1,9 +1,9 @@
 # Ders İçeriği
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Ders Kitabı AP.pdf](./Ders%20Kitab%C4%B1%20AP.pdf)
 - [Ders_BIMU4079_Ders1_20170223_288.pdf](./Ders_BIMU4079_Ders1_20170223_288.pdf)
@@ -14,5 +14,5 @@
 - [Proje Yakar Top.pdf](./Proje%20Yakar%20Top.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

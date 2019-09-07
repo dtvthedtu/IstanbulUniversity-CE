@@ -1,9 +1,9 @@
 # Vize
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Adlî Bilişim - 2.pdf](./Adl%C3%AE%20Bili%C5%9Fim%20-%202.pdf)
 - [Adlî Bilişim - 3.pdf](./Adl%C3%AE%20Bili%C5%9Fim%20-%203.pdf)
@@ -16,5 +16,5 @@
 - [BİYOMETRİK GÜVENLİK SİSTEMLERİ.pdf](./B%C4%B0YOMETR%C4%B0K%20G%C3%9CVENL%C4%B0K%20S%C4%B0STEMLER%C4%B0.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

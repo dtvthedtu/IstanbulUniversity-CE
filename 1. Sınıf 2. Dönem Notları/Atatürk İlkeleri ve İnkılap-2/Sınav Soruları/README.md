@@ -1,9 +1,9 @@
 # Sınav Soruları
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [1.jpeg](./1.jpeg)
 - [10.jpeg](./10.jpeg)
@@ -18,5 +18,5 @@
 - [9.jpeg](./9.jpeg)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

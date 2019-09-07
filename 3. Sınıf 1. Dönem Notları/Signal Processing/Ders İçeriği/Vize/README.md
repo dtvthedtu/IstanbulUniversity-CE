@@ -1,9 +1,9 @@
 # Vize
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [1-Signal 20.09 - 20180921_113849.pdf](./1-Signal%2020.09%20-%2020180921_113849.pdf)
 - [2-Signal 27.09 - 20180927_105450.pdf](./2-Signal%2027.09%20-%2020180927_105450.pdf)
@@ -14,5 +14,5 @@
 - [7-Signal 01.11 - 20181101_102728.pdf](./7-Signal%2001.11%20-%2020181101_102728.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

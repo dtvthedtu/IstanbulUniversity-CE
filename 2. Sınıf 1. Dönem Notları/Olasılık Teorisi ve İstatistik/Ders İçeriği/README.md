@@ -1,12 +1,12 @@
 # Ders İçeriği
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Ders Kitabı OTI.pdf](./Ders%20Kitab%C4%B1%20OTI.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

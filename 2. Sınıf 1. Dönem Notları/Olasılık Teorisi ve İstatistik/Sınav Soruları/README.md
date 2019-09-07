@@ -1,9 +1,9 @@
 # Sınav Soruları
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Ayrık olasılık daılım.pdf](./Ayr%C4%B1k%20olas%C4%B1l%C4%B1k%20da%C4%B1l%C4%B1m.pdf)
 - [olasilik-2010-final-cozumler.pdf](./olasilik-2010-final-cozumler.pdf)
@@ -30,5 +30,5 @@
 - [surekli-rdler-ornek-sorular.pdf](./surekli-rdler-ornek-sorular.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

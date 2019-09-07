@@ -1,9 +1,9 @@
 # Türkçe Kaynakar
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [4_Proses.pdf](./4_Proses.pdf)
 - [5_Is_Parcaciklari.pdf](./5_Is_Parcaciklari.pdf)
@@ -12,5 +12,5 @@
 - [9_Bellek Yonetimi.pdf](./9_Bellek%20Yonetimi.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

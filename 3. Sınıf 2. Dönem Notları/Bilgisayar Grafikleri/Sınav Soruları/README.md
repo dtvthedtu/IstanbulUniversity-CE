@@ -1,12 +1,12 @@
 # Sınav Soruları
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Final BG.pdf](./Final%20BG.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

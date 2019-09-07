@@ -1,9 +1,9 @@
 # Sınav Soruları
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [IMG-20171031-WA0015.jpg](./IMG-20171031-WA0015.jpg)
 - [IMG-20171031-WA0025.jpg](./IMG-20171031-WA0025.jpg)
@@ -46,5 +46,5 @@
 - [IMG-20171102-WA0010.jpg](./IMG-20171102-WA0010.jpg)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

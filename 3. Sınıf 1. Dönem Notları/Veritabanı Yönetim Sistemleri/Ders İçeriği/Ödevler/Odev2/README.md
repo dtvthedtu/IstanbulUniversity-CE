@@ -1,9 +1,9 @@
 # Odev2
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [odev2 aciklama.docx](./odev2%20aciklama.docx)
 - [odev2-merged.pdf](./odev2-merged.pdf)
@@ -12,5 +12,5 @@
 - [odev2.pdf](./odev2.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

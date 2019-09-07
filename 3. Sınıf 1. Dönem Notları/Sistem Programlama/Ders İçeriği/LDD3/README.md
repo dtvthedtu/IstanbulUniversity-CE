@@ -1,9 +1,9 @@
 # LDD3
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [1_COPYRIGHT.pdf](./1_COPYRIGHT.pdf)
 - [2_TableOfContents.pdf](./2_TableOfContents.pdf)
@@ -30,5 +30,5 @@
 - [TITLE.pdf](./TITLE.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

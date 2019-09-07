@@ -1,9 +1,9 @@
 # Slaytların Türkçesi
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [ch1.pdf](./ch1.pdf)
 - [ch2.pdf](./ch2.pdf)
@@ -14,5 +14,5 @@
 - [ch8.pdf](./ch8.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

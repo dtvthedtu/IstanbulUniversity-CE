@@ -1,9 +1,9 @@
 # Vize
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [ALGORITHMS.pdf](./ALGORITHMS.pdf)
 - [Algoritma Analizi.pdf](./Algoritma%20Analizi.pdf)
@@ -12,5 +12,5 @@
 - [BİG O.pdf](./B%C4%B0G%20O.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

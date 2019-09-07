@@ -1,9 +1,9 @@
 # Kodlar
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [driver.c](./driver.c)
 - [ebbchar.c](./ebbchar.c)
@@ -25,5 +25,5 @@
 - [writedev.c](./writedev.c)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

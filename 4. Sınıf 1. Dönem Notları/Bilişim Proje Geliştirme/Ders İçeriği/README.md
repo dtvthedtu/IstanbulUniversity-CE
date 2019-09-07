@@ -1,9 +1,9 @@
 # Ders İçeriği
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [BPG1- Giris.pdf](./BPG1-%20Giris.pdf)
 - [BPG2- Proje_Yasam_Dongusu.pdf](./BPG2-%20Proje_Yasam_Dongusu.pdf)
@@ -15,5 +15,5 @@
 - [BPG8_Tahmin_Yontemleri.pdf](./BPG8_Tahmin_Yontemleri.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

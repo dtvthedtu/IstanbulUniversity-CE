@@ -1,9 +1,9 @@
 # Vize
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [2. hafta.pdf](./2.%20hafta.pdf)
 - [3.hafta.pdf](./3.hafta.pdf)
@@ -13,5 +13,5 @@
 - [Giriş Dersi.pdf](./Giri%C5%9F%20Dersi.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

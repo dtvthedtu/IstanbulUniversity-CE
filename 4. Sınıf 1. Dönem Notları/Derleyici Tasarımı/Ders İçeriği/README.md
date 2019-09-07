@@ -1,9 +1,9 @@
 # Ders İçeriği
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [derleyici1.pdf](./derleyici1.pdf)
 - [derleyici2.pdf](./derleyici2.pdf)
@@ -15,5 +15,5 @@
 - [derleyici8.pdf](./derleyici8.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

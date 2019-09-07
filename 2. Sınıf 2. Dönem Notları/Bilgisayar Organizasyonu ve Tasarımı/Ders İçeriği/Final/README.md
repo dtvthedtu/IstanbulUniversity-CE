@@ -1,9 +1,9 @@
 # Final
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [BOT10.pdf](./BOT10.pdf)
 - [BOT11.pdf](./BOT11.pdf)
@@ -13,5 +13,5 @@
 - [BOT9.pdf](./BOT9.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

@@ -1,9 +1,9 @@
 # Final
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Lec10.System Architecture.pdf](./Lec10.System%20Architecture.pdf)
 - [Lec11.StateDiagrams.pdf](./Lec11.StateDiagrams.pdf)
@@ -12,5 +12,5 @@
 - [Lec9.Inheritance&Polymorphism.pdf](./Lec9.Inheritance%26Polymorphism.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

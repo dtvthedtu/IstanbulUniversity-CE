@@ -1,12 +1,12 @@
 # Karma İçerikler
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Finansta Bilişim Teknolojileri.rar](./Finansta%20Bili%C5%9Fim%20Teknolojileri.rar)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

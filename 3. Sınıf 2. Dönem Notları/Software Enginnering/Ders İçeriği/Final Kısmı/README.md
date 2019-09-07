@@ -1,9 +1,9 @@
 # Final Kısmı
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Ch11.pdf](./Ch11.pdf)
 - [Ch19.pdf](./Ch19.pdf)
@@ -13,5 +13,5 @@
 - [Lab Çalışmaları.pdf](./Lab%20%C3%87al%C4%B1%C5%9Fmalar%C4%B1.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

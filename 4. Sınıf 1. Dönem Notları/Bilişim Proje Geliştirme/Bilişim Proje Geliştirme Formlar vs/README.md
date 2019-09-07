@@ -1,9 +1,9 @@
 # Bilişim Proje Geliştirme Formlar vs
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [BilisimProjeGelistirmeOdevKonusu.pdf](./BilisimProjeGelistirmeOdevKonusu.pdf)
 - [BPG_KonuKabulListesi.pdf](./BPG_KonuKabulListesi.pdf)
@@ -12,5 +12,5 @@
 - [ProjeGelistirmeRaporOrnegi.pdf](./ProjeGelistirmeRaporOrnegi.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

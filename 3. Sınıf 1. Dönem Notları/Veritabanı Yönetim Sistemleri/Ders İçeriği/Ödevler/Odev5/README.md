@@ -1,9 +1,9 @@
 # Odev5
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [mongodbjava.rar](./mongodbjava.rar)
 - [Odev5.docx](./Odev5.docx)
@@ -11,5 +11,5 @@
 - [Odev5.pdf](./Odev5.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

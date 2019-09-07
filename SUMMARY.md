@@ -1,3 +1,5 @@
+<!--Index-->
+
 # Summary
 
 - [Istanbul University - CE](./README.md)
@@ -236,9 +238,5 @@
   - [Karışık Notlar](./5.1%20Kar%C4%B1%C5%9F%C4%B1k%20Notlar/README.md)
   - [PDFs](./PDFs/README.md)
 
-## ✨ Özenle Hazırladığım Diğer Dökümanlarım
 
-- [Kişisel Ansiklopedim](https://wiki.yemreak.com)
-- [İstanbul Üniversitesi - Bilgisayar Mühendisliği Notları](https://iuce.yemreak.com)
-- [Makine öğrenimi, Sinir Ağları ve Deep Learning üzerine çalışmalarım](https://ai.yemreak.com)
-- [React ve Firebase projem](https://github.com/yedhrab/YReact-Firebase)
+<!--Index-->

@@ -1,9 +1,9 @@
 # Sınav Soruları
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [COMPUTER NETWORKS FACEBOOK.pdf](./COMPUTER%20NETWORKS%20FACEBOOK.pdf)
 - [Final 2015 CNT.pdf](./Final%202015%20CNT.pdf)
@@ -15,5 +15,5 @@
 - [Çalışma 2017 CNT.pdf](./%C3%87al%C4%B1%C5%9Fma%202017%20CNT.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

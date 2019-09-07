@@ -1,12 +1,12 @@
 # Öğrenci Noltarı
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [Ders Notları.pdf](./Ders%20Notlar%C4%B1.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

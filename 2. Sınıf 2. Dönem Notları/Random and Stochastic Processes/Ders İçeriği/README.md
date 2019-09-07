@@ -1,9 +1,9 @@
 # Ders İçeriği
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [rsp 1.pdf](./rsp%201.pdf)
 - [rsp 2.pdf](./rsp%202.pdf)
@@ -13,5 +13,5 @@
 - [rsp 6.pdf](./rsp%206.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 

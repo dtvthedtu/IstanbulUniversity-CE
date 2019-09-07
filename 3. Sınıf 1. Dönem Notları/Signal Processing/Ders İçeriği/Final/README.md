@@ -1,9 +1,9 @@
 # Final
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
-## Harici Dosyalar
+## 🔗 Harici Dosyalar
 
 - [10-Signal 29.11 - 20181129_103829.pdf](./10-Signal%2029.11%20-%2020181129_103829.pdf)
 - [11-Signal 06.12 - 20181206_110138.pdf](./11-Signal%2006.12%20-%2020181206_110138.pdf)
@@ -12,5 +12,5 @@
 - [9-Signal 22.11 - 20181122_102145.pdf](./9-Signal%2022.11%20-%2020181122_102145.pdf)
 
 
-<!--HariciDosyalar-->
+<!--Index-->
 
