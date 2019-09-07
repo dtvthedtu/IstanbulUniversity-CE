@@ -1,4 +1,4 @@
-# 🗒 Faydalı Bilgiler
+# 📗 Faydalı Bilgiler
 
 ## Eğitmen Bilgileri
 

@@ -1,14 +1,12 @@
-# Ders Seçimi
+# 📙 Ders Seçimi
 
 🤵 Kişisel ders tavsiyelerim
 
 ## 🗽 Açıklama Olmadan Olmaz
 Başlık altında da belli ettiğim gibi **kişisel** tavsiyelerim olduğundan, doğru bulmayabilir ve katılmayabilirsiniz.
 
-- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki 👉 **Edit on Github** alanın fikirlerini belitebilirsiniz
+- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **[👉 Edit on Github](%F0%9F%93%99%20Ders%20Se%C3%A7imi)** alanından fikirlerinizi belitebilirsiniz
 - Formata (`markdown`'a) uygun şekilde öneride bulunursanız hoş olur 😊
-
- 
 
 ## 👨‍🏫 3. Sınıf 1. Dönem Ders Tavsiyeleri
 
