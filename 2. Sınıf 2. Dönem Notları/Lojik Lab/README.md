@@ -1,3 +1,3 @@
-# Lojik Devre Tasarımı Lab Notları <!-- omit in toc -->
+# Lojik Devre Tasarımı Lab Notları 
 
 > Yok 😅

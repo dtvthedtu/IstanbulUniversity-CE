@@ -1,4 +1,4 @@
-# Software Testing and Quality Final Notları <!-- omit in toc -->
+# Software Testing and Quality Final Notları 
 
 <!-- > *Yunus Emre Ak* ile çalışılmıştır. -->
 
@@ -25,7 +25,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 
 <div class="page"/>
 
-## İçerikler <!-- omit in toc -->
+## İçerikler 
 
 - [Web Üzerinde Test İşlemleri](#web-%C3%BCzerinde-test-i%CC%87%C5%9Flemleri)
   - [Functionality Testing (İşlevsellik Testi)](#functionality-testing-i%CC%87%C5%9Flevsellik-testi)

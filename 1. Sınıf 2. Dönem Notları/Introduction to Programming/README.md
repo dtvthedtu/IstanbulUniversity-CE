@@ -1,4 +1,4 @@
-# Introduction to Programming <!-- omit in toc -->
+# Introduction to Programming 
 
 ## Workshop Notları
 

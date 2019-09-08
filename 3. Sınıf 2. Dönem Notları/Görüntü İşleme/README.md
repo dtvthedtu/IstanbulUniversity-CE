@@ -1,4 +1,4 @@
-# Görüntü İşleme <!-- omit in toc -->
+# Görüntü İşleme 
 
 ## Ders Bilgisi
 

@@ -1,3 +1,3 @@
-# Mühendislik Ekonomisi <!-- omit in toc -->
+# Mühendislik Ekonomisi 
 
 > Yok 😅

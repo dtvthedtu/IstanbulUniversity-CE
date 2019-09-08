@@ -1,4 +1,4 @@
-# Artifical Intelligence <!-- omit in toc -->
+# Artifical Intelligence 
 
 ## Sınav Bilgileri
 

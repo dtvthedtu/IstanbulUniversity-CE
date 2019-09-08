@@ -1,4 +1,4 @@
-# İş Sağlığı ve Güvenliği <!-- omit in toc -->
+# İş Sağlığı ve Güvenliği 
 
 ## Ders Bilgileri
 

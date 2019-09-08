@@ -1,3 +1,3 @@
-# Bilgisayar Organizasyonu ve Tasarımı <!-- omit in toc -->
+# Bilgisayar Organizasyonu ve Tasarımı 
 
 > Yok 😅

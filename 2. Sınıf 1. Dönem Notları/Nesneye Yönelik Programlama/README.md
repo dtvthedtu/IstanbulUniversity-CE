@@ -1,4 +1,4 @@
-# Nesneye Yönelik Programlama <!-- omit in toc -->
+# Nesneye Yönelik Programlama 
 
 ## Ders Bilgileri
 

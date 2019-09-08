@@ -1,4 +1,4 @@
-# File Organization <!-- omit in toc -->
+# File Organization 
 
 ## Ders Bilgileri
 

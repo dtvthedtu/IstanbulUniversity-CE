@@ -1,3 +1,3 @@
-# Sistem Programlama <!-- omit in toc -->
+# Sistem Programlama 
 
 > Yok 😅

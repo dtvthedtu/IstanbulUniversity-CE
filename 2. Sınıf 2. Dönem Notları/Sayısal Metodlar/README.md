@@ -1,4 +1,4 @@
-# Sayısal Metodlar  <!-- omit in toc -->
+# Sayısal Metodlar  
 
 ## Ders Bilgisi
 

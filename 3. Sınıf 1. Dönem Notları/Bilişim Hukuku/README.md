@@ -1,3 +1,3 @@
-# Bilişim Hukuku <!-- omit in toc -->
+# Bilişim Hukuku 
 
 > Yok 😅

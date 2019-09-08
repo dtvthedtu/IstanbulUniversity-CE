@@ -1,4 +1,4 @@
-# Bilgisayar Grafikileri <!-- omit in toc -->
+# Bilgisayar Grafikileri 
 
 ## Vize Bilgileri
 

@@ -1,3 +1,3 @@
-# Derleyici Tasarımı <!-- omit in toc -->
+# Derleyici Tasarımı 
 
 > Yok 😅

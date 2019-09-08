@@ -1,4 +1,4 @@
-# Bilgisayar Mimarisi <!-- omit in toc -->
+# Bilgisayar Mimarisi 
 
 ## Ders Bilgisi
 

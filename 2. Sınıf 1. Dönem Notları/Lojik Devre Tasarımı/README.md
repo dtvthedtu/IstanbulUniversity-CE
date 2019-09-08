@@ -1,4 +1,4 @@
-# Lojik Devre Tasarımı <!-- omit in toc -->
+# Lojik Devre Tasarımı 
 
 ## Ders Bilgileri
 

@@ -1,4 +1,4 @@
-# Veri Yapıları <!-- omit in toc -->
+# Veri Yapıları 
 
 Bu yazı hala aktarım aşamasındadır, kaynak için [buraya](https://www.yemreak.com/2017/10/veri-yaplar.html) bakabilirsin.
 

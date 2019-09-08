@@ -1,4 +1,4 @@
-# Software Testing and Quality <!-- omit in toc -->
+# Software Testing and Quality 
 
 ## Ders Bilgisi
 

@@ -1,4 +1,4 @@
-# Programming Applicaiton  <!-- omit in toc -->
+# Programming Applicaiton  
 
 ## Ders Bilgileri
 

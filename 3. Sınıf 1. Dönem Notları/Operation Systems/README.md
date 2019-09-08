@@ -1,4 +1,4 @@
-# Operation Systems <!-- omit in toc -->
+# Operation Systems 
 
 ## Vize Bilgileri
 

@@ -1,3 +1,3 @@
-# Mobile Programming <!-- omit in toc -->
+# Mobile Programming 
 
 > Yok 😅

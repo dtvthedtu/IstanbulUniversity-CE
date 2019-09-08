@@ -1,3 +1,3 @@
-# Calculus 2 <!-- omit in toc -->
+# Calculus 2 
 
 > Yok 😅

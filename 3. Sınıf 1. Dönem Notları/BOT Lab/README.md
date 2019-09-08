@@ -1,4 +1,4 @@
-# Bilgisayar Organizasyonu ve Tasarımı Lab <!-- omit in toc -->
+# Bilgisayar Organizasyonu ve Tasarımı Lab 
 
 ## Ders Bilgileri
 

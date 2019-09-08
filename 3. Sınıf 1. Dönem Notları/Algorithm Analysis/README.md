@@ -1,4 +1,4 @@
-# Algorithm Analysis <!-- omit in toc -->
+# Algorithm Analysis 
 
 ## Vize Bilgileri
 

@@ -1,4 +1,4 @@
-# İş Sağlığı ve Güvenli Vize Notları <!-- omit in toc -->
+# İş Sağlığı ve Güvenli Vize Notları 
 
 Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
 
@@ -23,7 +23,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 
 <div class="page"/>
 
-## İçerikler <!-- omit in toc -->
+## İçerikler 
 
 - [Ön Bilgilendirme](#%C3%B6n-bilgilendirme)
 - [İlk Çalışmalar](#i%CC%87lk-%C3%A7al%C4%B1%C5%9Fmalar)

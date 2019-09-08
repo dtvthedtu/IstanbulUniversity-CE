@@ -1,3 +1,3 @@
-# Veritabanı Yönetim Sistemleri <!-- omit in toc -->
+# Veritabanı Yönetim Sistemleri 
 
 > Yok 😅

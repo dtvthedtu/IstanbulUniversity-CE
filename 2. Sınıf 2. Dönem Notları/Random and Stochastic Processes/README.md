@@ -1,3 +1,3 @@
-# Random and Stochastic Processes <!-- omit in toc -->
+# Random and Stochastic Processes 
 
 > Yok 😅

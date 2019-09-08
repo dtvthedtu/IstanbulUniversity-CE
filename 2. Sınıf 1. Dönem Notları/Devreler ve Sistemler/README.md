@@ -1,4 +1,4 @@
-# Devreler ve Sistemler <!-- omit in toc -->
+# Devreler ve Sistemler 
 
 ## Ders Bilgileri
 

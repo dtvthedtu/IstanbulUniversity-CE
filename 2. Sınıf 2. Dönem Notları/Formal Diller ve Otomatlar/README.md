@@ -1,4 +1,4 @@
-# Formal Diller ve Otomatlar <!-- omit in toc -->
+# Formal Diller ve Otomatlar 
 
 ## 2018 Final Sınavı Bilgileri
 

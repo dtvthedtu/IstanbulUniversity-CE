@@ -1,4 +1,4 @@
-# Bilgisayar Mimarisi Final Notları <!-- omit in toc -->
+# Bilgisayar Mimarisi Final Notları 
 
 Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
 
@@ -23,7 +23,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 
 <div class="page"/>
 
-## İçerikler <!-- omit in toc -->
+## İçerikler 
 
 - [Pipeline](#pipeline)
   - [Pipeline Hazards](#pipeline-hazards)

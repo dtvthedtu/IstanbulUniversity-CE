@@ -1,3 +1,3 @@
-# Kablosuz Haberleşme Ağları <!-- omit in toc -->
+# Kablosuz Haberleşme Ağları 
 
 > Yok 😅

@@ -1,4 +1,4 @@
-# Software Enginnering <!-- omit in toc -->
+# Software Enginnering 
 
 ## Ders Bilgileri
 

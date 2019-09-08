@@ -1,4 +1,4 @@
-# Görüntü İşleme Vize Notları <!-- omit in toc -->
+# Görüntü İşleme Vize Notları 
 
 Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
 
@@ -23,7 +23,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 
 <div class="page"/>
 
-## İçerikler <!-- omit in toc -->
+## İçerikler 
 
 - [Ders Notlarım Hakkında](#ders-notlar%C4%B1m-hakk%C4%B1nda)
 - [Sayısal Görüntü Örnekleme ve Niceleme, İkili Görüntü İşleme](#say%C4%B1sal-g%C3%B6r%C3%BCnt%C3%BC-%C3%B6rnekleme-ve-niceleme-i%CC%87kili-g%C3%B6r%C3%BCnt%C3%BC-i%CC%87%C5%9Fleme)

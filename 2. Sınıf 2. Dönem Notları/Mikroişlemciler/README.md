@@ -1,3 +1,3 @@
-# Mikroişlemciler <!-- omit in toc -->
+# Mikroişlemciler 
 
 > Yok 😅

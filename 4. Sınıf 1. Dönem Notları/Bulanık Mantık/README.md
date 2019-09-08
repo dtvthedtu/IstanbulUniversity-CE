@@ -1,3 +1,3 @@
-# Bulanık Mantık <!-- omit in toc -->
+# Bulanık Mantık 
 
 > Yok 😅

@@ -1,4 +1,4 @@
-# Computer Networks and Technologies <!-- omit in toc -->
+# Computer Networks and Technologies 
 
 ### Vize Bilgileri
 

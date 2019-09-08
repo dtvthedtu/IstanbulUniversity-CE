@@ -1,4 +1,4 @@
-# Data Comminication <!-- omit in toc -->
+# Data Comminication 
 
 ## Final Bilgileri
 

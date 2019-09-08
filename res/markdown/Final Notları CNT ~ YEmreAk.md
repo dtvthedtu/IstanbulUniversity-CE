@@ -1,4 +1,4 @@
-# Computer Networks and Technologies Final Notları <!-- omit in toc -->
+# Computer Networks and Technologies Final Notları 
 
 Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
 
@@ -25,7 +25,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 
 <div class="page"/>
 
-## İçerikler <!-- omit in toc -->
+## İçerikler 
 
 - [Network Layer](#network-layer)
   - [Forward & Route](#forward--route)

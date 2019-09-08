@@ -1,4 +1,4 @@
-# Computer Networks and Technologies Vize Notları <!-- omit in toc -->
+# Computer Networks and Technologies Vize Notları 
 
 Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
 
@@ -23,7 +23,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 
 <div class="page"/>
 
-## İçerikler <!-- omit in toc -->
+## İçerikler 
 
 - [Temel Terimler](#temel-terimler)
 - [Network Structure (Ağ Yapısı)](#network-structure-a%C4%9F-yap%C4%B1s%C4%B1)

@@ -1,4 +1,4 @@
-# İnformasyon Güvenliği ve Kriptoloji <!-- omit in toc -->
+# İnformasyon Güvenliği ve Kriptoloji 
 
 ## Ders Bilgileri
 

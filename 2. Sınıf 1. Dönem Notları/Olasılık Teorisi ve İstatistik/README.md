@@ -1,4 +1,4 @@
-# Olasılık Teorisi ve İstatistik <!-- omit in toc -->
+# Olasılık Teorisi ve İstatistik 
 
 ## Sınav Bilgileri
 

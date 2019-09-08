@@ -1,3 +1,3 @@
-# Bilişim Proje Geliştirme <!-- omit in toc -->
+# Bilişim Proje Geliştirme 
 
 > Yok 😅

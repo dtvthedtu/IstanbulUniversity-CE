@@ -1,4 +1,4 @@
-# Signal Processing <!-- omit in toc -->
+# Signal Processing 
 
 ## Ders Notları ~ YEmreAk Bilgileri
 

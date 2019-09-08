@@ -1,4 +1,4 @@
-# Fizik 2 <!-- omit in toc -->
+# Fizik 2 
 
 ## Ders Bilgileri
 

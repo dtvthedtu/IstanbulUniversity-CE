@@ -1,4 +1,4 @@
-# Web Testing <!-- omit in toc -->
+# Web Testing 
 
 Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](https://choosealicense.com/licenses/) bakmanda fayda var.
 
@@ -25,7 +25,7 @@ Bu yazı **MIT** lisanslıdır. Lisanslar hakkında bilgi almak için [buraya](h
 
 <div class="page"/>
 
-## İçerikler <!-- omit in toc -->
+## İçerikler 
 
 - [Web Testing Nedir](#web-testing-nedir)
 - [Functionality Testing (İşlevsellik Testi)](#functionality-testing-i%CC%87%C5%9Flevsellik-testi)

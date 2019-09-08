@@ -1,3 +1,3 @@
-# Linear Algebra <!-- omit in toc -->
+# Linear Algebra 
 
 > Yok 😅

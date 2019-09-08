@@ -1,4 +1,4 @@
-# Differantial Equations <!-- omit in toc -->
+# Differantial Equations 
 
 ## Sınav Bilgileri
 
