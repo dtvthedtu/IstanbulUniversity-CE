@@ -240,3 +240,10 @@
 
 
 <!--Index-->
+
+
+## ✨ Özenle Hazırladığım Diğer Dökümanlarım
+
+- [Kişisel Ansiklopedim](https://wiki.yemreak.com)
+- [Yapay Zeka Notlarım](https://ai.yemreak.com/)
+- [React ve Firebase projem](https://github.com/yedhrab/YReact-Firebase)
