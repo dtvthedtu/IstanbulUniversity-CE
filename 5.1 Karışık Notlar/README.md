@@ -1,5 +1,8 @@
-# Karışık Notlar
+---
+description: Öğrencilerin ve derslerin gruplandırılmamış notlarını içerir 📚 (yani karışık kuruşuk 🥴)
+---
 
+# 📚 Karışık Notlar
 
 <!--Index-->
 

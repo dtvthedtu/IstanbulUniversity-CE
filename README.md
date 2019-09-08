@@ -2,7 +2,7 @@
 description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını içerir 📚
 ---
 
-# Istanbul University - CE
+# 🏫 Istanbul University - CE
 
 ## 📢 Duyurular
 
