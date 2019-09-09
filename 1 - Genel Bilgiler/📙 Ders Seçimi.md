@@ -1,6 +1,8 @@
-# 📙 Ders Seçimi
+---
+description: 🤵 Kişisel ders tavsiyelerim
+---
 
-🤵 Kişisel ders tavsiyelerim
+# 📙 Ders Seçimi
 
 ## 🗽 Açıklama Olmadan Olmaz
 Başlık altında da belli ettiğim gibi **kişisel** tavsiyelerim olduğundan, doğru bulmayabilir ve katılmayabilirsiniz.
