@@ -7,7 +7,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 ## 📢 Duyurular
 
 - [YEmreAk](https://yemreak.com/) domainine bağlandı 🚀
-- Ders seçimi tarihi **9 Eylül**'dür
+- Ders seçimi tarihi **9 Eylül Saat: 14:00**'dür ([duyurusu](https://muhendislik.istanbulc.edu.tr/tr/duyuru/kayit-yenileme-duyurusu-47004A00510070006300530071006F005F0052006A0039007900700046006200610041004F003200370077003200))
 
 ## 🌳 Temel Bilgiler
 
